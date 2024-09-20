@@ -1,0 +1,4419 @@
+index,first_name,second_name,id,year
+0,Shkodran,Mustafi,1,2019-20
+1,Héctor,Bellerín,2,2019-20
+2,Sead,Kolasinac,3,2019-20
+3,Ainsley,Maitland-Niles,4,2019-20
+4,Sokratis,Papastathopoulos,5,2019-20
+5,Nacho,Monreal,6,2019-20
+6,Laurent,Koscielny,7,2019-20
+7,Konstantinos,Mavropanos,8,2019-20
+8,Carl,Jenkinson,9,2019-20
+9,Rob,Holding,10,2019-20
+10,Pierre-Emerick,Aubameyang,11,2019-20
+11,Alexandre,Lacazette,12,2019-20
+12,Edward,Nketiah,13,2019-20
+13,Bernd,Leno,14,2019-20
+14,Mesut,Özil,15,2019-20
+15,Henrikh,Mkhitaryan,16,2019-20
+16,Granit,Xhaka,18,2019-20
+17,Lucas,Torreira,19,2019-20
+18,Mohamed,Elneny,20,2019-20
+19,Matteo,Guendouzi,21,2019-20
+20,David,Luiz Moreira Marinho,106,2019-20
+21,Emiliano,Martínez,427,2019-20
+22,Calum,Chambers,467,2019-20
+23,Daniel,Ceballos Fernández,469,2019-20
+24,Cédric,Soares,486,2019-20
+25,Nicolas,Pépé,488,2019-20
+26,Reiss,Nelson,489,2019-20
+27,Joseph,Willock,490,2019-20
+28,Gabriel Teodoro,Martinelli Silva,504,2019-20
+29,Kieran,Tierney,515,2019-20
+30,Bukayo,Saka,541,2019-20
+31,Emile,Smith Rowe,576,2019-20
+32,Tyreece,John-Jules,585,2019-20
+33,Pablo,Marí,617,2019-20
+34,Zech,Medley,636,2019-20
+35,Matt,Macey,646,2019-20
+36,Matthew,Smith,647,2019-20
+37,Ahmed,El Mohamady,22,2019-20
+38,James,Chester,23,2019-20
+39,Neil,Taylor,24,2019-20
+40,Kortney,Hause,25,2019-20
+41,Jonathan,Kodjia,26,2019-20
+42,Ørjan,Nyland,27,2019-20
+43,Conor,Hourihane,28,2019-20
+44,Jack,Grealish,29,2019-20
+45,Anwar,El Ghazi,30,2019-20
+46,John,McGinn,31,2019-20
+47,Andre,Green,32,2019-20
+48,Birkir,Bjarnason,33,2019-20
+49,Keinan,Davis,34,2019-20
+50,Henri,Lansbury,35,2019-20
+51,José Ignacio,Peleteiro Romallo,36,2019-20
+52,Tom,Heaton,94,2019-20
+53,Daniel,Drinkwater,120,2019-20
+54,Matt,Targett,309,2019-20
+55,Wesley,Moraes,428,2019-20
+56,Jed,Steer,429,2019-20
+57,Tyrone,Mings,445,2019-20
+58,Ezri,Konsa Ngoyo,452,2019-20
+59,Bjorn,Engels,455,2019-20
+60,Frédéric,Guilbert,458,2019-20
+61,Mahmoud Ahmed,Ibrahim Hassan,465,2019-20
+62,Douglas Luiz,Soares de Paulo,470,2019-20
+63,Lovre,Kalinic,474,2019-20
+64,Marvelous,Nakamba,491,2019-20
+65,Indiana,Vassilev,600,2019-20
+66,José,Reina,603,2019-20
+67,Mbwana,Samatta,613,2019-20
+68,Borja,González Tomás,623,2019-20
+69,Kaine,Hayden,659,2019-20
+70,Steve,Cook,58,2019-20
+71,Nathan,Aké,59,2019-20
+72,Charlie,Daniels,60,2019-20
+73,Chris,Mepham,61,2019-20
+74,Simon,Francis,62,2019-20
+75,Adam,Smith,63,2019-20
+76,Lloyd,Kelly,64,2019-20
+77,Diego,Rico,65,2019-20
+78,Jack,Simpson,66,2019-20
+79,Callum,Wilson,67,2019-20
+80,Joshua,King,68,2019-20
+81,Dominic,Solanke,69,2019-20
+82,Sam,Surridge,71,2019-20
+83,Asmir,Begovic,72,2019-20
+84,Artur,Boruc,73,2019-20
+85,Mark,Travers,74,2019-20
+86,Ryan,Fraser,75,2019-20
+87,David,Brooks,76,2019-20
+88,Junior,Stanislas,77,2019-20
+89,Jordon,Ibe,78,2019-20
+90,Lewis,Cook,79,2019-20
+91,Andrew,Surman,80,2019-20
+92,Dan,Gosling,81,2019-20
+93,Jefferson,Lerma,82,2019-20
+94,Jack,Stacey,446,2019-20
+95,Philip,Billing,476,2019-20
+96,Arnaut,Danjuma Groeneveld,492,2019-20
+97,Aaron,Ramsdale,494,2019-20
+98,Harry,Wilson,505,2019-20
+99,Christian,Saydee,564,2019-20
+100,Gavin,Kilkenny,565,2019-20
+101,Mihai-Alexandru,Dobre,574,2019-20
+102,Shane,Duffy,37,2019-20
+103,Martín,Montoya,38,2019-20
+104,Bernardo,Fernandes da Silva Junior,39,2019-20
+105,Leon,Balogun,40,2019-20
+106,Gaëtan,Bong,41,2019-20
+107,Lewis,Dunk,42,2019-20
+108,Matthew,Clarke,43,2019-20
+109,Glenn,Murray,44,2019-20
+110,Jürgen,Locadia,45,2019-20
+111,Florin,Andone,46,2019-20
+112,Mathew,Ryan,47,2019-20
+113,David,Button,48,2019-20
+114,Pascal,Groß,49,2019-20
+115,Alireza,Jahanbakhsh,50,2019-20
+116,José Heriberto,Izquierdo Mena,51,2019-20
+117,Anthony,Knockaert,52,2019-20
+118,Yves,Bissouma,53,2019-20
+119,Davy,Pröpper,54,2019-20
+120,Solomon,March,55,2019-20
+121,Beram,Kayal,56,2019-20
+122,Dale,Stephens,57,2019-20
+123,Leandro,Trossard,421,2019-20
+124,Dan,Burn,475,2019-20
+125,Adam,Webster,493,2019-20
+126,Neal,Maupay,502,2019-20
+127,Aaron,Mooy,516,2019-20
+128,Aaron,Connolly,534,2019-20
+129,Tudor,Baluta,536,2019-20
+130,Steven,Alzate,537,2019-20
+131,Ezequiel,Schelotto,546,2019-20
+132,Tariq,Lamptey,586,2019-20
+133,Alexis,Mac Allister,627,2019-20
+134,Alex,Cochrane,666,2019-20
+135,Ben,Mee,83,2019-20
+136,James,Tarkowski,84,2019-20
+137,Matthew,Lowton,85,2019-20
+138,Phil,Bardsley,86,2019-20
+139,Charlie,Taylor,87,2019-20
+140,Kevin,Long,88,2019-20
+141,Ben,Gibson,89,2019-20
+142,Ashley,Barnes,90,2019-20
+143,Chris,Wood,91,2019-20
+144,Matej,Vydra,92,2019-20
+145,Nick,Pope,93,2019-20
+146,Joe,Hart,95,2019-20
+147,Johann Berg,Gudmundsson,96,2019-20
+148,Dwight,McNeil,97,2019-20
+149,Robbie,Brady,98,2019-20
+150,Steven,Defour,99,2019-20
+151,Jeff,Hendrick,100,2019-20
+152,Ashley,Westwood,101,2019-20
+153,Jack,Cork,102,2019-20
+154,Aaron,Lennon,430,2019-20
+155,Erik,Pieters,447,2019-20
+156,Jay,Rodriguez,451,2019-20
+157,Bailey,Peacock-Farrell,495,2019-20
+158,Mace,Goodridge,571,2019-20
+159,Anthony,Driscoll-Glennon,572,2019-20
+160,Abd-Al-Ali Morakinyo Olaposi,Koiki,596,2019-20
+161,Josh,Brownhill,620,2019-20
+162,Jimmy,Dunne,638,2019-20
+163,Bobby,Thomas,639,2019-20
+164,Max,Thompson,640,2019-20
+165,Lukas,Jensen,641,2019-20
+166,Josh,Benson,653,2019-20
+167,Joel,Mumbongo,665,2019-20
+168,Marcos,Alonso,103,2019-20
+169,Antonio,Rüdiger,104,2019-20
+170,César,Azpilicueta,105,2019-20
+171,Emerson,Palmieri dos Santos,107,2019-20
+172,Andreas,Christensen,108,2019-20
+173,Davide,Zappacosta,109,2019-20
+174,Olivier,Giroud,110,2019-20
+175,Kepa,Arrizabalaga,111,2019-20
+176,Willy,Caballero,112,2019-20
+177,Willian,Borges Da Silva,113,2019-20
+178,Pedro,Rodríguez Ledesma,114,2019-20
+179,Ruben,Loftus-Cheek,115,2019-20
+180,Callum,Hudson-Odoi,116,2019-20
+181,Ross,Barkley,117,2019-20
+182,Jorge Luiz,Frello Filho,118,2019-20
+183,N'Golo,Kanté,119,2019-20
+184,Ethan,Ampadu,121,2019-20
+185,Christian,Pulisic,431,2019-20
+186,Mateo,Kovacic,432,2019-20
+187,Kurt,Zouma,459,2019-20
+188,Tammy,Abraham,460,2019-20
+189,Michy,Batshuayi,461,2019-20
+190,Robert Kenedy,Nunes do Nascimento,462,2019-20
+191,Mason,Mount,463,2019-20
+192,Reece,James,506,2019-20
+193,Fikayo,Tomori,529,2019-20
+194,Billy,Gilmour,533,2019-20
+195,Addji Keaninkin Marc-Israel,Guehi,545,2019-20
+196,Faustino,Anjorin,630,2019-20
+197,Armando,Broja,631,2019-20
+198,Lewis,Bate,657,2019-20
+199,Patrick,van Aanholt,123,2019-20
+200,James,Tomkins,124,2019-20
+201,Mamadou,Sakho,125,2019-20
+202,Joel,Ward,126,2019-20
+203,Scott,Dann,127,2019-20
+204,Martin,Kelly,128,2019-20
+205,Christian,Benteke,129,2019-20
+206,Connor,Wickham,130,2019-20
+207,Vicente,Guaita,131,2019-20
+208,Wayne,Hennessey,132,2019-20
+209,Wilfried,Zaha,133,2019-20
+210,Luka,Milivojevic,134,2019-20
+211,Andros,Townsend,135,2019-20
+212,Max,Meyer,136,2019-20
+213,Jeffrey,Schlupp,137,2019-20
+214,James,McArthur,138,2019-20
+215,Cheikhou,Kouyaté,139,2019-20
+216,Luke,Dreher,140,2019-20
+217,James,McCarthy,157,2019-20
+218,Jordan,Ayew,468,2019-20
+219,Gary,Cahill,503,2019-20
+220,Víctor,Camarasa,510,2019-20
+221,Jairo,Riedewald,539,2019-20
+222,Stephen,Henderson,556,2019-20
+223,Sam,Woods,578,2019-20
+224,Tyrick,Mitchell,579,2019-20
+225,Brandon,Pierrick,580,2019-20
+226,James,Daly,581,2019-20
+227,Nya,Kirby,588,2019-20
+228,Giovanni,McGregor,608,2019-20
+229,Nikola,Tavares,635,2019-20
+230,John-Kymani,Gordon,668,2019-20
+231,Alex,Iwobi,17,2019-20
+232,Lucas,Digne,141,2019-20
+233,Yerry,Mina,142,2019-20
+234,Michael,Keane,143,2019-20
+235,Seamus,Coleman,144,2019-20
+236,Leighton,Baines,145,2019-20
+237,Cenk,Tosun,146,2019-20
+238,Dominic,Calvert-Lewin,147,2019-20
+239,Jordan,Pickford,148,2019-20
+240,Maarten,Stekelenburg,149,2019-20
+241,Richarlison,de Andrade,150,2019-20
+242,Gylfi,Sigurdsson,151,2019-20
+243,Bernard,Anício Caldeira Duarte,152,2019-20
+244,Theo,Walcott,153,2019-20
+245,Tom,Davies,154,2019-20
+246,Ademola,Lookman,155,2019-20
+247,Idrissa,Gueye,156,2019-20
+248,Morgan,Schneiderlin,158,2019-20
+249,Fabian,Delph,205,2019-20
+250,André Filipe,Tavares Gomes,422,2019-20
+251,Lewis,Gibson,477,2019-20
+252,Mason,Holgate,478,2019-20
+253,Jonas,Lössl,479,2019-20
+254,Moise,Kean,496,2019-20
+255,Jean-Philippe,Gbamin,497,2019-20
+256,Djibril,Sidibé,511,2019-20
+257,Beni,Baningime,557,2019-20
+258,Anthony,Gordon,561,2019-20
+259,Oumar,Niasse,570,2019-20
+260,Rhu-endly,Martina,577,2019-20
+261,João Manuel,Neves Virgínia,629,2019-20
+262,Jarrad,Branthwaite,637,2019-20
+263,Ellis,Simms,667,2019-20
+264,Ricardo Domingos,Barbosa Pereira,159,2019-20
+265,Benjamin,Chilwell,161,2019-20
+266,Jonny,Evans,162,2019-20
+267,Christian,Fuchs,163,2019-20
+268,Çaglar,Söyüncü,164,2019-20
+269,Wes,Morgan,165,2019-20
+270,Jamie,Vardy,166,2019-20
+271,Kelechi,Iheanacho,167,2019-20
+272,Kasper,Schmeichel,168,2019-20
+273,Eldin,Jakupovic,169,2019-20
+274,Danny,Ward,170,2019-20
+275,James,Maddison,171,2019-20
+276,Harvey,Barnes,172,2019-20
+277,Rachid,Ghezzal,173,2019-20
+278,Marc,Albrighton,174,2019-20
+279,Demarai,Gray,175,2019-20
+280,Wilfred,Ndidi,176,2019-20
+281,Matty,James,177,2019-20
+282,Daniel,Amartey,178,2019-20
+283,Nampalys,Mendy,179,2019-20
+284,Hamza,Choudhury,180,2019-20
+285,Ayoze,Pérez,265,2019-20
+286,Ryan,Bennett,404,2019-20
+287,James,Justin,433,2019-20
+288,Youri,Tielemans,448,2019-20
+289,Andy,King,480,2019-20
+290,Dennis,Praet,517,2019-20
+291,Filip,Benkovic,597,2019-20
+292,Luke,Thomas,660,2019-20
+293,George,Hirst,661,2019-20
+294,Darnell,Johnson,662,2019-20
+295,Andrew,Robertson,181,2019-20
+296,Trent,Alexander-Arnold,182,2019-20
+297,Virgil,van Dijk,183,2019-20
+298,Joseph,Gomez,184,2019-20
+299,Joel,Matip,185,2019-20
+300,Dejan,Lovren,186,2019-20
+301,Roberto,Firmino,187,2019-20
+302,Divock,Origi,188,2019-20
+303,Alisson,Ramses Becker,189,2019-20
+304,Simon,Mignolet,190,2019-20
+305,Mohamed,Salah,191,2019-20
+306,Sadio,Mané,192,2019-20
+307,Alex,Oxlade-Chamberlain,193,2019-20
+308,Xherdan,Shaqiri,194,2019-20
+309,Adam,Lallana,195,2019-20
+310,Naby,Keita,196,2019-20
+311,Fabio Henrique,Tavares,197,2019-20
+312,Jordan,Henderson,198,2019-20
+313,Georginio,Wijnaldum,199,2019-20
+314,James,Milner,200,2019-20
+315,Rafael,Camacho,201,2019-20
+316,Rhian,Brewster,464,2019-20
+317,Adrián,San Miguel del Castillo,526,2019-20
+318,Andy,Lonergan,530,2019-20
+319,Caoimhin,Kelleher,531,2019-20
+320,Harvey,Elliott,550,2019-20
+321,Curtis,Jones,569,2019-20
+322,Neco,Williams,575,2019-20
+323,Nathaniel,Phillips,589,2019-20
+324,Takumi,Minamino,590,2019-20
+325,Ki-Jana,Hoever,628,2019-20
+326,Aymeric,Laporte,202,2019-20
+327,Kyle,Walker,203,2019-20
+328,Benjamin,Mendy,204,2019-20
+329,Oleksandr,Zinchenko,206,2019-20
+330,John,Stones,207,2019-20
+331,Nicolás,Otamendi,208,2019-20
+332,Danilo Luiz,da Silva,209,2019-20
+333,Sergio,Agüero,210,2019-20
+334,Gabriel Fernando,de Jesus,211,2019-20
+335,Ederson,Santana de Moraes,212,2019-20
+336,Claudio,Bravo,213,2019-20
+337,Raheem,Sterling,214,2019-20
+338,Kevin,De Bruyne,215,2019-20
+339,Leroy,Sané,216,2019-20
+340,Riyad,Mahrez,217,2019-20
+341,Bernardo Mota,Veiga de Carvalho e Silva,218,2019-20
+342,David,Silva,219,2019-20
+343,Phil,Foden,220,2019-20
+344,Fernando,Luiz Rosa,221,2019-20
+345,Ilkay,Gündogan,222,2019-20
+346,José Ángel,Esmorís Tasende,440,2019-20
+347,Rodrigo,Hernandez,443,2019-20
+348,João Pedro Cavaco,Cancelo,518,2019-20
+349,Eric,Garcia,544,2019-20
+350,Scott,Carson,562,2019-20
+351,Taylor,Harwood-Bellis,642,2019-20
+352,Cole,Palmer,643,2019-20
+353,Tommy,Doyle,644,2019-20
+354,Aaron,Wan-Bissaka,122,2019-20
+355,Harry,Maguire,160,2019-20
+356,Chris,Smalling,223,2019-20
+357,Ashley,Young,224,2019-20
+358,Victor,Lindelöf,225,2019-20
+359,Luke,Shaw,226,2019-20
+360,Marcos,Rojo,227,2019-20
+361,Eric,Bailly,228,2019-20
+362,José Diogo,Dalot Teixeira,229,2019-20
+363,Matteo,Darmian,230,2019-20
+364,Phil,Jones,231,2019-20
+365,Romelu,Lukaku,232,2019-20
+366,Marcus,Rashford,233,2019-20
+367,Mason,Greenwood,234,2019-20
+368,David,de Gea,235,2019-20
+369,Sergio,Romero,236,2019-20
+370,Lee,Grant,237,2019-20
+371,Paul,Pogba,238,2019-20
+372,Anthony,Martial,239,2019-20
+373,Alexis,Sánchez,240,2019-20
+374,Jesse,Lingard,241,2019-20
+375,Juan,Mata,242,2019-20
+376,Daniel,James,243,2019-20
+377,Frederico,Rodrigues de Paula Santos,244,2019-20
+378,Angel,Gomes,245,2019-20
+379,Andreas,Pereira,246,2019-20
+380,Nemanja,Matic,247,2019-20
+381,Scott,McTominay,248,2019-20
+382,Tahith,Chong,249,2019-20
+383,James,Garner,250,2019-20
+384,Axel,Tuanzebe,481,2019-20
+385,Brandon,Williams,549,2019-20
+386,Bruno Miguel,Borges Fernandes,618,2019-20
+387,Odion,Ighalo,624,2019-20
+388,Timothy,Fosu-Mensah,658,2019-20
+389,Matt,Ritchie,251,2019-20
+390,Fabian,Schär,252,2019-20
+391,DeAndre,Yedlin,253,2019-20
+392,Federico,Fernández,254,2019-20
+393,Paul,Dummett,255,2019-20
+394,Javier,Manquillo,256,2019-20
+395,Florian,Lejeune,257,2019-20
+396,Jamaal,Lascelles,258,2019-20
+397,Ciaran,Clark,259,2019-20
+398,Yoshinori,Muto,260,2019-20
+399,Jose Luis,Mato Sanmartín,261,2019-20
+400,Martin,Dubravka,262,2019-20
+401,Karl,Darlow,263,2019-20
+402,Frederick,Woodman,264,2019-20
+403,Miguel,Almirón,266,2019-20
+404,Christian,Atsu,267,2019-20
+405,Sung-yueng,Ki,268,2019-20
+406,Jonjo,Shelvey,269,2019-20
+407,Sean,Longstaff,270,2019-20
+408,Isaac,Hayden,271,2019-20
+409,Danny,Rose,332,2019-20
+410,Joelinton Cássio,Apolinário de Lira,466,2019-20
+411,Jack,Colback,482,2019-20
+412,Jacob,Murphy,483,2019-20
+413,Jetro,Willems,498,2019-20
+414,Rolando,Aarons,499,2019-20
+415,Allan,Saint-Maximin,500,2019-20
+416,Emil,Krafth,519,2019-20
+417,Andy,Carroll,520,2019-20
+418,Matthew,Longstaff,540,2019-20
+419,Dwight,Gayle,554,2019-20
+420,Robert,Elliot,573,2019-20
+421,Thomas,Allan,598,2019-20
+422,Kelland,Watts,599,2019-20
+423,Liam,Gibson,610,2019-20
+424,Nabil,Bentaleb,612,2019-20
+425,Valentino,Lazaro,614,2019-20
+426,Jack,Young,656,2019-20
+427,Timm,Klose,272,2019-20
+428,Ben,Godfrey,273,2019-20
+429,Maximillian,Aarons,274,2019-20
+430,Christoph,Zimmermann,275,2019-20
+431,Jamal,Lewis,276,2019-20
+432,Grant,Hanley,277,2019-20
+433,Teemu,Pukki,278,2019-20
+434,Dennis,Srbeny,279,2019-20
+435,Tim,Krul,280,2019-20
+436,Michael,McGovern,281,2019-20
+437,Mario,Vrancic,282,2019-20
+438,Emiliano,Buendía,283,2019-20
+439,Onel,Hernández,284,2019-20
+440,Marco,Stiepermann,285,2019-20
+441,Kenny,McLean,286,2019-20
+442,Todd,Cantwell,287,2019-20
+443,Moritz,Leitner,288,2019-20
+444,Alexander,Tettey,289,2019-20
+445,Tom,Trybull,290,2019-20
+446,Josip,Drmic,434,2019-20
+447,Patrick,Roberts,435,2019-20
+448,Ralf,Fahrmann,449,2019-20
+449,Sam,Byram,454,2019-20
+450,Philip,Heise,484,2019-20
+451,Ibrahim,Amadou,507,2019-20
+452,Adam,Idah,538,2019-20
+453,Archie,Mair,551,2019-20
+454,Akin,Famewo,552,2019-20
+455,Ondrej,Duda,601,2019-20
+456,Lukas,Rupp,602,2019-20
+457,Josh,Martin,632,2019-20
+458,Jordan,Thomas,650,2019-20
+459,Daniel,Adshead,669,2019-20
+460,Lys,Mousset,70,2019-20
+461,Enda,Stevens,291,2019-20
+462,Kieron,Freeman,292,2019-20
+463,Jack,O'Connell,293,2019-20
+464,George,Baldock,294,2019-20
+465,John,Egan,295,2019-20
+466,Richard,Stearman,296,2019-20
+467,John,Lundstram,297,2019-20
+468,Billy,Sharp,298,2019-20
+469,Jake,Eastwood,299,2019-20
+470,Mark,Duffy,300,2019-20
+471,John,Fleck,301,2019-20
+472,Oliver,Norwood,302,2019-20
+473,David,McGoldrick,303,2019-20
+474,Chris,Basham,423,2019-20
+475,Simon,Moore,436,2019-20
+476,Luke,Freeman,441,2019-20
+477,Phil,Jagielka,444,2019-20
+478,Callum,Robinson,453,2019-20
+479,Ravel,Morrison,456,2019-20
+480,Dean,Henderson,471,2019-20
+481,Ben,Osborn,472,2019-20
+482,Oliver,McBurnie,501,2019-20
+483,Michael,Verrips,521,2019-20
+484,Muhamed,Bešić,522,2019-20
+485,Leon,Clarke,547,2019-20
+486,Jack,Rodwell,591,2019-20
+487,Jack,Robinson,611,2019-20
+488,Sander,Berge,621,2019-20
+489,Richairo,Zivkovic,622,2019-20
+490,Panagiotis,Retsos,625,2019-20
+491,Jannik,Vestergaard,304,2019-20
+492,Ryan,Bertrand,305,2019-20
+493,Yan,Valery,306,2019-20
+494,Jan,Bednarek,307,2019-20
+495,Jack,Stephens,308,2019-20
+496,Maya,Yoshida,310,2019-20
+497,Kayne,Ramsay,311,2019-20
+498,Charlie,Austin,312,2019-20
+499,Danny,Ings,313,2019-20
+500,Michael,Obafemi,314,2019-20
+501,Shane,Long,315,2019-20
+502,Sam,Gallagher,316,2019-20
+503,Fraser,Forster,317,2019-20
+504,Alex,McCarthy,318,2019-20
+505,Angus,Gunn,319,2019-20
+506,Nathan,Redmond,320,2019-20
+507,James,Ward-Prowse,321,2019-20
+508,Mohamed,Elyounoussi,322,2019-20
+509,Stuart,Armstrong,323,2019-20
+510,Mario,Lemina,324,2019-20
+511,Pierre-Emile,Højbjerg,325,2019-20
+512,Tyreke,Johnson,326,2019-20
+513,Callum,Slattery,327,2019-20
+514,Oriol,Romeu Vidal,328,2019-20
+515,Kyle,Walker-Peters,337,2019-20
+516,Che,Adams,437,2019-20
+517,Moussa,Djenepo,438,2019-20
+518,Wesley,Hoedt,485,2019-20
+519,Sofiane,Boufal,508,2019-20
+520,Kevin,Danso,532,2019-20
+521,Daniel,N'Lundulu,535,2019-20
+522,Harry,Lewis,548,2019-20
+523,William,Smallbone,584,2019-20
+524,Nathan,Tella,633,2019-20
+525,Jake,Vokins,645,2019-20
+526,Alexandre,Jankewitz,649,2019-20
+527,Will,Ferry,654,2019-20
+528,Jacob,Maddox,663,2019-20
+529,Ben,Davies,329,2019-20
+530,Jan,Vertonghen,330,2019-20
+531,Toby,Alderweireld,331,2019-20
+532,Davinson,Sánchez,333,2019-20
+533,Kieran,Trippier,334,2019-20
+534,Juan,Foyth,335,2019-20
+535,Serge,Aurier,336,2019-20
+536,Harry,Kane,338,2019-20
+537,Vincent,Janssen,339,2019-20
+538,Hugo,Lloris,340,2019-20
+539,Paulo,Gazzaniga,341,2019-20
+540,Heung-Min,Son,342,2019-20
+541,Christian,Eriksen,343,2019-20
+542,Bamidele,Alli,344,2019-20
+543,Lucas,Rodrigues Moura da Silva,345,2019-20
+544,Erik,Lamela,346,2019-20
+545,Harry,Winks,347,2019-20
+546,Victor,Wanyama,348,2019-20
+547,Moussa,Sissoko,349,2019-20
+548,Eric,Dier,350,2019-20
+549,Luke,Amos,351,2019-20
+550,Oliver,Skipp,352,2019-20
+551,Tanguy,Ndombele,442,2019-20
+552,Troy,Parrott,509,2019-20
+553,Giovani,Lo Celso,523,2019-20
+554,Ryan,Sessegnon,524,2019-20
+555,Georges-Kévin,Nkoudou,527,2019-20
+556,Alfie,Whiteman,543,2019-20
+557,Michel,Vorm,555,2019-20
+558,Brandon,Austin,558,2019-20
+559,Japhet,Tanganga,583,2019-20
+560,Gedson,Carvalho Fernandes,605,2019-20
+561,Steven,Bergwijn,615,2019-20
+562,Harvey,White,634,2019-20
+563,Dennis,Cirkin,655,2019-20
+564,José,Holebas,353,2019-20
+565,Christian,Kabasele,354,2019-20
+566,Adam,Masina,355,2019-20
+567,Adrian,Mariappa,356,2019-20
+568,Francisco,Femenía Far,357,2019-20
+569,Craig,Cathcart,358,2019-20
+570,Daryl,Janmaat,359,2019-20
+571,Marc,Navarro,360,2019-20
+572,Sebastian,Prödl,361,2019-20
+573,Troy,Deeney,362,2019-20
+574,Gerard,Deulofeu,363,2019-20
+575,Andre,Gray,364,2019-20
+576,Isaac,Success Ajayi,365,2019-20
+577,Ben,Foster,366,2019-20
+578,Pontus,Dahlberg,367,2019-20
+579,Abdoulaye,Doucouré,368,2019-20
+580,Roberto,Pereyra,369,2019-20
+581,Will,Hughes,370,2019-20
+582,Tom,Cleverley,371,2019-20
+583,Ken,Sema,372,2019-20
+584,Etienne,Capoue,373,2019-20
+585,Nathaniel,Chalobah,374,2019-20
+586,Domingos,Quina,375,2019-20
+587,Craig,Dawson,439,2019-20
+588,Danny,Welbeck,512,2019-20
+589,Heurelho da Silva,Gomes,513,2019-20
+590,Ismaïla,Sarr,525,2019-20
+591,Dimitri,Foulquier,542,2019-20
+592,Ayotomiwa,Dele-Bashiru,563,2019-20
+593,João Pedro,Junqueira de Jesus,592,2019-20
+594,Ignacio,Pussetto,604,2019-20
+595,Adalberto,Peñaranda,648,2019-20
+596,Aaron,Cresswell,376,2019-20
+597,Angelo,Ogbonna,377,2019-20
+598,Arthur,Masuaku,378,2019-20
+599,Pablo,Zabaleta,379,2019-20
+600,Ryan,Fredericks,380,2019-20
+601,Issa,Diop,381,2019-20
+602,Fabián,Balbuena,382,2019-20
+603,Winston,Reid,383,2019-20
+604,Ben,Johnson,384,2019-20
+605,Marko,Arnautovic,385,2019-20
+606,Javier,Hernández Balcázar,386,2019-20
+607,Alexandre Nascimento,Costa Silva,387,2019-20
+608,Lukasz,Fabianski,388,2019-20
+609,Michail,Antonio,389,2019-20
+610,Felipe Anderson,Pereira Gomes,390,2019-20
+611,Manuel,Lanzini,391,2019-20
+612,Andriy,Yarmolenko,392,2019-20
+613,Robert,Snodgrass,393,2019-20
+614,Jack,Wilshere,394,2019-20
+615,Declan,Rice,395,2019-20
+616,Mark,Noble,396,2019-20
+617,Carlos,Sánchez,397,2019-20
+618,Grady,Diangana,398,2019-20
+619,Pablo,Fornals,399,2019-20
+620,Pedro,Obiang,400,2019-20
+621,Roberto,Jimenez Gago,450,2019-20
+622,Sébastien,Haller,457,2019-20
+623,Albian,Ajeti,514,2019-20
+624,David,Martin,553,2019-20
+625,Nathan,Holland,568,2019-20
+626,Joseph,Anang,582,2019-20
+627,Jeremy,Ngakia,593,2019-20
+628,Gonçalo Bento,Soares Cardoso,594,2019-20
+629,Bernardo,Costa Da Rosa,595,2019-20
+630,Darren,Randolph,606,2019-20
+631,Tomas,Soucek,616,2019-20
+632,Jarrod,Bowen,626,2019-20
+633,Alfie,Lewis,651,2019-20
+634,Conor,Coventry,664,2019-20
+635,Matt,Doherty,401,2019-20
+636,Jonathan,Castro Otto,402,2019-20
+637,Conor,Coady,403,2019-20
+638,Willy,Boly,405,2019-20
+639,Rúben Gonçalo,Silva Nascimento Vinagre,406,2019-20
+640,Romain,Saïss,407,2019-20
+641,Max,Kilman,408,2019-20
+642,Raúl,Jiménez,409,2019-20
+643,Diogo,Jota,410,2019-20
+644,Rui Pedro,dos Santos Patrício,411,2019-20
+645,John,Ruddy,412,2019-20
+646,Will,Norris,413,2019-20
+647,Rúben Diogo,da Silva Neves,414,2019-20
+648,João Filipe Iria,Santos Moutinho,415,2019-20
+649,Morgan,Gibbs-White,416,2019-20
+650,Adama,Traoré,417,2019-20
+651,Hélder,Costa,418,2019-20
+652,Ivan,Cavaleiro,419,2019-20
+653,Leander,Dendoncker,420,2019-20
+654,Jesús,Vallejo Lázaro,473,2019-20
+655,Patrick,Cutrone,487,2019-20
+656,Pedro,Lomba Neto,528,2019-20
+657,Bernard,Ashley-Seal,559,2019-20
+658,Taylor,Perry,560,2019-20
+659,Owen,Otasowie,566,2019-20
+660,Luke,Cundle,567,2019-20
+661,Oskar,Buur,587,2019-20
+662,Ryan,Giles,607,2019-20
+663,Bruno André,Cavaco Jordao,609,2019-20
+664,Daniel,Castelo Podence,619,2019-20
+665,Leonardo,Campana,652,2019-20
+666,Mesut,Özil,1,2020-21
+667,Sokratis,Papastathopoulos,2,2020-21
+668,David,Luiz Moreira Marinho,3,2020-21
+669,Pierre-Emerick,Aubameyang,4,2020-21
+670,Cédric,Soares,5,2020-21
+671,Alexandre,Lacazette,6,2020-21
+672,Shkodran,Mustafi,7,2020-21
+673,Bernd,Leno,8,2020-21
+674,Granit,Xhaka,9,2020-21
+675,Pablo,Marí,10,2020-21
+676,Héctor,Bellerín,11,2020-21
+677,Calum,Chambers,13,2020-21
+678,Sead,Kolasinac,14,2020-21
+679,Rob,Holding,16,2020-21
+680,Kieran,Tierney,17,2020-21
+681,Nicolas,Pépé,18,2020-21
+682,Lucas,Torreira,19,2020-21
+683,Reiss,Nelson,21,2020-21
+684,Edward,Nketiah,22,2020-21
+685,Emile,Smith Rowe,23,2020-21
+686,Bukayo,Saka,24,2020-21
+687,Matteo,Guendouzi,25,2020-21
+688,Gabriel Teodoro,Martinelli Silva,26,2020-21
+689,William,Saliba,27,2020-21
+690,Mathew,Ryan,70,2020-21
+691,Willian,Borges Da Silva,478,2020-21
+692,Gabriel,Magalhães,494,2020-21
+693,Daniel,Ceballos Fernández,501,2020-21
+694,Mohamed Naser,El Sayed Elneny,526,2020-21
+695,Matt,Macey,527,2020-21
+696,Rúnar Alex,Rúnarsson,547,2020-21
+697,Thomas,Partey,567,2020-21
+698,Martin,Ødegaard,645,2020-21
+699,Miguel,Azeez,689,2020-21
+700,Emiliano,Martínez,12,2020-21
+701,Tom,Heaton,28,2020-21
+702,Ahmed,El Mohamady,29,2020-21
+703,Henri,Lansbury,30,2020-21
+704,Neil,Taylor,31,2020-21
+705,Jed,Steer,32,2020-21
+706,Conor,Hourihane,33,2020-21
+707,José Ignacio,Peleteiro Romallo,34,2020-21
+708,Ørjan,Nyland,35,2020-21
+709,Bjorn,Engels,36,2020-21
+710,Jack,Grealish,37,2020-21
+711,John,McGinn,38,2020-21
+712,Kortney,Hause,39,2020-21
+713,Mahmoud Ahmed,Ibrahim Hassan,40,2020-21
+714,Tyrone,Mings,41,2020-21
+715,Matt,Targett,42,2020-21
+716,James,Bree,43,2020-21
+717,Marvelous,Nakamba,44,2020-21
+718,Anwar,El Ghazi,45,2020-21
+719,Ezri,Konsa Ngoyo,46,2020-21
+720,Frédéric,Guilbert,47,2020-21
+721,Wesley,Moraes,48,2020-21
+722,Mbwana,Samatta,49,2020-21
+723,Keinan,Davis,50,2020-21
+724,Indiana,Vassilev,51,2020-21
+725,Douglas Luiz,Soares de Paulo,52,2020-21
+726,Ross,Barkley,106,2020-21
+727,Matthew,Cash,496,2020-21
+728,Ollie,Watkins,514,2020-21
+729,Bertrand,Traoré,540,2020-21
+730,Jacob,Ramsey,554,2020-21
+731,Morgan,Sanson,647,2020-21
+732,Kaine,Hayden,671,2020-21
+733,Carney,Chukwuemeka,672,2020-21
+734,Jaden,Philogene-Bidace,683,2020-21
+735,Glenn,Murray,53,2020-21
+736,Adam,Lallana,54,2020-21
+737,Pascal,Groß,57,2020-21
+738,Shane,Duffy,58,2020-21
+739,Davy,Pröpper,59,2020-21
+740,Aaron,Mooy,60,2020-21
+741,Dan,Burn,61,2020-21
+742,Lewis,Dunk,62,2020-21
+743,Martín,Montoya,63,2020-21
+744,Florin,Andone,64,2020-21
+745,Solomon,March,65,2020-21
+746,Adam,Webster,66,2020-21
+747,Joël,Veltman,67,2020-21
+748,Neal,Maupay,68,2020-21
+749,Leandro,Trossard,69,2020-21
+750,Alireza,Jahanbakhsh,71,2020-21
+751,José,Izquierdo,72,2020-21
+752,Matthew,Clarke,73,2020-21
+753,Ben,White,74,2020-21
+754,Bernardo,Fernandes da Silva Junior,75,2020-21
+755,Yves,Bissouma,76,2020-21
+756,Tariq,Lamptey,77,2020-21
+757,Aaron,Connolly,78,2020-21
+758,Steven,Alzate,79,2020-21
+759,Alexis,Mac Allister,80,2020-21
+760,Christian,Walton,503,2020-21
+761,Jason,Steele,528,2020-21
+762,Jayson,Molumby,550,2020-21
+763,Andi,Zeqiri,574,2020-21
+764,Danny,Welbeck,588,2020-21
+765,Robert,Sánchez,597,2020-21
+766,Percy,Tau,627,2020-21
+767,Jakub,Moder,628,2020-21
+768,Reda,Khadra,630,2020-21
+769,Teddy,Jenks,631,2020-21
+770,Max,Sanders,632,2020-21
+771,Jensen,Weir,633,2020-21
+772,Thomas,McGill,662,2020-21
+773,Michal,Karbownik,663,2020-21
+774,Moisés,Caicedo,664,2020-21
+775,Dale,Stephens,55,2020-21
+776,James,Tarkowski,81,2020-21
+777,Phil,Bardsley,82,2020-21
+778,Erik,Pieters,83,2020-21
+779,Jack,Cork,84,2020-21
+780,Kevin,Long,85,2020-21
+781,Jay,Rodriguez,86,2020-21
+782,Ashley,Barnes,87,2020-21
+783,Ben,Mee,88,2020-21
+784,Ashley,Westwood,89,2020-21
+785,Johann Berg,Gudmundsson,90,2020-21
+786,Chris,Wood,91,2020-21
+787,Matthew,Lowton,92,2020-21
+788,Matej,Vydra,93,2020-21
+789,Ben,Gibson,94,2020-21
+790,Robbie,Brady,95,2020-21
+791,Nick,Pope,96,2020-21
+792,Charlie,Taylor,97,2020-21
+793,Josh,Brownhill,98,2020-21
+794,Bailey,Peacock-Farrell,99,2020-21
+795,Dwight,McNeil,100,2020-21
+796,Jimmy,Dunne,519,2020-21
+797,Bobby,Thomas,520,2020-21
+798,Josh,Benson,535,2020-21
+799,Anthony,Driscoll-Glennon,536,2020-21
+800,Mace,Goodridge,551,2020-21
+801,Will,Norris,583,2020-21
+802,Max,Thompson,591,2020-21
+803,Lewis,Richardson,592,2020-21
+804,Anthony,Mancini,612,2020-21
+805,Joel,Mumbongo,613,2020-21
+806,Richard,Nartey,658,2020-21
+807,Willy,Caballero,101,2020-21
+808,César,Azpilicueta,102,2020-21
+809,Olivier,Giroud,103,2020-21
+810,Marcos,Alonso,104,2020-21
+811,Jorge Luiz,Frello Filho,105,2020-21
+812,Mateo,Kovacic,107,2020-21
+813,Antonio,Rüdiger,109,2020-21
+814,Kurt,Zouma,110,2020-21
+815,Emerson,Palmieri dos Santos,111,2020-21
+816,Kepa,Arrizabalaga,112,2020-21
+817,N'Golo,Kanté,113,2020-21
+818,Hakim,Ziyech,114,2020-21
+819,Andreas,Christensen,116,2020-21
+820,Timo,Werner,117,2020-21
+821,Tammy,Abraham,118,2020-21
+822,Christian,Pulisic,119,2020-21
+823,Mason,Mount,120,2020-21
+824,Fikayo,Tomori,121,2020-21
+825,Callum,Hudson-Odoi,122,2020-21
+826,Reece,James,123,2020-21
+827,Billy,Gilmour,124,2020-21
+828,Benjamin,Chilwell,232,2020-21
+829,Thiago,Thiago,490,2020-21
+830,Kai,Havertz,500,2020-21
+831,Edouard,Mendy,548,2020-21
+832,Karlo,Ziger,593,2020-21
+833,Faustino,Anjorin,605,2020-21
+834,Valentino,Livramento,698,2020-21
+835,Michy,Batshuayi,108,2020-21
+836,Gary,Cahill,125,2020-21
+837,Wayne,Hennessey,126,2020-21
+838,Mamadou,Sakho,127,2020-21
+839,Vicente,Guaita,128,2020-21
+840,James,Tomkins,129,2020-21
+841,James,McArthur,130,2020-21
+842,James,McCarthy,131,2020-21
+843,Christian,Benteke,132,2020-21
+844,Cheikhou,Kouyaté,133,2020-21
+845,Joel,Ward,134,2020-21
+846,Martin,Kelly,135,2020-21
+847,Connor,Wickham,136,2020-21
+848,Andros,Townsend,137,2020-21
+849,Luka,Milivojevic,138,2020-21
+850,Patrick,van Aanholt,139,2020-21
+851,Jordan,Ayew,140,2020-21
+852,Wilfried,Zaha,141,2020-21
+853,Jeffrey,Schlupp,142,2020-21
+854,Max,Meyer,143,2020-21
+855,Jairo,Riedewald,144,2020-21
+856,Nathan,Ferguson,145,2020-21
+857,Tyrick,Mitchell,146,2020-21
+858,Brandon,Pierrick,147,2020-21
+859,Scott,Dann,486,2020-21
+860,Eberechi,Eze,489,2020-21
+861,Sam,Woods,522,2020-21
+862,Ryan,Inniss,534,2020-21
+863,Nathaniel,Clyne,577,2020-21
+864,Stephen,Henderson,578,2020-21
+865,Jack,Butland,586,2020-21
+866,Jean-Philippe,Mateta,641,2020-21
+867,Reece,Hannam,675,2020-21
+868,Jesurun,Rak-Sakyi,688,2020-21
+869,Fabian,Delph,149,2020-21
+870,Gylfi,Sigurdsson,150,2020-21
+871,Jonas,Lössl,151,2020-21
+872,Seamus,Coleman,152,2020-21
+873,Cenk,Tosun,153,2020-21
+874,Bernard,Anício Caldeira Duarte,154,2020-21
+875,Lucas,Digne,155,2020-21
+876,Michael,Keane,156,2020-21
+877,Jordan,Pickford,157,2020-21
+878,André Filipe,Tavares Gomes,158,2020-21
+879,Alex,Iwobi,159,2020-21
+880,Jonjoe,Kenny,160,2020-21
+881,Jean-Philippe,Gbamin,161,2020-21
+882,Yerry,Mina,162,2020-21
+883,Tom,Davies,163,2020-21
+884,Dominic,Calvert-Lewin,164,2020-21
+885,Mason,Holgate,165,2020-21
+886,Richarlison,de Andrade,166,2020-21
+887,João,Virgínia,167,2020-21
+888,Anthony,Gordon,168,2020-21
+889,Moise,Kean,169,2020-21
+890,Jarrad,Branthwaite,170,2020-21
+891,Allan,Marques Loureiro,502,2020-21
+892,James,Rodríguez,508,2020-21
+893,Abdoulaye,Doucouré,512,2020-21
+894,Niels,Nkounkou,559,2020-21
+895,Ben,Godfrey,566,2020-21
+896,Robin,Olsen,573,2020-21
+897,Ellis,Simms,596,2020-21
+898,Tyler,Onyango,644,2020-21
+899,Joshua,King,651,2020-21
+900,Kyle,John,679,2020-21
+901,Nathan,Broadhead,680,2020-21
+902,Ryan,Astley,681,2020-21
+903,Harry,Tyrer,682,2020-21
+904,Reece,Welch,690,2020-21
+905,Isaac,Price,691,2020-21
+906,Ruben,Loftus-Cheek,115,2020-21
+907,Fabricio,Agosto Ramírez,171,2020-21
+908,Kevin,McDonald,172,2020-21
+909,Maxime,Le Marchand,173,2020-21
+910,Stefan,Johansen,174,2020-21
+911,Tom,Cairney,175,2020-21
+912,Tim,Ream,176,2020-21
+913,Anthony,Knockaert,177,2020-21
+914,Michael,Hector,178,2020-21
+915,Cyrus,Christie,179,2020-21
+916,Neeskens,Kebano,180,2020-21
+917,Bobby,Decordova-Reid,181,2020-21
+918,Joe,Bryan,182,2020-21
+919,Marcus,Bettinelli,183,2020-21
+920,Aleksandar,Mitrović,184,2020-21
+921,Alfie,Mawson,185,2020-21
+922,Marek,Rodák,186,2020-21
+923,Ivan Ricardo,Neves Abreu Cavaleiro,187,2020-21
+924,Josh,Onomah,188,2020-21
+925,Jean Michaël,Seri,189,2020-21
+926,Aboubakar,Kamara,190,2020-21
+927,André-Frank,Zambo Anguissa,191,2020-21
+928,Zeze Steven,Sessegnon,192,2020-21
+929,Harrison,Reed,373,2020-21
+930,Antonee,Robinson,484,2020-21
+931,Mario,Lemina,493,2020-21
+932,Alphonse,Areola,516,2020-21
+933,Kenny,Tete,517,2020-21
+934,Denis,Odoi,525,2020-21
+935,Ademola,Lookman,557,2020-21
+936,Ola,Aina,562,2020-21
+937,Joachim,Andersen,571,2020-21
+938,Tosin,Adarabioyo,572,2020-21
+939,Terence,Kongolo,585,2020-21
+940,Josh,Maja,665,2020-21
+941,Fabio,Carvalho,695,2020-21
+942,Sylvester,Jasper,707,2020-21
+943,Tyrese,Francois,708,2020-21
+944,Wes,Morgan,216,2020-21
+945,Kasper,Schmeichel,217,2020-21
+946,Christian,Fuchs,218,2020-21
+947,Jonny,Evans,219,2020-21
+948,Adrien,Silva,220,2020-21
+949,Marc,Albrighton,221,2020-21
+950,Matty,James,222,2020-21
+951,Danny,Ward,223,2020-21
+952,Jamie,Vardy,224,2020-21
+953,Dennis,Praet,225,2020-21
+954,Ricardo Domingos,Barbosa Pereira,226,2020-21
+955,Daniel,Amartey,227,2020-21
+956,Youri,Tielemans,228,2020-21
+957,Ayoze,Pérez,229,2020-21
+958,Demarai,Gray,230,2020-21
+959,James,Maddison,231,2020-21
+960,Kelechi,Iheanacho,233,2020-21
+961,Hamza,Choudhury,234,2020-21
+962,Harvey,Barnes,235,2020-21
+963,Wilfred,Ndidi,236,2020-21
+964,Filip,Benkovic,237,2020-21
+965,Çaglar,Söyüncü,238,2020-21
+966,James,Justin,239,2020-21
+967,Luke,Thomas,240,2020-21
+968,Timothy,Castagne,498,2020-21
+969,Nampalys,Mendy,518,2020-21
+970,Cengiz,Ünder,541,2020-21
+971,Wesley,Fofana,561,2020-21
+972,Islam,Slimani,579,2020-21
+973,Vontae,Daley-Campbell,660,2020-21
+974,Thakgalo,Leshabela,661,2020-21
+975,Sidnei,Tavares,676,2020-21
+976,Shane,Flynn,684,2020-21
+977,Thanawat,Suengchitthawon,687,2020-21
+978,Tawanda,Maswanhise,703,2020-21
+979,Pablo,Hernández Domínguez,193,2020-21
+980,Francisco,Casilla Cortés,194,2020-21
+981,Liam,Cooper,195,2020-21
+982,Barry,Douglas,196,2020-21
+983,Luke,Ayling,197,2020-21
+984,Mateusz,Klich,198,2020-21
+985,Adam,Forshaw,199,2020-21
+986,Stuart,Dallas,200,2020-21
+987,Ezgjan,Alioski,201,2020-21
+988,Patrick,Bamford,202,2020-21
+989,Jack,Harrison,203,2020-21
+990,Kalvin,Phillips,204,2020-21
+991,Hélder Wander,Sousa de Azevedo e Costa,205,2020-21
+992,Tyler,Roberts,206,2020-21
+993,Jay-Roy,Grot,207,2020-21
+994,Kamil,Miazek,208,2020-21
+995,Ian Carlo,Poveda-Ocampo,209,2020-21
+996,Jamie,Shackleton,210,2020-21
+997,Pascal,Struijk,211,2020-21
+998,Jordan,Stevens,212,2020-21
+999,Illan,Meslier,213,2020-21
+1000,Leif,Davis,214,2020-21
+1001,Oliver,Casey,215,2020-21
+1002,Robin,Koch,491,2020-21
+1003,Rodrigo,Moreno,492,2020-21
+1004,Elia,Caprile,532,2020-21
+1005,Mateusz,Bogusz,533,2020-21
+1006,Diego,Llorente,549,2020-21
+1007,Raphael,Dias Belloli,570,2020-21
+1008,Jack,Jenkins,599,2020-21
+1009,Niall,Huggins,619,2020-21
+1010,Charlie,Cresswell,620,2020-21
+1011,Joe,Gelhardt,667,2020-21
+1012,Gaetano,Berardi,685,2020-21
+1013,Sam,Greenwood,692,2020-21
+1014,Crysencio,Summerville,693,2020-21
+1015,Cody,Drameh,694,2020-21
+1016,James,Milner,241,2020-21
+1017,Konstantinos,Tsimikas,242,2020-21
+1018,Georginio,Wijnaldum,243,2020-21
+1019,Jordan,Henderson,244,2020-21
+1020,Adrián,San Miguel del Castillo,245,2020-21
+1021,Joel,Matip,246,2020-21
+1022,Xherdan,Shaqiri,247,2020-21
+1023,Alex,Oxlade-Chamberlain,248,2020-21
+1024,Roberto,Firmino,249,2020-21
+1025,Virgil,van Dijk,250,2020-21
+1026,Sadio,Mané,251,2020-21
+1027,Alisson,Ramses Becker,252,2020-21
+1028,Fabio Henrique,Tavares,253,2020-21
+1029,Mohamed,Salah,254,2020-21
+1030,Andrew,Robertson,255,2020-21
+1031,Divock,Origi,256,2020-21
+1032,Harry,Wilson,257,2020-21
+1033,Trent,Alexander-Arnold,259,2020-21
+1034,Joseph,Gomez,260,2020-21
+1035,Naby,Keita,261,2020-21
+1036,Curtis,Jones,263,2020-21
+1037,Neco,Williams,264,2020-21
+1038,Harvey,Elliott,265,2020-21
+1039,Diogo,Jota,468,2020-21
+1040,Thiago,Alcántara do Nascimento,531,2020-21
+1041,Caoimhin,Kelleher,560,2020-21
+1042,Nathaniel,Phillips,589,2020-21
+1043,Rhys,Williams,594,2020-21
+1044,Leighton,Clarkson,601,2020-21
+1045,Jake,Cain,607,2020-21
+1046,Ozan,Kabak,652,2020-21
+1047,Ben,Davies,653,2020-21
+1048,Liam,Hughes,677,2020-21
+1049,Jakub,Ojrzynski,678,2020-21
+1050,Ben,Woodburn,696,2020-21
+1051,Billy,Koumetio,697,2020-21
+1052,Fernando,Luiz Rosa,266,2020-21
+1053,Claudio,Bravo,267,2020-21
+1054,Sergio,Agüero,268,2020-21
+1055,Nicolás,Otamendi,269,2020-21
+1056,Kyle,Walker,270,2020-21
+1057,Ilkay,Gündogan,271,2020-21
+1058,Kevin,De Bruyne,272,2020-21
+1059,John,Stones,273,2020-21
+1060,Benjamin,Mendy,274,2020-21
+1061,Riyad,Mahrez,275,2020-21
+1062,Raheem,Sterling,276,2020-21
+1063,João Pedro Cavaco,Cancelo,277,2020-21
+1064,Ederson,Santana de Moraes,278,2020-21
+1065,Nathan,Aké,279,2020-21
+1066,Aymeric,Laporte,280,2020-21
+1067,Bernardo Mota,Veiga de Carvalho e Silva,281,2020-21
+1068,Gabriel Fernando,de Jesus,282,2020-21
+1069,Oleksandr,Zinchenko,283,2020-21
+1070,Phil,Foden,284,2020-21
+1071,Tommy,Doyle,285,2020-21
+1072,Rodrigo,Hernandez,286,2020-21
+1073,Ferran,Torres,287,2020-21
+1074,Eric,Garcia,288,2020-21
+1075,Adrián,Bernabé,537,2020-21
+1076,Zack,Steffen,538,2020-21
+1077,Liam,Delap,539,2020-21
+1078,Cole,Palmer,552,2020-21
+1079,Rúben Santos,Gato Alves Dias,556,2020-21
+1080,James,Trafford,595,2020-21
+1081,Scott,Carson,608,2020-21
+1082,Felix,Nmecha,609,2020-21
+1083,Luke,Mbete,622,2020-21
+1084,Taylor,Harwood-Bellis,623,2020-21
+1085,Claudio,Gomes,659,2020-21
+1086,Sergio,Romero,289,2020-21
+1087,Juan,Mata,290,2020-21
+1088,David,de Gea,291,2020-21
+1089,Chris,Smalling,292,2020-21
+1090,Odion,Ighalo,293,2020-21
+1091,Marcos,Rojo,294,2020-21
+1092,Nemanja,Matic,295,2020-21
+1093,Paul,Pogba,296,2020-21
+1094,Phil,Jones,297,2020-21
+1095,Harry,Maguire,298,2020-21
+1096,Frederico,Rodrigues de Paula Santos,299,2020-21
+1097,Luke,Shaw,300,2020-21
+1098,Bruno Miguel,Borges Fernandes,302,2020-21
+1099,Anthony,Martial,303,2020-21
+1100,Andreas,Pereira,304,2020-21
+1101,Dean,Henderson,305,2020-21
+1102,Marcus,Rashford,306,2020-21
+1103,Axel,Tuanzebe,307,2020-21
+1104,Victor,Lindelöf,308,2020-21
+1105,Scott,McTominay,309,2020-21
+1106,Eric,Bailly,310,2020-21
+1107,Daniel,James,311,2020-21
+1108,Timothy,Fosu-Mensah,312,2020-21
+1109,Aaron,Wan-Bissaka,313,2020-21
+1110,José Diogo,Dalot Teixeira,314,2020-21
+1111,Mason,Greenwood,315,2020-21
+1112,Tahith,Chong,316,2020-21
+1113,James,Garner,317,2020-21
+1114,Brandon,Williams,318,2020-21
+1115,Teden,Mengi,319,2020-21
+1116,Donny,van de Beek,495,2020-21
+1117,Alex Nicolao,Telles,568,2020-21
+1118,Edinson,Cavani,569,2020-21
+1119,Facundo,Pellistri,575,2020-21
+1120,Lee,Grant,604,2020-21
+1121,Amad,Diallo,640,2020-21
+1122,Shola,Shoretire,673,2020-21
+1123,Nathan,Bishop,686,2020-21
+1124,Anthony,Elanga,702,2020-21
+1125,Hannibal,Mejbri,712,2020-21
+1126,William,Fish,713,2020-21
+1127,Joseph,Willock,20,2020-21
+1128,Andy,Carroll,320,2020-21
+1129,Jonjo,Shelvey,321,2020-21
+1130,Matt,Ritchie,322,2020-21
+1131,Federico,Fernández,323,2020-21
+1132,Ciaran,Clark,324,2020-21
+1133,Karl,Darlow,325,2020-21
+1134,Martin,Dubravka,326,2020-21
+1135,Florian,Lejeune,327,2020-21
+1136,Jamaal,Lascelles,328,2020-21
+1137,Dwight,Gayle,329,2020-21
+1138,Christian,Atsu,330,2020-21
+1139,Paul,Dummett,331,2020-21
+1140,Javier,Manquillo,332,2020-21
+1141,Emil,Krafth,333,2020-21
+1142,Fabian,Schär,334,2020-21
+1143,DeAndre,Yedlin,335,2020-21
+1144,Isaac,Hayden,336,2020-21
+1145,Rolando,Aarons,337,2020-21
+1146,Allan,Saint-Maximin,338,2020-21
+1147,Miguel,Almirón,339,2020-21
+1148,Joelinton Cássio,Apolinário de Lira,340,2020-21
+1149,Yoshinori,Muto,341,2020-21
+1150,Kelland,Watts,342,2020-21
+1151,Sean,Longstaff,480,2020-21
+1152,Jeff,Hendrick,485,2020-21
+1153,Matthew,Longstaff,487,2020-21
+1154,Mark,Gillespie,488,2020-21
+1155,Jacob,Murphy,497,2020-21
+1156,Callum,Wilson,506,2020-21
+1157,Ryan,Fraser,507,2020-21
+1158,Jamal,Lewis,513,2020-21
+1159,Elliot,Anderson,602,2020-21
+1160,Daniel,Langley,606,2020-21
+1161,Rhian,Brewster,262,2020-21
+1162,Billy,Sharp,343,2020-21
+1163,David,McGoldrick,344,2020-21
+1164,Chris,Basham,345,2020-21
+1165,John,Fleck,346,2020-21
+1166,Enda,Stevens,347,2020-21
+1167,Simon,Moore,348,2020-21
+1168,Oliver,Norwood,349,2020-21
+1169,Wes,Foderingham,350,2020-21
+1170,George,Baldock,351,2020-21
+1171,Jack,Robinson,352,2020-21
+1172,John,Egan,353,2020-21
+1173,Jack,O'Connell,354,2020-21
+1174,John,Lundstram,355,2020-21
+1175,Ben,Osborn,356,2020-21
+1176,Oliver,McBurnie,357,2020-21
+1177,Lys,Mousset,359,2020-21
+1178,Sander,Berge,360,2020-21
+1179,Oliver,Burke,424,2020-21
+1180,Luke,Freeman,477,2020-21
+1181,Aaron,Ramsdale,483,2020-21
+1182,Ethan,Ampadu,509,2020-21
+1183,Jayden,Bogle,510,2020-21
+1184,Max,Lowe,511,2020-21
+1185,Phil,Jagielka,529,2020-21
+1186,Michael,Verrips,580,2020-21
+1187,Kean,Bryan,603,2020-21
+1188,Antwoine,Hackford,618,2020-21
+1189,Kyron,Gordon,646,2020-21
+1190,Iliman,Ndiaye,656,2020-21
+1191,Zak,Brunt,657,2020-21
+1192,Frankie,Maguire,670,2020-21
+1193,Daniel,Jebbison,699,2020-21
+1194,Harry,Boyes,704,2020-21
+1195,Femi,Seriki,705,2020-21
+1196,William,Osula,711,2020-21
+1197,Theo,Walcott,148,2020-21
+1198,Takumi,Minamino,258,2020-21
+1199,Shane,Long,361,2020-21
+1200,Ryan,Bertrand,362,2020-21
+1201,Alex,McCarthy,363,2020-21
+1202,Oriol,Romeu Vidal,364,2020-21
+1203,Nathan,Redmond,365,2020-21
+1204,Danny,Ings,366,2020-21
+1205,Jack,Stephens,367,2020-21
+1206,Stuart,Armstrong,368,2020-21
+1207,Jannik,Vestergaard,369,2020-21
+1208,James,Ward-Prowse,370,2020-21
+1209,Angus,Gunn,371,2020-21
+1210,Sofiane,Boufal,372,2020-21
+1211,Josh,Sims,374,2020-21
+1212,Kyle,Walker-Peters,375,2020-21
+1213,Jan,Bednarek,376,2020-21
+1214,Che,Adams,377,2020-21
+1215,Yan,Valery,378,2020-21
+1216,William,Smallbone,379,2020-21
+1217,Jake,Vokins,380,2020-21
+1218,Michael,Obafemi,381,2020-21
+1219,Moussa,Djenepo,382,2020-21
+1220,Mohammed,Salisu,479,2020-21
+1221,Fraser,Forster,523,2020-21
+1222,Nathan,Tella,524,2020-21
+1223,Ibrahima,Diallo,565,2020-21
+1224,Daniel,N'Lundulu,590,2020-21
+1225,Kayne,Ramsay,598,2020-21
+1226,Kgaogelo,Chauke,624,2020-21
+1227,Harry,Lewis,625,2020-21
+1228,Will,Ferry,634,2020-21
+1229,Allan,Tchaptchet,635,2020-21
+1230,Caleb,Watts,636,2020-21
+1231,Alexandre,Jankewitz,643,2020-21
+1232,Ryan,Finnigan,655,2020-21
+1233,Hugo,Lloris,383,2020-21
+1234,Danny,Rose,384,2020-21
+1235,Moussa,Sissoko,385,2020-21
+1236,Toby,Alderweireld,386,2020-21
+1237,Erik,Lamela,387,2020-21
+1238,Harry,Kane,388,2020-21
+1239,Serge,Aurier,389,2020-21
+1240,Heung-Min,Son,390,2020-21
+1241,Eric,Dier,391,2020-21
+1242,Lucas,Rodrigues Moura da Silva,392,2020-21
+1243,Paulo,Gazzaniga,393,2020-21
+1244,Bamidele,Alli,394,2020-21
+1245,Ben,Davies,395,2020-21
+1246,Pierre-Emile,Højbjerg,396,2020-21
+1247,Harry,Winks,397,2020-21
+1248,Davinson,Sánchez,398,2020-21
+1249,Ryan,Sessegnon,399,2020-21
+1250,Steven,Bergwijn,400,2020-21
+1251,Gedson,Carvalho Fernandes,401,2020-21
+1252,Japhet,Tanganga,402,2020-21
+1253,Giovani,Lo Celso,403,2020-21
+1254,Oliver,Skipp,404,2020-21
+1255,Tanguy,Ndombele,405,2020-21
+1256,Juan,Foyth,406,2020-21
+1257,Matt,Doherty,457,2020-21
+1258,Joe,Hart,482,2020-21
+1259,Cameron,Carter-Vickers,521,2020-21
+1260,Sergio,Reguilón,542,2020-21
+1261,Gareth,Bale,543,2020-21
+1262,Carlos Vinicius,Alves Morais,564,2020-21
+1263,Joe,Rodon,584,2020-21
+1264,Alfie,Devine,650,2020-21
+1265,Dane,Scarlett,666,2020-21
+1266,Nile,John,710,2020-21
+1267,Ainsley,Maitland-Niles,15,2020-21
+1268,David,Button,56,2020-21
+1269,Callum,Robinson,358,2020-21
+1270,Kieran,Gibbs,407,2020-21
+1271,Hal,Robson-Kanu,408,2020-21
+1272,Jake,Livermore,409,2020-21
+1273,Kamil,Grosicki,410,2020-21
+1274,Matt,Phillips,411,2020-21
+1275,Kyle,Bartley,412,2020-21
+1276,Romaine,Sawyers,413,2020-21
+1277,Ahmed El-Sayed,Hegazy,414,2020-21
+1278,Charlie,Austin,415,2020-21
+1279,Kenneth,Zohore,416,2020-21
+1280,Sam,Johnstone,417,2020-21
+1281,Conor,Townsend,418,2020-21
+1282,Oluwasemilogo Adesewo Ibidapo,Ajayi,419,2020-21
+1283,Jonathan,Leko,420,2020-21
+1284,Kyle,Edwards,421,2020-21
+1285,Darnell,Furlong,422,2020-21
+1286,Sam,Field,423,2020-21
+1287,Dara,O'Shea,425,2020-21
+1288,Rekeem,Harper,426,2020-21
+1289,Robert,Snodgrass,428,2020-21
+1290,Grady,Diangana,446,2020-21
+1291,Matheus,Pereira,481,2020-21
+1292,Cedric,Kipre,499,2020-21
+1293,Branislav,Ivanovic,530,2020-21
+1294,Conor,Gallagher,544,2020-21
+1295,Filip,Krovinovic,555,2020-21
+1296,Karlan,Grant,582,2020-21
+1297,Lee,Peltier,600,2020-21
+1298,Cheikh,Diaby,621,2020-21
+1299,Andy,Lonergan,639,2020-21
+1300,Mbaye,Diagne,648,2020-21
+1301,Okay,Yokuslu,654,2020-21
+1302,Caleb,Taylor,700,2020-21
+1303,Taylor,Gardner-Hickman,701,2020-21
+1304,Toby,King,706,2020-21
+1305,Tim,Iroegbunam,709,2020-21
+1306,Jesse,Lingard,301,2020-21
+1307,Mark,Noble,427,2020-21
+1308,David,Martin,429,2020-21
+1309,Darren,Randolph,430,2020-21
+1310,Lukasz,Fabianski,431,2020-21
+1311,Angelo,Ogbonna,432,2020-21
+1312,Roberto,Jimenez Gago,433,2020-21
+1313,Jack,Wilshere,434,2020-21
+1314,Aaron,Cresswell,435,2020-21
+1315,Andriy,Yarmolenko,436,2020-21
+1316,Michail,Antonio,437,2020-21
+1317,Ryan,Fredericks,438,2020-21
+1318,Manuel,Lanzini,439,2020-21
+1319,Felipe Anderson,Pereira Gomes,440,2020-21
+1320,Sébastien,Haller,441,2020-21
+1321,Arthur,Masuaku,442,2020-21
+1322,Fabián,Balbuena,443,2020-21
+1323,Jordan,Hugill,444,2020-21
+1324,Jarrod,Bowen,445,2020-21
+1325,Albian,Ajeti,447,2020-21
+1326,Declan,Rice,448,2020-21
+1327,Tomas,Soucek,449,2020-21
+1328,Pablo,Fornals,450,2020-21
+1329,Issa,Diop,451,2020-21
+1330,Ben,Johnson,452,2020-21
+1331,Vladimir,Coufal,558,2020-21
+1332,Craig,Dawson,576,2020-21
+1333,Saïd,Benrahma,587,2020-21
+1334,Frederik,Alves,637,2020-21
+1335,Ademipo,Odubeko,638,2020-21
+1336,Conor,Coventry,668,2020-21
+1337,Jamal,Baptiste,669,2020-21
+1338,Nathan,Trott,674,2020-21
+1339,John,Ruddy,453,2020-21
+1340,João Filipe Iria,Santos Moutinho,454,2020-21
+1341,Rui Pedro,dos Santos Patrício,455,2020-21
+1342,Ryan,Bennett,456,2020-21
+1343,Willy,Boly,458,2020-21
+1344,Conor,Coady,459,2020-21
+1345,Raúl,Jiménez,460,2020-21
+1346,Romain,Saïss,461,2020-21
+1347,Jonathan,Castro Otto,462,2020-21
+1348,Léo,Bonatini,463,2020-21
+1349,Leander,Dendoncker,464,2020-21
+1350,Adama,Traoré,465,2020-21
+1351,Rúben Diogo,da Silva Neves,466,2020-21
+1352,Oskar,Buur,467,2020-21
+1353,Daniel,Castelo Podence,469,2020-21
+1354,Max,Kilman,470,2020-21
+1355,Rúben Gonçalo,Silva Nascimento Vinagre,471,2020-21
+1356,Matija,Sarkic,472,2020-21
+1357,Morgan,Gibbs-White,473,2020-21
+1358,Pedro,Lomba Neto,474,2020-21
+1359,Bruno André,Cavaco Jordao,475,2020-21
+1360,Leonardo,Campana,476,2020-21
+1361,Fabio,Silva,504,2020-21
+1362,Fernando,Marçal,505,2020-21
+1363,Vitor,Ferreira,515,2020-21
+1364,Ki-Jana,Hoever,545,2020-21
+1365,Nélson,Cabral Semedo,546,2020-21
+1366,Meritan,Shabani,553,2020-21
+1367,Rayan,Ait Nouri,563,2020-21
+1368,Owen,Otasowie,581,2020-21
+1369,Theo,Corbeanu,610,2020-21
+1370,Taylor,Perry,611,2020-21
+1371,Luke,Cundle,614,2020-21
+1372,Lewis,Richards,615,2020-21
+1373,Christian,Marques,616,2020-21
+1374,Andreas,Söndergaard,617,2020-21
+1375,Patrick,Cutrone,626,2020-21
+1376,Nigel,Lonwijk,629,2020-21
+1377,Willian José,Da Silva,642,2020-21
+1378,Hugo,Bueno,649,2020-21
+1379,Bernd,Leno,1,2021-22
+1380,Rúnar Alex,Rúnarsson,2,2021-22
+1381,Willian,Borges Da Silva,3,2021-22
+1382,Pierre-Emerick,Aubameyang,4,2021-22
+1383,Cédric,Soares,5,2021-22
+1384,Alexandre,Lacazette,6,2021-22
+1385,Granit,Xhaka,7,2021-22
+1386,Pablo,Marí,8,2021-22
+1387,Héctor,Bellerín,9,2021-22
+1388,Sead,Kolasinac,11,2021-22
+1389,Mohamed Naser,El Sayed Elneny,12,2021-22
+1390,Ainsley,Maitland-Niles,13,2021-22
+1391,Rob,Holding,14,2021-22
+1392,Thomas,Partey,15,2021-22
+1393,Kieran,Tierney,16,2021-22
+1394,Nicolas,Pépé,17,2021-22
+1395,Lucas,Torreira,18,2021-22
+1396,Edward,Nketiah,20,2021-22
+1397,Emile,Smith Rowe,21,2021-22
+1398,Bukayo,Saka,22,2021-22
+1399,Gabriel,Magalhães,23,2021-22
+1400,Konstantinos,Mavropanos,24,2021-22
+1401,Mattéo,Guendouzi,25,2021-22
+1402,Gabriel Teodoro,Martinelli Silva,26,2021-22
+1403,William,Saliba,27,2021-22
+1404,Ben,White,67,2021-22
+1405,Nuno,Varela Tavares,466,2021-22
+1406,Albert,Sambi Lokonga,478,2021-22
+1407,Folarin,Balogun,530,2021-22
+1408,Reiss,Nelson,531,2021-22
+1409,Karl,Hein,532,2021-22
+1410,Martin,Ødegaard,558,2021-22
+1411,Aaron,Ramsdale,559,2021-22
+1412,Arthur,Okonkwo,572,2021-22
+1413,Takehiro,Tomiyasu,590,2021-22
+1414,Charlie,Patino,664,2021-22
+1415,Omari,Hutchinson,692,2021-22
+1416,Salah-Eddine,Oulad M'hand,693,2021-22
+1417,Mika,Biereth,694,2021-22
+1418,Ryan,Alebiosu,695,2021-22
+1419,Zach,Awe,705,2021-22
+1420,Zak,Swanson,711,2021-22
+1421,Mazeed,Ogungbo,719,2021-22
+1422,Marcelo,Flores,720,2021-22
+1423,Miguel,Azeez,721,2021-22
+1424,Alex,Kirk,730,2021-22
+1425,Calum,Chambers,10,2021-22
+1426,Jed,Steer,28,2021-22
+1427,Conor,Hourihane,29,2021-22
+1428,Emiliano,Martínez,30,2021-22
+1429,Björn,Engels,31,2021-22
+1430,Bertrand,Traoré,32,2021-22
+1431,Morgan,Sanson,34,2021-22
+1432,John,McGinn,35,2021-22
+1433,Kortney,Hause,36,2021-22
+1434,Mahmoud Ahmed,Ibrahim Hassan,37,2021-22
+1435,Tyrone,Mings,38,2021-22
+1436,Ollie,Watkins,40,2021-22
+1437,Marvelous,Nakamba,41,2021-22
+1438,Emiliano,Buendía Stati,43,2021-22
+1439,Matthew,Cash,44,2021-22
+1440,Ezri,Konsa Ngoyo,45,2021-22
+1441,Frédéric,Guilbert,46,2021-22
+1442,Wesley,Moraes,47,2021-22
+1443,Mbwana Ally,Samatta,48,2021-22
+1444,Keinan,Davis,49,2021-22
+1445,Douglas Luiz,Soares de Paulo,50,2021-22
+1446,Jacob,Ramsey,51,2021-22
+1447,Ashley,Young,52,2021-22
+1448,Lucas,Digne,168,2021-22
+1449,Danny,Ings,337,2021-22
+1450,Leon,Bailey,492,2021-22
+1451,Aaron,Ramsey,496,2021-22
+1452,Jaden,Philogene-Bidace,497,2021-22
+1453,Carney,Chukwuemeka,526,2021-22
+1454,Cameron,Archer,568,2021-22
+1455,Viljami,Sinisalo,596,2021-22
+1456,Lamare,Bogarde,610,2021-22
+1457,Tim,Iroegbunam,638,2021-22
+1458,Filip,Marschall,650,2021-22
+1459,Josh,Feeney,670,2021-22
+1460,Philippe,Coutinho Correia,681,2021-22
+1461,Kaine,Hayden,684,2021-22
+1462,Robin,Olsen,691,2021-22
+1463,Benjamin,Chrisene,703,2021-22
+1464,Tommi,O'Reilly,713,2021-22
+1465,Pontus,Jansson,76,2021-22
+1466,Christian,Nørgaard,77,2021-22
+1467,Ivan,Toney,78,2021-22
+1468,Tariqe,Fosu-Henry,79,2021-22
+1469,David,Raya Martin,80,2021-22
+1470,Sergi,Canós,81,2021-22
+1471,Pelenda Joshua,Dasilva,82,2021-22
+1472,Rico,Henry,83,2021-22
+1473,Vitaly,Janelt,84,2021-22
+1474,Saman,Ghoddos,85,2021-22
+1475,Mathias,Jensen,86,2021-22
+1476,Charlie,Goode,87,2021-22
+1477,Marcus,Forss,88,2021-22
+1478,Mads,Roerslev Rasmussen,89,2021-22
+1479,Mads,Bech Sørensen,90,2021-22
+1480,Ethan,Pinnock,91,2021-22
+1481,Ellery,Balcombe,92,2021-22
+1482,Jan,Zamburek,93,2021-22
+1483,Patrik,Gunnarsson,94,2021-22
+1484,Halil,Dervişoğlu,95,2021-22
+1485,Bryan,Mbeumo,96,2021-22
+1486,Mads,Bidstrup,97,2021-22
+1487,Frank,Onyeka,479,2021-22
+1488,Kristoffer,Ajer,483,2021-22
+1489,Dominic,Thompson,498,2021-22
+1490,Shandon,Baptiste,499,2021-22
+1491,Yoane,Wissa,524,2021-22
+1492,Álvaro,Fernández,556,2021-22
+1493,Finley,Stevens,569,2021-22
+1494,Mathias,Jorgensen,594,2021-22
+1495,Paris,Maghoma,614,2021-22
+1496,Matthew,Cox,619,2021-22
+1497,Maxwell,Haygarth,628,2021-22
+1498,Nathan,Young-Coombes,640,2021-22
+1499,Myles,Peart-Harris,662,2021-22
+1500,Jonas,Lössl,673,2021-22
+1501,Christian,Eriksen,699,2021-22
+1502,Julian,Jeanvier,722,2021-22
+1503,Adam,Lallana,53,2021-22
+1504,Jason,Steele,54,2021-22
+1505,Pascal,Groß,55,2021-22
+1506,Shane,Duffy,56,2021-22
+1507,Davy,Pröpper,57,2021-22
+1508,Lewis,Dunk,59,2021-22
+1509,Solomon,March,60,2021-22
+1510,Adam,Webster,61,2021-22
+1511,Joël,Veltman,62,2021-22
+1512,Neal,Maupay,63,2021-22
+1513,Leandro,Trossard,64,2021-22
+1514,Mathew,Ryan,65,2021-22
+1515,Alireza,Jahanbakhsh,66,2021-22
+1516,Bernardo,Fernandes Da Silva Junior,68,2021-22
+1517,Robert,Sánchez,69,2021-22
+1518,Yves,Bissouma,70,2021-22
+1519,Tariq,Lamptey,71,2021-22
+1520,Aaron,Connolly,72,2021-22
+1521,Steven,Alzate,73,2021-22
+1522,Alexis,Mac Allister,74,2021-22
+1523,Jakub,Moder,75,2021-22
+1524,Danny,Welbeck,447,2021-22
+1525,Enock,Mwepu,462,2021-22
+1526,Kjell,Scherpen,476,2021-22
+1527,Florin,Andone,500,2021-22
+1528,Andi,Zeqiri,535,2021-22
+1529,Michal,Karbownik,536,2021-22
+1530,Taylor,Richards,537,2021-22
+1531,Moisés,Caicedo,538,2021-22
+1532,Haydon,Roberts,560,2021-22
+1533,Marc,Cucurella,584,2021-22
+1534,Jürgen,Locadia,595,2021-22
+1535,Jeremy,Sarmiento,612,2021-22
+1536,Ed,Turns,653,2021-22
+1537,Marc,Leonard,654,2021-22
+1538,Evan,Ferguson,655,2021-22
+1539,Thomas,McGill,688,2021-22
+1540,Odeluga,Offiah,712,2021-22
+1541,James,Tarkowski,98,2021-22
+1542,Phil,Bardsley,99,2021-22
+1543,Erik,Pieters,100,2021-22
+1544,Jack,Cork,101,2021-22
+1545,Dale,Stephens,102,2021-22
+1546,Kevin,Long,103,2021-22
+1547,Jay,Rodriguez,104,2021-22
+1548,Ashley,Barnes,105,2021-22
+1549,Ben,Mee,106,2021-22
+1550,Ashley,Westwood,107,2021-22
+1551,Johann Berg,Gudmundsson,108,2021-22
+1552,Matthew,Lowton,110,2021-22
+1553,Matej,Vydra,111,2021-22
+1554,Nick,Pope,112,2021-22
+1555,Charlie,Taylor,113,2021-22
+1556,Will,Norris,114,2021-22
+1557,Josh,Brownhill,115,2021-22
+1558,Josh,Benson,116,2021-22
+1559,Bailey,Peacock-Farrell,117,2021-22
+1560,Dwight,McNeil,118,2021-22
+1561,Nathan,Collins,451,2021-22
+1562,Wayne,Hennessey,480,2021-22
+1563,Lewis,Richardson,533,2021-22
+1564,Bobby,Thomas,534,2021-22
+1565,Owen,Dodgson,565,2021-22
+1566,Aaron,Lennon,575,2021-22
+1567,Maxwel,Cornet,578,2021-22
+1568,Connor,Roberts,585,2021-22
+1569,Wout,Weghorst,700,2021-22
+1570,Sam,Waller,708,2021-22
+1571,Dara,Costelloe,726,2021-22
+1572,Joseph,McGlynn,735,2021-22
+1573,Anthony,Mancini,736,2021-22
+1574,César,Azpilicueta,119,2021-22
+1575,Olivier,Giroud,120,2021-22
+1576,Thiago,Emiliano da Silva,121,2021-22
+1577,Marcos,Alonso,122,2021-22
+1578,Jorge Luiz,Frello Filho,123,2021-22
+1579,Ross,Barkley,124,2021-22
+1580,Mateo,Kovacic,125,2021-22
+1581,Michy,Batshuayi,126,2021-22
+1582,Antonio,Rüdiger,127,2021-22
+1583,Kepa,Arrizabalaga,129,2021-22
+1584,N'Golo,Kanté,130,2021-22
+1585,Hakim,Ziyech,131,2021-22
+1586,Ruben,Loftus-Cheek,132,2021-22
+1587,Andreas,Christensen,133,2021-22
+1588,Timo,Werner,134,2021-22
+1589,Benjamin,Chilwell,135,2021-22
+1590,Tammy,Abraham,136,2021-22
+1591,Christian,Pulisic,137,2021-22
+1592,Mason,Mount,138,2021-22
+1593,Ethan,Ampadu,139,2021-22
+1594,Callum,Hudson-Odoi,140,2021-22
+1595,Kai,Havertz,141,2021-22
+1596,Reece,James,142,2021-22
+1597,Edouard,Mendy,143,2021-22
+1598,Malang,Sarr,501,2021-22
+1599,Trevoh,Chalobah,527,2021-22
+1600,Romelu,Lukaku,529,2021-22
+1601,Emerson,Palmieri dos Santos,539,2021-22
+1602,Saúl,Ñíguez,592,2021-22
+1603,Marcus,Bettinelli,606,2021-22
+1604,Lewis,Hall,671,2021-22
+1605,Harvey,Vale,672,2021-22
+1606,Robert Kenedy,Nunes do Nascimento,690,2021-22
+1607,Conor,Gallagher,144,2021-22
+1608,Vicente,Guaita,146,2021-22
+1609,James,Tomkins,147,2021-22
+1610,James,McArthur,148,2021-22
+1611,Christian,Benteke,149,2021-22
+1612,Cheikhou,Kouyaté,150,2021-22
+1613,Martin,Kelly,151,2021-22
+1614,Luka,Milivojevic,152,2021-22
+1615,Jordan,Ayew,153,2021-22
+1616,Wilfried,Zaha,154,2021-22
+1617,Jeffrey,Schlupp,155,2021-22
+1618,Jack,Butland,156,2021-22
+1619,Jairo,Riedewald,157,2021-22
+1620,Jarosław,Jach,158,2021-22
+1621,Jean-Philippe,Mateta,159,2021-22
+1622,Eberechi,Eze,160,2021-22
+1623,Nathan,Ferguson,161,2021-22
+1624,Tyrick,Mitchell,162,2021-22
+1625,Will,Hughes,386,2021-22
+1626,Michael,Olise,464,2021-22
+1627,Joel,Ward,474,2021-22
+1628,Marc,Guéhi,477,2021-22
+1629,Joachim,Andersen,488,2021-22
+1630,Nathaniel,Clyne,493,2021-22
+1631,Reece,Hannam,540,2021-22
+1632,Jesurun,Rak-Sakyi,541,2021-22
+1633,Robert,Street,542,2021-22
+1634,Scott,Banks,543,2021-22
+1635,Remi,Matthews,561,2021-22
+1636,Odsonne,Edouard,586,2021-22
+1637,Tayo,Adaramola,709,2021-22
+1638,Anwar,El Ghazi,42,2021-22
+1639,Fabian,Delph,163,2021-22
+1640,Gylfi,Sigurdsson,164,2021-22
+1641,Seamus,Coleman,165,2021-22
+1642,James,Rodríguez,166,2021-22
+1643,Bernard,Anício Caldeira Duarte,167,2021-22
+1644,Michael,Keane,169,2021-22
+1645,Jordan,Pickford,170,2021-22
+1646,Allan,Marques Loureiro,171,2021-22
+1647,André Filipe,Tavares Gomes,172,2021-22
+1648,Abdoulaye,Doucouré,173,2021-22
+1649,Alex,Iwobi,174,2021-22
+1650,Yerry,Mina,175,2021-22
+1651,Tom,Davies,176,2021-22
+1652,Dominic,Calvert-Lewin,177,2021-22
+1653,Mason,Holgate,178,2021-22
+1654,Ben,Godfrey,179,2021-22
+1655,Richarlison,de Andrade,180,2021-22
+1656,João,Virgínia,181,2021-22
+1657,Donny,van de Beek,282,2021-22
+1658,Bamidele,Alli,363,2021-22
+1659,Asmir,Begović,481,2021-22
+1660,Andros,Townsend,482,2021-22
+1661,Demarai,Gray,484,2021-22
+1662,Jonjoe,Kenny,502,2021-22
+1663,Anthony,Gordon,503,2021-22
+1664,Jean-Philippe,Gbamin,504,2021-22
+1665,Jarrad,Branthwaite,544,2021-22
+1666,Nathan,Broadhead,545,2021-22
+1667,Moise,Kean,564,2021-22
+1668,Niels,Nkounkou,570,2021-22
+1669,Andy,Lonergan,571,2021-22
+1670,Salomón,Rondón,591,2021-22
+1671,Ellis,Simms,602,2021-22
+1672,Lewis,Dobbin,607,2021-22
+1673,Charlie,Whitaker,613,2021-22
+1674,Harry,Tyrer,616,2021-22
+1675,Cenk,Tosun,622,2021-22
+1676,Reece,Welch,623,2021-22
+1677,Tyler,Onyango,630,2021-22
+1678,Nathan,Patterson,674,2021-22
+1679,Vitalii,Mykolenko,675,2021-22
+1680,Isaac,Price,718,2021-22
+1681,Kasper,Schmeichel,200,2021-22
+1682,Jonny,Evans,201,2021-22
+1683,Marc,Albrighton,202,2021-22
+1684,Nampalys,Mendy,203,2021-22
+1685,Danny,Ward,204,2021-22
+1686,Jamie,Vardy,205,2021-22
+1687,Dennis,Praet,206,2021-22
+1688,Ricardo Domingos,Barbosa Pereira,207,2021-22
+1689,Daniel,Amartey,208,2021-22
+1690,Timothy,Castagne,209,2021-22
+1691,Youri,Tielemans,210,2021-22
+1692,Ayoze,Pérez,211,2021-22
+1693,James,Maddison,212,2021-22
+1694,Kelechi,Iheanacho,213,2021-22
+1695,Hamza,Choudhury,214,2021-22
+1696,Harvey,Barnes,215,2021-22
+1697,Wilfred,Ndidi,216,2021-22
+1698,Çaglar,Söyüncü,217,2021-22
+1699,James,Justin,218,2021-22
+1700,Luke,Thomas,219,2021-22
+1701,Wesley,Fofana,220,2021-22
+1702,Jannik,Vestergaard,340,2021-22
+1703,Patson,Daka,455,2021-22
+1704,Boubakary,Soumaré,458,2021-22
+1705,Ryan,Bertrand,473,2021-22
+1706,Kiernan,Dewsbury-Hall,505,2021-22
+1707,Eldin,Jakupovic,573,2021-22
+1708,Ademola,Lookman,587,2021-22
+1709,Vontae,Daley-Campbell,639,2021-22
+1710,Ben,Nelson,645,2021-22
+1711,Lewis,Brunt,646,2021-22
+1712,Kasey,McAteer,647,2021-22
+1713,Pablo,Hernández Domínguez,182,2021-22
+1714,Francisco,Casilla Cortés,183,2021-22
+1715,Liam,Cooper,184,2021-22
+1716,Luke,Ayling,185,2021-22
+1717,Mateusz,Klich,186,2021-22
+1718,Rodrigo,Moreno,187,2021-22
+1719,Stuart,Dallas,188,2021-22
+1720,Patrick,Bamford,189,2021-22
+1721,Diego,Llorente,190,2021-22
+1722,Kalvin,Phillips,191,2021-22
+1723,Hélder Wander,Sousa de Azevedo e Costa,192,2021-22
+1724,Tyler,Roberts,193,2021-22
+1725,Robin,Koch,194,2021-22
+1726,Ian Carlo,Poveda-Ocampo,195,2021-22
+1727,Raphael,Dias Belloli,196,2021-22
+1728,Jamie,Shackleton,197,2021-22
+1729,Pascal,Struijk,198,2021-22
+1730,Illan,Meslier,199,2021-22
+1731,Jack,Harrison,267,2021-22
+1732,Daniel,James,287,2021-22
+1733,Héctor Junior,Firpo Adames,463,2021-22
+1734,Kristoffer,Klaesson,490,2021-22
+1735,Sam,Greenwood,550,2021-22
+1736,Crysencio,Summerville,551,2021-22
+1737,Adam,Forshaw,552,2021-22
+1738,Cody,Drameh,562,2021-22
+1739,Charlie,Cresswell,563,2021-22
+1740,Liam,McCarron,576,2021-22
+1741,Joe,Gelhardt,577,2021-22
+1742,Nohan,Kenneh,600,2021-22
+1743,Stuart,McKinstry,601,2021-22
+1744,Leo Fuhr,Hjelde,608,2021-22
+1745,Lewis,Bate,624,2021-22
+1746,Jack,Jenkins,631,2021-22
+1747,Kris,Moore,657,2021-22
+1748,Archie,Gray,658,2021-22
+1749,James,Milner,221,2021-22
+1750,Jordan,Henderson,222,2021-22
+1751,Adrián,San Miguel del Castillo,223,2021-22
+1752,Joel,Matip,224,2021-22
+1753,Thiago,Alcántara do Nascimento,225,2021-22
+1754,Xherdan,Shaqiri,226,2021-22
+1755,Alex,Oxlade-Chamberlain,227,2021-22
+1756,Roberto,Firmino,228,2021-22
+1757,Virgil,van Dijk,229,2021-22
+1758,Sadio,Mané,230,2021-22
+1759,Alisson,Ramses Becker,231,2021-22
+1760,Fabio Henrique,Tavares,232,2021-22
+1761,Mohamed,Salah,233,2021-22
+1762,Andrew,Robertson,234,2021-22
+1763,Divock,Origi,235,2021-22
+1764,Takumi,Minamino,236,2021-22
+1765,Trent,Alexander-Arnold,237,2021-22
+1766,Joseph,Gomez,238,2021-22
+1767,Naby,Keita,239,2021-22
+1768,Diogo,Jota,240,2021-22
+1769,Nathaniel,Phillips,241,2021-22
+1770,Caoimhin,Kelleher,242,2021-22
+1771,Ibrahima,Konaté,243,2021-22
+1772,Curtis,Jones,244,2021-22
+1773,Konstantinos,Tsimikas,245,2021-22
+1774,Neco,Williams,246,2021-22
+1775,Rhys,Williams,247,2021-22
+1776,Ben,Davies,248,2021-22
+1777,Harvey,Elliott,506,2021-22
+1778,Ben,Woodburn,553,2021-22
+1779,Tyler,Morton,620,2021-22
+1780,Kaide,Gordon,625,2021-22
+1781,Conor,Bradley,626,2021-22
+1782,Owen,Beck,627,2021-22
+1783,Marcelo,de Araújo Pitaluga Filho,656,2021-22
+1784,Jarell,Quansah,660,2021-22
+1785,Luis,Díaz,696,2021-22
+1786,Jack,Grealish,33,2021-22
+1787,Kyle,Walker,249,2021-22
+1788,Ilkay,Gündogan,250,2021-22
+1789,Kevin,De Bruyne,251,2021-22
+1790,John,Stones,252,2021-22
+1791,Benjamin,Mendy,253,2021-22
+1792,Riyad,Mahrez,254,2021-22
+1793,Raheem,Sterling,255,2021-22
+1794,João Pedro Cavaco,Cancelo,256,2021-22
+1795,Ederson,Santana de Moraes,257,2021-22
+1796,Nathan,Aké,258,2021-22
+1797,Aymeric,Laporte,259,2021-22
+1798,Zack,Steffen,260,2021-22
+1799,Bernardo Mota,Veiga de Carvalho e Silva,261,2021-22
+1800,Rúben Santos,Gato Alves Dias,262,2021-22
+1801,Gabriel Fernando,de Jesus,263,2021-22
+1802,Oleksandr,Zinchenko,264,2021-22
+1803,Phil,Foden,265,2021-22
+1804,Rodrigo,Hernandez,266,2021-22
+1805,Ferran,Torres,268,2021-22
+1806,Fernando,Luiz Rosa,453,2021-22
+1807,Cole,Palmer,507,2021-22
+1808,Samuel,Edozie,508,2021-22
+1809,Tommy,Doyle,566,2021-22
+1810,Scott,Carson,593,2021-22
+1811,Luke,Mbete,603,2021-22
+1812,Joshua,Wilson-Esbrand,604,2021-22
+1813,Romeo,Lavia,605,2021-22
+1814,Cieran,Slicker,615,2021-22
+1815,James,McAtee,629,2021-22
+1816,Conrad,Egan-Riley,651,2021-22
+1817,Kayky da Silva,Chagas,663,2021-22
+1818,Liam,Delap,704,2021-22
+1819,Edinson,Cavani,269,2021-22
+1820,David,de Gea,270,2021-22
+1821,Nemanja,Matic,271,2021-22
+1822,Paul,Pogba,272,2021-22
+1823,Harry,Maguire,273,2021-22
+1824,Frederico,Rodrigues de Paula Santos,274,2021-22
+1825,Luke,Shaw,275,2021-22
+1826,Jesse,Lingard,276,2021-22
+1827,Bruno Miguel,Borges Fernandes,277,2021-22
+1828,Anthony,Martial,278,2021-22
+1829,Alex Nicolao,Telles,279,2021-22
+1830,Dean,Henderson,280,2021-22
+1831,Marcus,Rashford,281,2021-22
+1832,Axel,Tuanzebe,283,2021-22
+1833,Victor,Lindelöf,284,2021-22
+1834,Scott,McTominay,285,2021-22
+1835,Eric,Bailly,286,2021-22
+1836,Aaron,Wan-Bissaka,288,2021-22
+1837,Mason,Greenwood,289,2021-22
+1838,Juan,Mata,459,2021-22
+1839,Jadon,Sancho,485,2021-22
+1840,Tom,Heaton,509,2021-22
+1841,José Diogo,Dalot Teixeira,510,2021-22
+1842,Andreas,Pereira,511,2021-22
+1843,Anthony,Elanga,512,2021-22
+1844,Raphaël,Varane,555,2021-22
+1845,Cristiano Ronaldo,dos Santos Aveiro,579,2021-22
+1846,Phil,Jones,632,2021-22
+1847,Amad,Diallo,636,2021-22
+1848,Hannibal,Mejbri,706,2021-22
+1849,Alejandro,Garnacho Ferreyra,723,2021-22
+1850,Shola,Shoretire,727,2021-22
+1851,Álvaro,Fernández,728,2021-22
+1852,Charlie,Savage,737,2021-22
+1853,Joseph,Willock,19,2021-22
+1854,Matt,Targett,39,2021-22
+1855,Dan,Burn,58,2021-22
+1856,Chris,Wood,109,2021-22
+1857,Jonjo,Shelvey,291,2021-22
+1858,Matt,Ritchie,292,2021-22
+1859,Ciaran,Clark,293,2021-22
+1860,Karl,Darlow,294,2021-22
+1861,Martin,Dubravka,295,2021-22
+1862,Callum,Wilson,296,2021-22
+1863,Jeff,Hendrick,297,2021-22
+1864,Ryan,Fraser,298,2021-22
+1865,Jamaal,Lascelles,299,2021-22
+1866,Dwight,Gayle,300,2021-22
+1867,Paul,Dummett,301,2021-22
+1868,Javier,Manquillo,302,2021-22
+1869,Emil,Krafth,303,2021-22
+1870,Jacob,Murphy,304,2021-22
+1871,Fabian,Schär,305,2021-22
+1872,Isaac,Hayden,306,2021-22
+1873,Allan,Saint-Maximin,307,2021-22
+1874,Miguel,Almirón,308,2021-22
+1875,Sean,Longstaff,309,2021-22
+1876,Joelinton Cássio,Apolinário de Lira,310,2021-22
+1877,Jamal,Lewis,311,2021-22
+1878,Matthew,Longstaff,312,2021-22
+1879,Federico,Fernández,465,2021-22
+1880,Freddie,Woodman,513,2021-22
+1881,Mark,Gillespie,514,2021-22
+1882,Joe,White,599,2021-22
+1883,Elliot,Anderson,609,2021-22
+1884,Kieran,Trippier,678,2021-22
+1885,Bruno,Guimarães Rodriguez Moura,697,2021-22
+1886,Lucas,De Bolle,707,2021-22
+1887,Billy,Gilmour,145,2021-22
+1888,Brandon,Williams,290,2021-22
+1889,Michael,McGovern,313,2021-22
+1890,Tim,Krul,314,2021-22
+1891,Teemu,Pukki,315,2021-22
+1892,Marco,Stiepermann,316,2021-22
+1893,Lukas,Rupp,317,2021-22
+1894,Kenny,McLean,318,2021-22
+1895,Grant,Hanley,319,2021-22
+1896,Onel,Hernández,320,2021-22
+1897,Sam,Byram,321,2021-22
+1898,Jordan,Hugill,322,2021-22
+1899,Kieran,Dowell,323,2021-22
+1900,Christoph,Zimmermann,324,2021-22
+1901,Todd,Cantwell,325,2021-22
+1902,Max,Aarons,326,2021-22
+1903,Jacob,Sørensen,327,2021-22
+1904,Przemyslaw,Placheta,328,2021-22
+1905,Adam,Idah,329,2021-22
+1906,Josh,Martin,330,2021-22
+1907,Andrew,Omobamidele,331,2021-22
+1908,Angus,Gunn,448,2021-22
+1909,Milot,Rashica,449,2021-22
+1910,Ben,Gibson,456,2021-22
+1911,Dimitris,Giannoulis,457,2021-22
+1912,Pierre,Lees-Melou,471,2021-22
+1913,Bali,Mumba,515,2021-22
+1914,Joshua,Sargent,516,2021-22
+1915,Christos,Tzolis,528,2021-22
+1916,Ozan,Kabak,580,2021-22
+1917,Mathias,Normann,581,2021-22
+1918,Jonathan,Tomkinson,643,2021-22
+1919,Jonathan,Rowe,648,2021-22
+1920,Thomas,Dickson-Peters,649,2021-22
+1921,Jon,McCracken,666,2021-22
+1922,Liam,Gibbs,683,2021-22
+1923,Abu,Kamara,715,2021-22
+1924,Tony,Springett,716,2021-22
+1925,Theo,Walcott,332,2021-22
+1926,Fraser,Forster,333,2021-22
+1927,Alex,McCarthy,334,2021-22
+1928,Oriol,Romeu Vidal,335,2021-22
+1929,Nathan,Redmond,336,2021-22
+1930,Jack,Stephens,338,2021-22
+1931,Stuart,Armstrong,339,2021-22
+1932,James,Ward-Prowse,341,2021-22
+1933,Kyle,Walker-Peters,342,2021-22
+1934,Jan,Bednarek,343,2021-22
+1935,Daniel,N'Lundulu,344,2021-22
+1936,Che,Adams,345,2021-22
+1937,Nathan,Tella,346,2021-22
+1938,William,Smallbone,347,2021-22
+1939,Michael,Obafemi,348,2021-22
+1940,Ibrahima,Diallo,349,2021-22
+1941,Moussa,Djenepo,350,2021-22
+1942,Mohammed,Salisu,351,2021-22
+1943,Romain,Perraud,460,2021-22
+1944,Tino,Livramento,491,2021-22
+1945,Mohamed,Elyounoussi,517,2021-22
+1946,Armando,Broja,518,2021-22
+1947,Shane,Long,519,2021-22
+1948,Adam,Armstrong,525,2021-22
+1949,Yan,Valery,546,2021-22
+1950,Lyanco Evangelista,Silveira Neves Vojnovic,567,2021-22
+1951,Harry,Lewis,637,2021-22
+1952,Willy,Caballero,641,2021-22
+1953,Dynel,Simeu,665,2021-22
+1954,Thierry,Small,667,2021-22
+1955,Kgaogelo,Chauke,680,2021-22
+1956,Tyler,Dibling,731,2021-22
+1957,Joe,Hart,352,2021-22
+1958,Hugo,Lloris,353,2021-22
+1959,Toby,Alderweireld,355,2021-22
+1960,Erik,Lamela,356,2021-22
+1961,Harry,Kane,357,2021-22
+1962,Serge,Aurier,358,2021-22
+1963,Heung-Min,Son,359,2021-22
+1964,Matt,Doherty,360,2021-22
+1965,Eric,Dier,361,2021-22
+1966,Lucas,Rodrigues Moura da Silva,362,2021-22
+1967,Ben,Davies,364,2021-22
+1968,Pierre-Emile,Højbjerg,365,2021-22
+1969,Harry,Winks,366,2021-22
+1970,Davinson,Sánchez,367,2021-22
+1971,Ryan,Sessegnon,368,2021-22
+1972,Steven,Bergwijn,369,2021-22
+1973,Sergio,Reguilón,370,2021-22
+1974,Japhet,Tanganga,371,2021-22
+1975,Giovani,Lo Celso,372,2021-22
+1976,Oliver,Skipp,373,2021-22
+1977,Joe,Rodon,374,2021-22
+1978,Tanguy,Ndombele,375,2021-22
+1979,Pierluigi,Gollini,486,2021-22
+1980,Bryan,Gil Salvatierra,487,2021-22
+1981,Cristian,Romero,494,2021-22
+1982,Dane,Scarlett,520,2021-22
+1983,Emerson Aparecido,Leite de Souza Junior,588,2021-22
+1984,Dilan,Markanday,597,2021-22
+1985,Tobi,Omole,598,2021-22
+1986,Brandon,Austin,659,2021-22
+1987,Harvey,White,668,2021-22
+1988,Dejan,Kulusevski,701,2021-22
+1989,Rodrigo,Bentancur,702,2021-22
+1990,Alfie,Devine,714,2021-22
+1991,Jamie,Bowden,717,2021-22
+1992,Marcel,Lavinier,724,2021-22
+1993,Matthew,Craig,729,2021-22
+1994,Moussa,Sissoko,354,2021-22
+1995,Ben,Foster,376,2021-22
+1996,Danny,Rose,377,2021-22
+1997,Dan,Gosling,378,2021-22
+1998,Craig,Cathcart,379,2021-22
+1999,Troy,Deeney,380,2021-22
+2000,Tom,Cleverley,381,2021-22
+2001,Francisco,Femenía Far,382,2021-22
+2002,Andre,Gray,383,2021-22
+2003,Christian,Kabasele,384,2021-22
+2004,Nathaniel,Chalobah,385,2021-22
+2005,William,Troost-Ekong,387,2021-22
+2006,Stipe,Perica,388,2021-22
+2007,Daniel,Bachmann,389,2021-22
+2008,Adam,Masina,390,2021-22
+2009,Ken,Sema,391,2021-22
+2010,Philip,Zinckernagel,392,2021-22
+2011,Isaac,Success Ajayi,393,2021-22
+2012,Ayotomiwa,Dele-Bashiru,394,2021-22
+2013,Ashley,Fletcher,395,2021-22
+2014,Francisco,Sierralta,396,2021-22
+2015,Domingos,Quina,397,2021-22
+2016,Marc,Navarro,398,2021-22
+2017,Ismaila,Sarr,399,2021-22
+2018,Jeremy,Ngakia,400,2021-22
+2019,Ben,Wilmot,401,2021-22
+2020,Joseph,Hungbo,402,2021-22
+2021,Imrân,Louza,403,2021-22
+2022,João Pedro,Junqueira de Jesus,404,2021-22
+2023,Kwadwo,Baah,405,2021-22
+2024,Emmanuel,Dennis,450,2021-22
+2025,Matthew,Pollock,454,2021-22
+2026,Oghenekaro Peter,Etebo,467,2021-22
+2027,Joshua,King,468,2021-22
+2028,Adedapo,Awokoya-Mebude,469,2021-22
+2029,Juan Camilo,Hernández Suárez,472,2021-22
+2030,Juraj,Kucka,495,2021-22
+2031,Ozan,Tufan,557,2021-22
+2032,Robert,Elliot,574,2021-22
+2033,Nicolas,Nkoulou,618,2021-22
+2034,James,Morris,633,2021-22
+2035,Vincent,Angelini,642,2021-22
+2036,Kamil,Conteh,669,2021-22
+2037,Hassane,Kamara,676,2021-22
+2038,Samir,Caetano de Souza Santos,677,2021-22
+2039,Edo,Kayembe,679,2021-22
+2040,Samuel,Kalu,698,2021-22
+2041,Shaqai,Forde,725,2021-22
+2042,Tiago,Çukur,732,2021-22
+2043,Adrian,Blake,733,2021-22
+2044,Jack,Grieves,734,2021-22
+2045,Kurt,Zouma,128,2021-22
+2046,Mark,Noble,406,2021-22
+2047,Darren,Randolph,407,2021-22
+2048,Lukasz,Fabianski,408,2021-22
+2049,Angelo,Ogbonna,409,2021-22
+2050,Winston,Reid,410,2021-22
+2051,Aaron,Cresswell,411,2021-22
+2052,Andriy,Yarmolenko,412,2021-22
+2053,Michail,Antonio,413,2021-22
+2054,Craig,Dawson,414,2021-22
+2055,Ryan,Fredericks,415,2021-22
+2056,Manuel,Lanzini,416,2021-22
+2057,Arthur,Masuaku,417,2021-22
+2058,Vladimir,Coufal,418,2021-22
+2059,Saïd,Benrahma,419,2021-22
+2060,Jarrod,Bowen,420,2021-22
+2061,Declan,Rice,421,2021-22
+2062,Tomas,Soucek,422,2021-22
+2063,Pablo,Fornals,423,2021-22
+2064,Issa,Diop,424,2021-22
+2065,Ben,Johnson,425,2021-22
+2066,Alphonse,Areola,489,2021-22
+2067,Frederik,Alves,521,2021-22
+2068,Conor,Coventry,522,2021-22
+2069,Jamal,Baptiste,554,2021-22
+2070,Nikola,Vlasic,582,2021-22
+2071,Alex,Kral,589,2021-22
+2072,Harrison,Ashby,617,2021-22
+2073,Sonny,Perkins,634,2021-22
+2074,Ajibola,Alese,644,2021-22
+2075,Armstrong,Oko-Flex,652,2021-22
+2076,Pierre,Ekwah,682,2021-22
+2077,Daniel,Chesters,710,2021-22
+2078,João Filipe Iria,Santos Moutinho,426,2021-22
+2079,Rui Pedro,dos Santos Patrício,427,2021-22
+2080,Willy,Boly,428,2021-22
+2081,Conor,Coady,429,2021-22
+2082,Raúl,Jiménez,430,2021-22
+2083,Romain,Saïss,431,2021-22
+2084,Fernando,Marçal,432,2021-22
+2085,Jonathan,Castro Otto,433,2021-22
+2086,Leander,Dendoncker,434,2021-22
+2087,Adama,Traoré,435,2021-22
+2088,Rúben Diogo,da Silva Neves,436,2021-22
+2089,Nélson,Cabral Semedo,437,2021-22
+2090,Daniel,Castelo Podence,438,2021-22
+2091,Max,Kilman,439,2021-22
+2092,Morgan,Gibbs-White,440,2021-22
+2093,Pedro,Lomba Neto,441,2021-22
+2094,Owen,Otasowie,442,2021-22
+2095,Ki-Jana,Hoever,443,2021-22
+2096,Andreas,Söndergaard,444,2021-22
+2097,Fabio,Silva,445,2021-22
+2098,Yerson,Mosquera Valdelamar,446,2021-22
+2099,John,Ruddy,452,2021-22
+2100,Francisco,Machado Mota de Castro Trincão,461,2021-22
+2101,Rayan,Ait Nouri,470,2021-22
+2102,José,Malheiro de Sá,475,2021-22
+2103,Patrick,Cutrone,523,2021-22
+2104,Luke,Cundle,547,2021-22
+2105,Chem,Campbell,548,2021-22
+2106,Christian,Marques,549,2021-22
+2107,Hee-Chan,Hwang,583,2021-22
+2108,Louie,Moulden,611,2021-22
+2109,James,Storer,621,2021-22
+2110,Hugo,Bueno,635,2021-22
+2111,Bruno André,Cavaco Jordão,661,2021-22
+2112,Toti António,Gomes,685,2021-22
+2113,Dion,Sanderson,686,2021-22
+2114,Ryan,Giles,687,2021-22
+2115,Francisco Jorge,Tomás Oliveira,689,2021-22
+2116,Granit,Xhaka,3,2022-23
+2117,Mohamed,Elneny,4,2022-23
+2118,Rob,Holding,5,2022-23
+2119,Thomas,Partey,6,2022-23
+2120,Martin,Ødegaard,7,2022-23
+2121,Kieran,Tierney,8,2022-23
+2122,Nicolas,Pépé,9,2022-23
+2123,Benjamin,White,10,2022-23
+2124,Eddie,Nketiah,11,2022-23
+2125,Emile,Smith Rowe,12,2022-23
+2126,Bukayo,Saka,13,2022-23
+2127,Takehiro,Tomiyasu,14,2022-23
+2128,Aaron,Ramsdale,15,2022-23
+2129,Gabriel,dos Santos Magalhães,16,2022-23
+2130,Nuno,Varela Tavares,17,2022-23
+2131,Gabriel,Martinelli Silva,19,2022-23
+2132,Pablo,Marí Villar,20,2022-23
+2133,Lucas,Torreira di Pascua,22,2022-23
+2134,Reiss,Nelson,23,2022-23
+2135,Matt,Turner,24,2022-23
+2136,Fábio,Ferreira Vieira,25,2022-23
+2137,William,Saliba,26,2022-23
+2138,Marcus,Oliveira Alencar,27,2022-23
+2139,Gabriel,Fernando de Jesus,28,2022-23
+2140,Leandro,Trossard,111,2022-23
+2141,Jorge Luiz,Frello Filho,130,2022-23
+2142,Oleksandr,Zinchenko,313,2022-23
+2143,Matthew,Smith,607,2022-23
+2144,Ethan,Nwaneri,630,2022-23
+2145,Lino,Sousa,631,2022-23
+2146,Karl,Hein,655,2022-23
+2147,Amario,Cozier-Duberry,668,2022-23
+2148,Nathan,Butler-Oyedeji,685,2022-23
+2149,Jakub,Kiwior,710,2022-23
+2150,Reuell,Walters,751,2022-23
+2151,Mauro,Bandeira,767,2022-23
+2152,Philippe,Coutinho Correia,29,2022-23
+2153,Emiliano,Martínez Romero,31,2022-23
+2154,Calum,Chambers,32,2022-23
+2155,Lucas,Digne,33,2022-23
+2156,Bertrand,Traoré,34,2022-23
+2157,Robin,Olsen,35,2022-23
+2158,Morgan,Sanson,36,2022-23
+2159,John,McGinn,37,2022-23
+2160,Kortney,Hause,38,2022-23
+2161,Tyrone,Mings,39,2022-23
+2162,Ollie,Watkins,40,2022-23
+2163,Marvelous,Nakamba,41,2022-23
+2164,Emiliano,Buendía Stati,42,2022-23
+2165,Matty,Cash,43,2022-23
+2166,Ezri,Konsa Ngoyo,44,2022-23
+2167,Leon,Bailey,45,2022-23
+2168,Douglas Luiz,Soares de Paulo,46,2022-23
+2169,Jacob,Ramsey,47,2022-23
+2170,Tim,Iroegbunam,49,2022-23
+2171,Diego Carlos,Santos Silva,50,2022-23
+2172,Anwar,El Ghazi,51,2022-23
+2173,Keinan,Davis,52,2022-23
+2174,Boubacar,Kamara,53,2022-23
+2175,Cameron,Archer,54,2022-23
+2176,Jaden,Philogene-Bidace,55,2022-23
+2177,Frédéric,Guilbert,56,2022-23
+2178,Leander,Dendoncker,479,2022-23
+2179,Ludwig,Augustinsson,525,2022-23
+2180,Kaine,Kesler Hayden,537,2022-23
+2181,Ashley,Young,538,2022-23
+2182,Lamare,Bogarde,638,2022-23
+2183,Filip,Marschall,670,2022-23
+2184,Kadan,Young,672,2022-23
+2185,Alexandre,Moreno Lopera,694,2022-23
+2186,Viljami,Sinisalo,707,2022-23
+2187,Jhon,Durán,711,2022-23
+2188,Sil,Swinkels,744,2022-23
+2189,Oliwier,Zych,745,2022-23
+2190,James,Wright,753,2022-23
+2191,Sebastian,Revan,754,2022-23
+2192,Travis,Patterson,755,2022-23
+2193,Tommi,O'Reilly,761,2022-23
+2194,Adam,Smith,57,2022-23
+2195,Junior,Stanislas,58,2022-23
+2196,Ryan,Fredericks,59,2022-23
+2197,David,Brooks,60,2022-23
+2198,Jamal,Lowe,61,2022-23
+2199,Kieffer,Moore,62,2022-23
+2200,Emiliano,Marcondes,63,2022-23
+2201,Jefferson,Lerma Solís,64,2022-23
+2202,Jack,Stacey,65,2022-23
+2203,Dominic,Solanke,66,2022-23
+2204,Lewis,Cook,67,2022-23
+2205,Ben,Pearson,68,2022-23
+2206,Ryan,Christie,69,2022-23
+2207,Philip,Billing,70,2022-23
+2208,Chris,Mepham,71,2022-23
+2209,Mark,Travers,72,2022-23
+2210,Lloyd,Kelly,73,2022-23
+2211,Siriki,Dembélé,74,2022-23
+2212,Jaidon,Anthony,75,2022-23
+2213,Jordan,Zemura,76,2022-23
+2214,Will,Dennis,77,2022-23
+2215,Jack,Stephens,404,2022-23
+2216,Joe,Rothwell,505,2022-23
+2217,Marcus,Tavernier,535,2022-23
+2218,James,Hill,539,2022-23
+2219,Darren,Randolph,571,2022-23
+2220,Norberto,Murara Neto,574,2022-23
+2221,Marcos,Senesi,576,2022-23
+2222,Christian,Saydee,597,2022-23
+2223,Owen,Bevan,598,2022-23
+2224,Cameron,Plain,649,2022-23
+2225,Daniel,Adu-Adjei,695,2022-23
+2226,Michael,Dacosta Gonzalez,696,2022-23
+2227,Dominic,Sadi,697,2022-23
+2228,Dango,Ouattara,705,2022-23
+2229,Euan,Pollock,706,2022-23
+2230,Antoine,Semenyo,714,2022-23
+2231,Matías,Viña,718,2022-23
+2232,Illia,Zabarnyi,722,2022-23
+2233,Hamed,Traorè,723,2022-23
+2234,Ben,Greenwood,737,2022-23
+2235,Max,Kinsey-Wellings,738,2022-23
+2236,Pontus,Jansson,78,2022-23
+2237,Christian,Nørgaard,79,2022-23
+2238,Ivan,Toney,80,2022-23
+2239,David,Raya Martin,81,2022-23
+2240,Sergi,Canós Tenés,82,2022-23
+2241,Josh,Dasilva,83,2022-23
+2242,Kristoffer,Ajer,84,2022-23
+2243,Rico,Henry,85,2022-23
+2244,Vitaly,Janelt,86,2022-23
+2245,Saman,Ghoddos,87,2022-23
+2246,Mathias,Jensen,88,2022-23
+2247,Yoane,Wissa,89,2022-23
+2248,Mads,Roerslev Rasmussen,90,2022-23
+2249,Mads,Bech Sørensen,91,2022-23
+2250,Ethan,Pinnock,92,2022-23
+2251,Frank,Onyeka,93,2022-23
+2252,Shandon,Baptiste,94,2022-23
+2253,Bryan,Mbeumo,95,2022-23
+2254,Charlie,Goode,96,2022-23
+2255,Marcus,Forss,97,2022-23
+2256,Dominic,Thompson,98,2022-23
+2257,Mads,Bidstrup,99,2022-23
+2258,Ellery,Balcombe,100,2022-23
+2259,Aaron,Hickey,510,2022-23
+2260,Keane,Lewis-Potter,515,2022-23
+2261,Thomas,Strakosha,517,2022-23
+2262,Ben,Mee,526,2022-23
+2263,Fin,Stevens,540,2022-23
+2264,Halil,Dervişoğlu,541,2022-23
+2265,Mikkel,Damsgaard,580,2022-23
+2266,Mathias,Jorgensen,595,2022-23
+2267,Ryan,Trevitt,632,2022-23
+2268,Matthew,Cox,633,2022-23
+2269,Tristan,Crama,646,2022-23
+2270,Yegor,Yarmolyuk,650,2022-23
+2271,Kevin,Schade,688,2022-23
+2272,Michael,Olakigbe,752,2022-23
+2273,Adam,Lallana,101,2022-23
+2274,Jason,Steele,102,2022-23
+2275,Danny,Welbeck,103,2022-23
+2276,Pascal,Groß,104,2022-23
+2277,Lewis,Dunk,106,2022-23
+2278,Solly,March,107,2022-23
+2279,Adam,Webster,108,2022-23
+2280,Joël,Veltman,109,2022-23
+2281,Robert,Sánchez,113,2022-23
+2282,Tariq,Lamptey,114,2022-23
+2283,Steven,Alzate,115,2022-23
+2284,Alexis,Mac Allister,116,2022-23
+2285,Jakub,Moder,117,2022-23
+2286,Enock,Mwepu,118,2022-23
+2287,Jeremy,Sarmiento Morante,119,2022-23
+2288,Moisés,Caicedo Corozo,120,2022-23
+2289,Taylor,Richards,121,2022-23
+2290,Haydon,Roberts,122,2022-23
+2291,Deniz,Undav,123,2022-23
+2292,Kaoru,Mitoma,124,2022-23
+2293,Julio,Enciso,125,2022-23
+2294,Kacper,Kozłowski,126,2022-23
+2295,Billy,Gilmour,149,2022-23
+2296,Kjell,Scherpen,542,2022-23
+2297,Matt,Clarke,543,2022-23
+2298,Jan Paul,van Hecke,544,2022-23
+2299,Levi,Colwill,559,2022-23
+2300,Pervis,Estupiñán,586,2022-23
+2301,Evan,Ferguson,596,2022-23
+2302,Ed,Turns,640,2022-23
+2303,Andrew,Moran,651,2022-23
+2304,James,Furlong,652,2022-23
+2305,Jack,Hinshelwood,677,2022-23
+2306,Facundo,Buonanotte,679,2022-23
+2307,Yasin,Ayari,719,2022-23
+2308,Odeluga,Offiah,736,2022-23
+2309,Tom,McGill,756,2022-23
+2310,Cameron,Peupion,762,2022-23
+2311,Imari,Samuels,765,2022-23
+2312,Carney,Chukwuemeka,48,2022-23
+2313,Marc,Cucurella Saseta,112,2022-23
+2314,César,Azpilicueta,127,2022-23
+2315,Thiago,Emiliano da Silva,128,2022-23
+2316,Marcos,Alonso,129,2022-23
+2317,Ross,Barkley,131,2022-23
+2318,Mateo,Kovacic,132,2022-23
+2319,Kepa,Arrizabalaga,133,2022-23
+2320,N'Golo,Kanté,134,2022-23
+2321,Hakim,Ziyech,135,2022-23
+2322,Ruben,Loftus-Cheek,136,2022-23
+2323,Timo,Werner,137,2022-23
+2324,Robert Kenedy,Nunes do Nascimento,138,2022-23
+2325,Ben,Chilwell,139,2022-23
+2326,Christian,Pulisic,140,2022-23
+2327,Trevoh,Chalobah,141,2022-23
+2328,Mason,Mount,142,2022-23
+2329,Malang,Sarr,143,2022-23
+2330,Callum,Hudson-Odoi,144,2022-23
+2331,Kai,Havertz,145,2022-23
+2332,Reece,James,146,2022-23
+2333,Edouard,Mendy,147,2022-23
+2334,Conor,Gallagher,148,2022-23
+2335,Armando,Broja,150,2022-23
+2336,Ethan,Ampadu,151,2022-23
+2337,Wesley,Fofana,272,2022-23
+2338,Raheem,Sterling,304,2022-23
+2339,Kalidou,Koulibaly,520,2022-23
+2340,Harvey,Vale,606,2022-23
+2341,Denis,Zakaria,616,2022-23
+2342,Pierre-Emerick,Aubameyang,617,2022-23
+2343,Marcus,Bettinelli,635,2022-23
+2344,Omari,Hutchinson,653,2022-23
+2345,Lewis,Hall,661,2022-23
+2346,Bashir,Humphreys,673,2022-23
+2347,David Datro,Fofana,684,2022-23
+2348,Benoît,Badiashile,689,2022-23
+2349,João,Félix Sequeira,690,2022-23
+2350,Mykhailo,Mudryk,699,2022-23
+2351,Andrey,Nascimento dos Santos,702,2022-23
+2352,Noni,Madueke,708,2022-23
+2353,Enzo,Fernández,724,2022-23
+2354,Ethan,Wady,771,2022-23
+2355,Alfie,Gilchrist,775,2022-23
+2356,Albert,Sambi Lokonga,18,2022-23
+2357,Vicente,Guaita,152,2022-23
+2358,James,Tomkins,153,2022-23
+2359,James,McArthur,154,2022-23
+2360,Christian,Benteke,155,2022-23
+2361,Joel,Ward,156,2022-23
+2362,Nathaniel,Clyne,157,2022-23
+2363,Luka,Milivojevic,158,2022-23
+2364,Jordan,Ayew,159,2022-23
+2365,Wilfried,Zaha,160,2022-23
+2366,Jeffrey,Schlupp,161,2022-23
+2367,Will,Hughes,163,2022-23
+2368,Jairo,Riedewald,164,2022-23
+2369,Joachim,Andersen,165,2022-23
+2370,Odsonne,Edouard,166,2022-23
+2371,Marc,Guéhi,167,2022-23
+2372,Jean-Philippe,Mateta,168,2022-23
+2373,Eberechi,Eze,169,2022-23
+2374,Tyrick,Mitchell,170,2022-23
+2375,Michael,Olise,171,2022-23
+2376,Jesurun,Rak-Sakyi,172,2022-23
+2377,Malcolm,Ebiowei,173,2022-23
+2378,Nathan,Ferguson,174,2022-23
+2379,Sam,Johnstone,175,2022-23
+2380,Remi,Matthews,495,2022-23
+2381,Luke,Plange,496,2022-23
+2382,Cheick,Doucouré,514,2022-23
+2383,Chris,Richards,530,2022-23
+2384,Joseph,Whitworth,590,2022-23
+2385,Kaden,Rodney,601,2022-23
+2386,Killian,Phillips,604,2022-23
+2387,John-Kymani,Gordon,634,2022-23
+2388,Kofi,Balmer,642,2022-23
+2389,Owen,Goodman,644,2022-23
+2390,Jack,Wells-Morrison,654,2022-23
+2391,David,Ozoh,676,2022-23
+2392,Naouirou,Ahamada,725,2022-23
+2393,Tayo,Adaramola,766,2022-23
+2394,Neal,Maupay,110,2022-23
+2395,Asmir,Begović,176,2022-23
+2396,Salomón,Rondón,177,2022-23
+2397,Seamus,Coleman,178,2022-23
+2398,Andros,Townsend,179,2022-23
+2399,Michael,Keane,180,2022-23
+2400,Dele,Alli,181,2022-23
+2401,Jordan,Pickford,182,2022-23
+2402,Allan,Marques Loureiro,183,2022-23
+2403,André,Tavares Gomes,184,2022-23
+2404,Abdoulaye,Doucouré,185,2022-23
+2405,Alex,Iwobi,186,2022-23
+2406,Jean-Philippe,Gbamin,187,2022-23
+2407,Yerry,Mina,188,2022-23
+2408,Demarai,Gray,189,2022-23
+2409,Tom,Davies,190,2022-23
+2410,Dominic,Calvert-Lewin,191,2022-23
+2411,Mason,Holgate,192,2022-23
+2412,Ben,Godfrey,193,2022-23
+2413,Vitalii,Mykolenko,194,2022-23
+2414,Jarrad,Branthwaite,196,2022-23
+2415,Nathan,Patterson,197,2022-23
+2416,Niels,Nkounkou,198,2022-23
+2417,James,Tarkowski,199,2022-23
+2418,Conor,Coady,475,2022-23
+2419,Rúben,Nascimento Vinagre,531,2022-23
+2420,Dwight,McNeil,534,2022-23
+2421,Stanley,Mills,560,2022-23
+2422,Lewis,Warrington,561,2022-23
+2423,James,Garner,570,2022-23
+2424,Amadou,Onana,577,2022-23
+2425,Reece,Welch,605,2022-23
+2426,Idrissa,Gueye,611,2022-23
+2427,Eldin,Jakupovic,627,2022-23
+2428,Kyle,John,637,2022-23
+2429,Thomas,Cannon,662,2022-23
+2430,Isaac,Price,678,2022-23
+2431,Ellis,Simms,686,2022-23
+2432,Ishé,Samuels-Smith,757,2022-23
+2433,Andy,Lonergan,760,2022-23
+2434,Sean,McAllister,768,2022-23
+2435,Cédric,Alves Soares,1,2022-23
+2436,Bernd,Leno,2,2022-23
+2437,Shane,Duffy,105,2022-23
+2438,Tom,Cairney,200,2022-23
+2439,Tim,Ream,201,2022-23
+2440,Anthony,Knockaert,202,2022-23
+2441,Nathaniel,Chalobah,203,2022-23
+2442,Neeskens,Kebano,204,2022-23
+2443,Bobby,De Cordova-Reid,205,2022-23
+2444,Joe,Bryan,206,2022-23
+2445,Paulo,Gazzaniga Farias,207,2022-23
+2446,Terence,Kongolo,208,2022-23
+2447,Tosin,Adarabioyo,209,2022-23
+2448,Aleksandar,Mitrović,210,2022-23
+2449,Harrison,Reed,211,2022-23
+2450,Harry,Wilson,212,2022-23
+2451,Marek,Rodák,213,2022-23
+2452,Ivan,Neves Abreu Cavaleiro,214,2022-23
+2453,Kenny,Tete,215,2022-23
+2454,Josh,Onomah,216,2022-23
+2455,Antonee,Robinson,217,2022-23
+2456,Rodrigo,Muniz Carvalho,218,2022-23
+2457,Jay,Stansfield,219,2022-23
+2458,João,Palhinha Gonçalves,220,2022-23
+2459,Daniel,James,231,2022-23
+2460,Andreas,Hoelgebaum Pereira,346,2022-23
+2461,Issa,Diop,470,2022-23
+2462,Tyrese,Francois,521,2022-23
+2463,Kevin,Mbabu,532,2022-23
+2464,Luke,Harris,546,2022-23
+2465,Manor,Solomon,562,2022-23
+2466,Terry,Ablade,591,2022-23
+2467,Layvin,Kurzawa,613,2022-23
+2468,Willian,Borges da Silva,614,2022-23
+2469,Carlos Vinícius,Alves Morais,618,2022-23
+2470,Stefan,Parkes,636,2022-23
+2471,Martial,Godo,641,2022-23
+2472,Kristian,Sekularac,667,2022-23
+2473,Sasa,Lukic,726,2022-23
+2474,George,Wickens,747,2022-23
+2475,Charlie,Robinson,750,2022-23
+2476,Matthew,Dibley-Dias,763,2022-23
+2477,Kasper,Schmeichel,248,2022-23
+2478,Jonny,Evans,249,2022-23
+2479,Ryan,Bertrand,250,2022-23
+2480,Marc,Albrighton,251,2022-23
+2481,Nampalys,Mendy,252,2022-23
+2482,Jannik,Vestergaard,253,2022-23
+2483,Danny,Ward,254,2022-23
+2484,Jamie,Vardy,255,2022-23
+2485,Ricardo,Barbosa Pereira,256,2022-23
+2486,Daniel,Amartey,257,2022-23
+2487,Timothy,Castagne,258,2022-23
+2488,Youri,Tielemans,259,2022-23
+2489,Ayoze,Pérez,260,2022-23
+2490,James,Maddison,261,2022-23
+2491,Kelechi,Iheanacho,262,2022-23
+2492,Hamza,Choudhury,263,2022-23
+2493,Harvey,Barnes,264,2022-23
+2494,Wilfred,Ndidi,265,2022-23
+2495,Kiernan,Dewsbury-Hall,266,2022-23
+2496,Çaglar,Söyüncü,267,2022-23
+2497,James,Justin,268,2022-23
+2498,Boubakary,Soumaré,269,2022-23
+2499,Luke,Thomas,270,2022-23
+2500,Patson,Daka,271,2022-23
+2501,Lewis,Brunt,273,2022-23
+2502,Daniel,Iversen,548,2022-23
+2503,Dennis,Praet,549,2022-23
+2504,Alex,Smithies,581,2022-23
+2505,Wout,Faes,612,2022-23
+2506,Sammy,Braybrooke,639,2022-23
+2507,Joe,Wormleighton,645,2022-23
+2508,Kasey,McAteer,687,2022-23
+2509,Victor,Kristiansen,709,2022-23
+2510,Mateus,Cardoso Lemos Martins,715,2022-23
+2511,Harry,Souttar,727,2022-23
+2512,Wanya,Marçal-Madivadua,735,2022-23
+2513,Liam,Cooper,221,2022-23
+2514,Luke,Ayling,222,2022-23
+2515,Mateusz,Klich,223,2022-23
+2516,Adam,Forshaw,224,2022-23
+2517,Rodrigo,Moreno,225,2022-23
+2518,Stuart,Dallas,226,2022-23
+2519,Patrick,Bamford,227,2022-23
+2520,Diego,Llorente,228,2022-23
+2521,Tyler,Roberts,229,2022-23
+2522,Robin,Koch,230,2022-23
+2523,Raphael,Dias Belloli,232,2022-23
+2524,Jack,Harrison,233,2022-23
+2525,Jamie,Shackleton,234,2022-23
+2526,Pascal,Struijk,235,2022-23
+2527,Kristoffer,Klaesson,236,2022-23
+2528,Sam,Greenwood,237,2022-23
+2529,Illan,Meslier,238,2022-23
+2530,Junior,Firpo Adames,239,2022-23
+2531,Crysencio,Summerville,240,2022-23
+2532,Lewis,Bate,241,2022-23
+2533,Joe,Gelhardt,242,2022-23
+2534,Leo Fuhr,Hjelde,243,2022-23
+2535,Rasmus,Kristensen,244,2022-23
+2536,Marc,Roca Junqué,245,2022-23
+2537,Brenden,Aaronson,246,2022-23
+2538,Darko,Gyabi,247,2022-23
+2539,Tyler,Adams,506,2022-23
+2540,Luis,Sinisterra Lucumí,508,2022-23
+2541,Cody,Drameh,547,2022-23
+2542,Archie,Gray,565,2022-23
+2543,Joel,Robles,578,2022-23
+2544,Wilfried,Gnonto,619,2022-23
+2545,Mateo Joseph,Fernández,659,2022-23
+2546,Sonny,Perkins,663,2022-23
+2547,Maximilian,Wöber,691,2022-23
+2548,Georginio,Rutter,700,2022-23
+2549,Weston,McKennie,720,2022-23
+2550,Jeremiah,Chilokoa-Mullen,742,2022-23
+2551,Diogo,Pinheiro Monteiro,743,2022-23
+2552,James,Milner,274,2022-23
+2553,Jordan,Henderson,275,2022-23
+2554,Joel,Matip,276,2022-23
+2555,Thiago,Alcántara do Nascimento,277,2022-23
+2556,Alex,Oxlade-Chamberlain,278,2022-23
+2557,Roberto,Firmino,279,2022-23
+2558,Virgil,van Dijk,280,2022-23
+2559,Alisson,Ramses Becker,281,2022-23
+2560,Fabio Henrique,Tavares,282,2022-23
+2561,Mohamed,Salah,283,2022-23
+2562,Andrew,Robertson,284,2022-23
+2563,Trent,Alexander-Arnold,285,2022-23
+2564,Joseph,Gomez,286,2022-23
+2565,Naby,Keita,287,2022-23
+2566,Diogo,Teixeira da Silva,288,2022-23
+2567,Caoimhin,Kelleher,289,2022-23
+2568,Ibrahima,Konaté,290,2022-23
+2569,Curtis,Jones,291,2022-23
+2570,Konstantinos,Tsimikas,292,2022-23
+2571,Luis,Díaz,293,2022-23
+2572,Harvey,Elliott,294,2022-23
+2573,Fábio,Freitas Gouveia Carvalho,296,2022-23
+2574,Darwin,Núñez Ribeiro,297,2022-23
+2575,Calvin,Ramsay,298,2022-23
+2576,Adrián,San Miguel del Castillo,497,2022-23
+2577,Rhys,Williams,498,2022-23
+2578,Ben,Davies,499,2022-23
+2579,Sepp,van den Berg,500,2022-23
+2580,Nathaniel,Phillips,501,2022-23
+2581,Luke,Chambers,563,2022-23
+2582,Stefan,Bajcetic,564,2022-23
+2583,Bobby,Clark,584,2022-23
+2584,Harvey,Davies,592,2022-23
+2585,Arthur Henrique,Ramos de Oliveira Melo,620,2022-23
+2586,Ben,Doak,665,2022-23
+2587,Cody,Gakpo,680,2022-23
+2588,Kyle,Walker,299,2022-23
+2589,Ilkay,Gündogan,300,2022-23
+2590,Kevin,De Bruyne,301,2022-23
+2591,John,Stones,302,2022-23
+2592,Riyad,Mahrez,303,2022-23
+2593,Jack,Grealish,305,2022-23
+2594,João,Cancelo,306,2022-23
+2595,Ederson,Santana de Moraes,307,2022-23
+2596,Nathan,Aké,308,2022-23
+2597,Aymeric,Laporte,309,2022-23
+2598,Zack,Steffen,310,2022-23
+2599,Bernardo,Veiga de Carvalho e Silva,311,2022-23
+2600,Rúben,Gato Alves Dias,312,2022-23
+2601,Phil,Foden,314,2022-23
+2602,Rodrigo,Hernandez,315,2022-23
+2603,Cole,Palmer,316,2022-23
+2604,James,McAtee,317,2022-23
+2605,Erling,Haaland,318,2022-23
+2606,Julián,Álvarez,319,2022-23
+2607,Luke,Mbete-Tabu,320,2022-23
+2608,Josh,Wilson-Esbrand,322,2022-23
+2609,Liam,Delap,323,2022-23
+2610,Stefan,Ortega Moreno,324,2022-23
+2611,Kalvin,Phillips,325,2022-23
+2612,Scott,Carson,502,2022-23
+2613,Rico,Lewis,573,2022-23
+2614,Sergio,Gómez,587,2022-23
+2615,Claudio,Gomes,599,2022-23
+2616,Ben,Knight,600,2022-23
+2617,Manuel,Akanji,610,2022-23
+2618,Máximo,Perrone,712,2022-23
+2619,Alex,Robertson,772,2022-23
+2620,Shea,Charles,773,2022-23
+2621,Nico,O'Reilly,774,2022-23
+2622,Jack,Butland,162,2022-23
+2623,Cristiano Ronaldo,dos Santos Aveiro,326,2022-23
+2624,David,De Gea Quintana,327,2022-23
+2625,Phil,Jones,328,2022-23
+2626,Raphaël,Varane,329,2022-23
+2627,Harry,Maguire,330,2022-23
+2628,Frederico,Rodrigues de Paula Santos,331,2022-23
+2629,Luke,Shaw,332,2022-23
+2630,Bruno,Borges Fernandes,333,2022-23
+2631,Alex,Telles,334,2022-23
+2632,Marcus,Rashford,335,2022-23
+2633,Donny,van de Beek,336,2022-23
+2634,Victor,Lindelöf,337,2022-23
+2635,Scott,McTominay,338,2022-23
+2636,Eric,Bailly,339,2022-23
+2637,Jadon,Sancho,340,2022-23
+2638,Aaron,Wan-Bissaka,341,2022-23
+2639,Diogo,Dalot Teixeira,342,2022-23
+2640,Brandon,Williams,343,2022-23
+2641,Anthony,Elanga,344,2022-23
+2642,Anthony,Martial,345,2022-23
+2643,Facundo,Pellistri Rebollo,347,2022-23
+2644,Tom,Heaton,348,2022-23
+2645,Tyrell,Malacia,504,2022-23
+2646,Christian,Eriksen,519,2022-23
+2647,Lisandro,Martínez,533,2022-23
+2648,Amad,Diallo,550,2022-23
+2649,Zidane,Iqbal,551,2022-23
+2650,Alejandro,Garnacho,569,2022-23
+2651,Carlos Henrique,Casimiro,593,2022-23
+2652,Antony Matheus,dos Santos,609,2022-23
+2653,Matej,Kovár,615,2022-23
+2654,Kobbie,Mainoo,643,2022-23
+2655,Nathan,Bishop,656,2022-23
+2656,Shola,Shoretire,660,2022-23
+2657,Rhys,Bennett,674,2022-23
+2658,Wout,Weghorst,701,2022-23
+2659,Marcel,Sabitzer,728,2022-23
+2660,Marc,Jurado Gomez,759,2022-23
+2661,Anthony,Gordon,195,2022-23
+2662,Matt,Ritchie,350,2022-23
+2663,Federico,Fernández,351,2022-23
+2664,Ciaran,Clark,352,2022-23
+2665,Karl,Darlow,353,2022-23
+2666,Martin,Dubravka,355,2022-23
+2667,Callum,Wilson,356,2022-23
+2668,Kieran,Trippier,357,2022-23
+2669,Dan,Burn,358,2022-23
+2670,Ryan,Fraser,359,2022-23
+2671,Jamaal,Lascelles,360,2022-23
+2672,Dwight,Gayle,361,2022-23
+2673,Paul,Dummett,362,2022-23
+2674,Javier,Manquillo Gaitán,363,2022-23
+2675,Emil,Krafth,364,2022-23
+2676,Jacob,Murphy,365,2022-23
+2677,Fabian,Schär,366,2022-23
+2678,Matt,Targett,367,2022-23
+2679,Allan,Saint-Maximin,368,2022-23
+2680,Miguel,Almirón Rejala,369,2022-23
+2681,Sean,Longstaff,370,2022-23
+2682,Joelinton Cássio,Apolinário de Lira,371,2022-23
+2683,Jamal,Lewis,372,2022-23
+2684,Joe,Willock,373,2022-23
+2685,Bruno,Guimarães Rodriguez Moura,374,2022-23
+2686,Jeff,Hendrick,375,2022-23
+2687,Nick,Pope,376,2022-23
+2688,Sven,Botman,377,2022-23
+2689,Elliot,Anderson,552,2022-23
+2690,Harrison,Ashby,555,2022-23
+2691,Alexander,Isak,594,2022-23
+2692,Loris,Karius,626,2022-23
+2693,Garang,Kuol,683,2022-23
+2694,Lewis,Miley,741,2022-23
+2695,Mark,Gillespie,776,2022-23
+2696,Neco,Williams,295,2022-23
+2697,Jonjo,Shelvey,349,2022-23
+2698,Chris,Wood,354,2022-23
+2699,Harry,Arter,378,2022-23
+2700,Steve,Cook,379,2022-23
+2701,Lyle,Taylor,380,2022-23
+2702,Jack,Colback,381,2022-23
+2703,Brice,Samba,382,2022-23
+2704,Carlos,Ribeiro Dias,383,2022-23
+2705,Joe,Lolley,384,2022-23
+2706,Scott,McKenna,385,2022-23
+2707,Mohamed,Dräger,386,2022-23
+2708,Ryan,Yates,387,2022-23
+2709,Joe,Worrall,388,2022-23
+2710,Jonathan,Panzo,389,2022-23
+2711,Xande,Nascimento da Costa Silva,390,2022-23
+2712,Sam,Surridge,391,2022-23
+2713,Richie,Laryea,392,2022-23
+2714,Loïc,Mbe Soh,393,2022-23
+2715,Brennan,Johnson,394,2022-23
+2716,Alex,Mighten,395,2022-23
+2717,Braian,Ojeda Rodríguez,396,2022-23
+2718,Taiwo,Awoniyi,397,2022-23
+2719,Dean,Henderson,398,2022-23
+2720,Giulian,Biancone,399,2022-23
+2721,Willy,Boly,474,2022-23
+2722,Morgan,Gibbs-White,493,2022-23
+2723,Moussa,Niakhaté,507,2022-23
+2724,Omar,Richards,511,2022-23
+2725,Wayne,Hennessey,518,2022-23
+2726,Harry,Toffolo,523,2022-23
+2727,Lewis,O'Brien,524,2022-23
+2728,Jesse,Lingard,527,2022-23
+2729,Orel,Mangala,536,2022-23
+2730,Oliver,Hammond,553,2022-23
+2731,Remo,Freuler,582,2022-23
+2732,Cheikhou,Kouyaté,583,2022-23
+2733,Emmanuel,Dennis,585,2022-23
+2734,Renan Augusto,Lodi dos Santos,602,2022-23
+2735,Loïc,Badé,621,2022-23
+2736,Serge,Aurier,628,2022-23
+2737,Dale,Taylor,666,2022-23
+2738,Jordan,Smith,675,2022-23
+2739,Gustavo Henrique,Furtado Scarpa,681,2022-23
+2740,Danilo,dos Santos de Oliveira,703,2022-23
+2741,Keylor,Navas,729,2022-23
+2742,Felipe Augusto,de Almeida Monteiro,730,2022-23
+2743,André,Ayew,734,2022-23
+2744,George,Shelvey,749,2022-23
+2745,Ainsley,Maitland-Niles,21,2022-23
+2746,Roméo,Lavia,321,2022-23
+2747,Theo,Walcott,400,2022-23
+2748,Alex,McCarthy,401,2022-23
+2749,Oriol,Romeu Vidal,402,2022-23
+2750,Nathan,Redmond,403,2022-23
+2751,Stuart,Armstrong,405,2022-23
+2752,Mohamed,Elyounoussi,406,2022-23
+2753,James,Ward-Prowse,407,2022-23
+2754,Adam,Armstrong,408,2022-23
+2755,Kyle,Walker-Peters,409,2022-23
+2756,Jan,Bednarek,410,2022-23
+2757,Che,Adams,411,2022-23
+2758,Nathan,Tella,412,2022-23
+2759,Lyanco,Silveira Neves Vojnovic,413,2022-23
+2760,Yan,Valery,414,2022-23
+2761,Will,Smallbone,415,2022-23
+2762,Ibrahima,Diallo,416,2022-23
+2763,Romain,Perraud,417,2022-23
+2764,Moussa,Djenepo,418,2022-23
+2765,Tino,Livramento,419,2022-23
+2766,Mohammed,Salisu,420,2022-23
+2767,Mateusz,Lis,421,2022-23
+2768,Gavin,Bazunu,422,2022-23
+2769,Armel,Bella-Kotchap,423,2022-23
+2770,Willy,Caballero,424,2022-23
+2771,Joe,Ayodele-Aribo,512,2022-23
+2772,Sékou,Mara,528,2022-23
+2773,Juan,Larios López,622,2022-23
+2774,Duje,Caleta-Car,623,2022-23
+2775,Samuel,Edozie,624,2022-23
+2776,Lewis,Payne,647,2022-23
+2777,Ryan,Finnigan,648,2022-23
+2778,Jimmy,Morgan,671,2022-23
+2779,Mislav,Orsic,692,2022-23
+2780,Carlos,Alcaraz,693,2022-23
+2781,James,Bree,716,2022-23
+2782,Kamaldeen,Sulemana,731,2022-23
+2783,Paul,Onuachu,732,2022-23
+2784,Kamari,Doyle,769,2022-23
+2785,Dominic,Ballard,770,2022-23
+2786,Samuel,Amo-Ameyaw,778,2022-23
+2787,Hugo,Lloris,425,2022-23
+2788,Fraser,Forster,426,2022-23
+2789,Harry,Kane,427,2022-23
+2790,Son,Heung-min,428,2022-23
+2791,Matt,Doherty,429,2022-23
+2792,Eric,Dier,430,2022-23
+2793,Lucas,Rodrigues Moura da Silva,431,2022-23
+2794,Ben,Davies,432,2022-23
+2795,Pierre-Emile,Højbjerg,433,2022-23
+2796,Harry,Winks,434,2022-23
+2797,Davinson,Sánchez,435,2022-23
+2798,Ryan,Sessegnon,436,2022-23
+2799,Steven,Bergwijn,437,2022-23
+2800,Sergio,Reguilón,438,2022-23
+2801,Japhet,Tanganga,439,2022-23
+2802,Rodrigo,Bentancur,440,2022-23
+2803,Oliver,Skipp,441,2022-23
+2804,Joe,Rodon,442,2022-23
+2805,Cristian,Romero,443,2022-23
+2806,Yves,Bissouma,444,2022-23
+2807,Emerson,Leite de Souza Junior,445,2022-23
+2808,Dejan,Kulusevski,446,2022-23
+2809,Dane,Scarlett,447,2022-23
+2810,Ivan,Perišić,448,2022-23
+2811,Harvey,White,449,2022-23
+2812,Pape Matar,Sarr,450,2022-23
+2813,Brandon,Austin,451,2022-23
+2814,Alfie,Devine,452,2022-23
+2815,Troy,Parrott,453,2022-23
+2816,Richarlison,de Andrade,454,2022-23
+2817,Clément,Lenglet,513,2022-23
+2818,Djed,Spence,522,2022-23
+2819,Bryan,Gil Salvatierra,554,2022-23
+2820,Arnaut,Danjuma,713,2022-23
+2821,Pedro,Porro,733,2022-23
+2822,Romaine,Mundle,748,2022-23
+2823,George,Abbott,758,2022-23
+2824,Matthew,Craig,764,2022-23
+2825,Yago,de Santiago Alonso,777,2022-23
+2826,Danny,Ings,30,2022-23
+2827,Lukasz,Fabianski,455,2022-23
+2828,Angelo,Ogbonna,456,2022-23
+2829,Aaron,Cresswell,457,2022-23
+2830,Michail,Antonio,458,2022-23
+2831,Manuel,Lanzini,460,2022-23
+2832,Kurt,Zouma,461,2022-23
+2833,Arthur,Masuaku,462,2022-23
+2834,Vladimir,Coufal,463,2022-23
+2835,Saïd,Benrahma,464,2022-23
+2836,Jarrod,Bowen,465,2022-23
+2837,Nikola,Vlasic,466,2022-23
+2838,Declan,Rice,467,2022-23
+2839,Tomas,Soucek,468,2022-23
+2840,Pablo,Fornals Malla,469,2022-23
+2841,Ben,Johnson,471,2022-23
+2842,Nayef,Aguerd,472,2022-23
+2843,Alphonse,Areola,473,2022-23
+2844,Flynn,Downes,509,2022-23
+2845,Gianluca,Scamacca,529,2022-23
+2846,Emerson,Palmieri dos Santos,545,2022-23
+2847,Conor,Coventry,556,2022-23
+2848,Armstrong,Oko-Flex,572,2022-23
+2849,Maxwel,Cornet,575,2022-23
+2850,Thilo,Kehrer,588,2022-23
+2851,Lucas,Tolentino Coelho de Lima,603,2022-23
+2852,Divin,Mubama,669,2022-23
+2853,Joseph,Anang,739,2022-23
+2854,Krisztián,Hegyi,740,2022-23
+2855,Kaelan,Casey,746,2022-23
+2856,Craig,Dawson,459,2022-23
+2857,Raúl,Jiménez,476,2022-23
+2858,Jonathan,Castro Otto,477,2022-23
+2859,José,Malheiro de Sá,478,2022-23
+2860,Rúben,da Silva Neves,480,2022-23
+2861,Hwang,Hee-chan,481,2022-23
+2862,Nélson,Cabral Semedo,482,2022-23
+2863,Daniel,Castelo Podence,483,2022-23
+2864,Max,Kilman,484,2022-23
+2865,Luke,Cundle,485,2022-23
+2866,Pedro,Lomba Neto,486,2022-23
+2867,Rayan,Aït-Nouri,487,2022-23
+2868,Fabio,Silva,488,2022-23
+2869,Toti António,Gomes,489,2022-23
+2870,Francisco Jorge,Tomás Oliveira,490,2022-23
+2871,Adama,Traoré Diarra,491,2022-23
+2872,Matija,Šarkić,492,2022-23
+2873,Yerson,Mosquera Valdelamar,494,2022-23
+2874,João Filipe Iria,Santos Moutinho,503,2022-23
+2875,Nathan,Collins,516,2022-23
+2876,Jackson,Smith,557,2022-23
+2877,Hugo,Bueno López,558,2022-23
+2878,Joseph,Hodge,566,2022-23
+2879,Connor,Ronan,567,2022-23
+2880,Chem,Campbell,568,2022-23
+2881,Gonçalo Manuel,Ganchinho Guedes,579,2022-23
+2882,Matheus Luiz,Nunes,589,2022-23
+2883,Sasa,Kalajdzic,608,2022-23
+2884,Diego,Da Silva Costa,625,2022-23
+2885,Boubacar,Traoré,629,2022-23
+2886,Nathan,Fraser,657,2022-23
+2887,Harvey,Griffiths,658,2022-23
+2888,Dexter,Lembikisa,664,2022-23
+2889,Matheus,Santos Carneiro Da Cunha,682,2022-23
+2890,Mario,Lemina,698,2022-23
+2891,Pablo,Sarabia,704,2022-23
+2892,Daniel,Bentley,717,2022-23
+2893,João Victor,Gomes da Silva,721,2022-23
+2894,Folarin,Balogun,1,2023-24
+2895,Cédric,Alves Soares,2,2023-24
+2896,Mohamed,Elneny,3,2023-24
+2897,Fábio,Ferreira Vieira,4,2023-24
+2898,Gabriel,dos Santos Magalhães,5,2023-24
+2899,Kai,Havertz,6,2023-24
+2900,Gabriel,Fernando de Jesus,8,2023-24
+2901,Jorge Luiz,Frello Filho,9,2023-24
+2902,Jakub,Kiwior,10,2023-24
+2903,Marcus,Oliveira Alencar,11,2023-24
+2904,Gabriel,Martinelli Silva,12,2023-24
+2905,Eddie,Nketiah,13,2023-24
+2906,Martin,Ødegaard,14,2023-24
+2907,Thomas,Partey,15,2023-24
+2908,Nicolas,Pépé,16,2023-24
+2909,Aaron,Ramsdale,17,2023-24
+2910,Rúnar Alex,Rúnarsson,18,2023-24
+2911,Bukayo,Saka,19,2023-24
+2912,William,Saliba,20,2023-24
+2913,Emile,Smith Rowe,22,2023-24
+2914,Kieran,Tierney,24,2023-24
+2915,Takehiro,Tomiyasu,25,2023-24
+2916,Leandro,Trossard,26,2023-24
+2917,Benjamin,White,29,2023-24
+2918,Granit,Xhaka,30,2023-24
+2919,Oleksandr,Zinchenko,31,2023-24
+2920,David,Raya Martin,113,2023-24
+2921,Declan,Rice,540,2023-24
+2922,Reiss,Nelson,578,2023-24
+2923,Jurriën,Timber,585,2023-24
+2924,Karl,Hein,646,2023-24
+2925,Charles,Sagoe,735,2023-24
+2926,Reuell,Walters,736,2023-24
+2927,Bradley,Ibrahim,737,2023-24
+2928,Myles,Lewis-Skelly,764,2023-24
+2929,Ethan,Nwaneri,772,2023-24
+2930,Mauro,Bandeira,815,2023-24
+2931,James,Sweet,817,2023-24
+2932,Alexandre,Moreno Lopera,32,2023-24
+2933,Leon,Bailey,34,2023-24
+2934,Emiliano,Buendía Stati,35,2023-24
+2935,Matty,Cash,36,2023-24
+2936,Calum,Chambers,37,2023-24
+2937,Philippe,Coutinho Correia,38,2023-24
+2938,Keinan,Davis,39,2023-24
+2939,Leander,Dendoncker,40,2023-24
+2940,Diego Carlos,Santos Silva,41,2023-24
+2941,Lucas,Digne,42,2023-24
+2942,Douglas Luiz,Soares de Paulo,43,2023-24
+2943,Jhon,Durán,44,2023-24
+2944,Kortney,Hause,45,2023-24
+2945,Tim,Iroegbunam,46,2023-24
+2946,Boubacar,Kamara,47,2023-24
+2947,Ezri,Konsa Ngoyo,48,2023-24
+2948,Emiliano,Martínez Romero,49,2023-24
+2949,John,McGinn,50,2023-24
+2950,Tyrone,Mings,51,2023-24
+2951,Robin,Olsen,53,2023-24
+2952,Jaden,Philogene-Bidace,54,2023-24
+2953,Jacob,Ramsey,55,2023-24
+2954,Morgan,Sanson,56,2023-24
+2955,Viljami,Sinisalo,57,2023-24
+2956,Youri,Tielemans,58,2023-24
+2957,Bertrand,Traoré,59,2023-24
+2958,Ollie,Watkins,60,2023-24
+2959,Wesley,Moraes Ferreira da Silva,61,2023-24
+2960,Pau,Torres,584,2023-24
+2961,Moussa,Diaby,599,2023-24
+2962,Omari,Kellyman,618,2023-24
+2963,Filip,Marschall,670,2023-24
+2964,Nicolò,Zaniolo,672,2023-24
+2965,Oliwier,Zych,686,2023-24
+2966,Clément,Lenglet,699,2023-24
+2967,Sam,Proctor,765,2023-24
+2968,Tommi,O'Reilly,767,2023-24
+2969,James,Wright,778,2023-24
+2970,Kaine,Kesler-Hayden,793,2023-24
+2971,Morgan,Rogers,803,2023-24
+2972,Joe,Gauci,818,2023-24
+2973,Finley,Munroe,854,2023-24
+2974,Kadan,Young,865,2023-24
+2975,Lander,Emery,866,2023-24
+2976,Jaidon,Anthony,62,2023-24
+2977,Philip,Billing,63,2023-24
+2978,David,Brooks,64,2023-24
+2979,Ryan,Christie,65,2023-24
+2980,Lewis,Cook,66,2023-24
+2981,Siriki,Dembélé,67,2023-24
+2982,Ryan,Fredericks,68,2023-24
+2983,James,Hill,69,2023-24
+2984,Lloyd,Kelly,70,2023-24
+2985,Gavin,Kilkenny,71,2023-24
+2986,Justin,Kluivert,72,2023-24
+2987,Jamal,Lowe,73,2023-24
+2988,Emiliano,Marcondes,74,2023-24
+2989,Chris,Mepham,75,2023-24
+2990,Kieffer,Moore,76,2023-24
+2991,Norberto,Murara Neto,77,2023-24
+2992,Dango,Ouattara,78,2023-24
+2993,Ben,Pearson,79,2023-24
+2994,Darren,Randolph,80,2023-24
+2995,Joe,Rothwell,81,2023-24
+2996,Antoine,Semenyo,82,2023-24
+2997,Marcos,Senesi,83,2023-24
+2998,Adam,Smith,84,2023-24
+2999,Dominic,Solanke,85,2023-24
+3000,Marcus,Tavernier,86,2023-24
+3001,Hamed,Traorè,87,2023-24
+3002,Mark,Travers,88,2023-24
+3003,Illia,Zabarnyi,89,2023-24
+3004,Milos,Kerkez,595,2023-24
+3005,Ionuț,Radu,607,2023-24
+3006,Ben,Greenwood,619,2023-24
+3007,Max,Aarons,643,2023-24
+3008,Alex,Scott,644,2023-24
+3009,Tyler,Adams,673,2023-24
+3010,Luis,Sinisterra,705,2023-24
+3011,Romain,Faivre,799,2023-24
+3012,Max,Kinsey,802,2023-24
+3013,Enes,Ünal,804,2023-24
+3014,Dominic,Sadi,811,2023-24
+3015,Michael,Dacosta Gonzalez,849,2023-24
+3016,Callan,McKenna,855,2023-24
+3017,Kristoffer,Ajer,90,2023-24
+3018,Ellery,Balcombe,91,2023-24
+3019,Shandon,Baptiste,92,2023-24
+3020,Mads,Bech Sørensen,93,2023-24
+3021,Mads,Bidstrup,94,2023-24
+3022,Sergi,Canós Tenés,95,2023-24
+3023,Nathan,Collins,96,2023-24
+3024,Matthew,Cox,97,2023-24
+3025,Mikkel,Damsgaard,98,2023-24
+3026,Josh,Dasilva,99,2023-24
+3027,Halil,Dervişoğlu,100,2023-24
+3028,Mark,Flekken,101,2023-24
+3029,Charlie,Goode,102,2023-24
+3030,Rico,Henry,103,2023-24
+3031,Aaron,Hickey,104,2023-24
+3032,Vitaly,Janelt,105,2023-24
+3033,Mathias,Jensen,106,2023-24
+3034,Keane,Lewis-Potter,107,2023-24
+3035,Bryan,Mbeumo,108,2023-24
+3036,Ben,Mee,109,2023-24
+3037,Christian,Nørgaard,110,2023-24
+3038,Frank,Onyeka,111,2023-24
+3039,Ethan,Pinnock,112,2023-24
+3040,Mads,Roerslev Rasmussen,114,2023-24
+3041,Kevin,Schade,115,2023-24
+3042,Thomas,Strakosha,116,2023-24
+3043,Ivan,Toney,117,2023-24
+3044,Ryan,Trevitt,118,2023-24
+3045,Yoane,Wissa,119,2023-24
+3046,Yegor,Yarmoliuk,120,2023-24
+3047,Mathias,Jorgensen,121,2023-24
+3048,Neal,Maupay,258,2023-24
+3049,Sergio,Reguilón,508,2023-24
+3050,Michael,Olakigbe,620,2023-24
+3051,Ethan,Brierley,684,2023-24
+3052,Saman,Ghoddos,701,2023-24
+3053,Ji-Soo,Kim,725,2023-24
+3054,Valintino,Adedokun,733,2023-24
+3055,Myles,Peart-Harris,744,2023-24
+3056,Vincent,Angelini,752,2023-24
+3057,Hákon,Valdimarsson,789,2023-24
+3058,Benjamin,Fredrick,797,2023-24
+3059,Benjamin,Arthur,834,2023-24
+3060,Yunus,Konak,864,2023-24
+3061,Simon,Adingra,122,2023-24
+3062,Steven,Alzate,123,2023-24
+3063,Yasin,Ayari,124,2023-24
+3064,Facundo,Buonanotte,125,2023-24
+3065,Aaron,Connolly,127,2023-24
+3066,Mahmoud,Dahoud,128,2023-24
+3067,Lewis,Dunk,129,2023-24
+3068,Julio,Enciso,130,2023-24
+3069,Pervis,Estupiñán,131,2023-24
+3070,Evan,Ferguson,132,2023-24
+3071,Billy,Gilmour,133,2023-24
+3072,Pascal,Groß,134,2023-24
+3073,João Pedro,Junqueira de Jesus,135,2023-24
+3074,Michał,Karbownik,136,2023-24
+3075,Kacper,Kozłowski,137,2023-24
+3076,Adam,Lallana,138,2023-24
+3077,Tariq,Lamptey,139,2023-24
+3078,Solly,March,140,2023-24
+3079,Tom,McGill,141,2023-24
+3080,James,Milner,142,2023-24
+3081,Kaoru,Mitoma,143,2023-24
+3082,Jakub,Moder,144,2023-24
+3083,Jeremy,Sarmiento Morante,146,2023-24
+3084,Kjell,Scherpen,147,2023-24
+3085,Jason,Steele,148,2023-24
+3086,Deniz,Undav,149,2023-24
+3087,Jan Paul,van Hecke,150,2023-24
+3088,Joël,Veltman,151,2023-24
+3089,Bart,Verbruggen,152,2023-24
+3090,Adam,Webster,153,2023-24
+3091,Danny,Welbeck,154,2023-24
+3092,Andi,Zeqiri,155,2023-24
+3093,Igor Julio,dos Santos de Paulo,606,2023-24
+3094,Jack,Hinshelwood,621,2023-24
+3095,Carlos,Baleba,690,2023-24
+3096,Anssumane,Fati Vieira,700,2023-24
+3097,Mark,O’Mahony,741,2023-24
+3098,Benicio,Baker-Boaitey,742,2023-24
+3099,Ben,Jackson,746,2023-24
+3100,Joshua,Duffus,747,2023-24
+3101,Leigh,Kavanagh,753,2023-24
+3102,Luca,Barrington,755,2023-24
+3103,Cameron,Peupion,786,2023-24
+3104,Valentín,Barco,816,2023-24
+3105,Samy,Chouchane,843,2023-24
+3106,Odeluga,Offiah,845,2023-24
+3107,Noël,Atom,861,2023-24
+3108,Enock,Agyei,156,2023-24
+3109,Ameen,Al-Dakhil,157,2023-24
+3110,Samuel,Bastien,158,2023-24
+3111,Manuel Benson,Hedilazio,159,2023-24
+3112,Jordan,Beyer,160,2023-24
+3113,Josh,Brownhill,161,2023-24
+3114,Darko,Churlinov,162,2023-24
+3115,Jack,Cork,163,2023-24
+3116,Dara,Costelloe,164,2023-24
+3117,Josh,Cullen,165,2023-24
+3118,CJ,Egan-Riley,166,2023-24
+3119,Hjalmar,Ekdal,167,2023-24
+3120,Lyle,Foster,168,2023-24
+3121,Denis,Franchi,169,2023-24
+3122,Jóhann Berg,Gudmundsson,170,2023-24
+3123,Luke,McNally,171,2023-24
+3124,Arijanet,Muric,172,2023-24
+3125,Dara,O'Shea,173,2023-24
+3126,Michael,Obafemi,174,2023-24
+3127,Bailey,Peacock-Farrell,175,2023-24
+3128,Connor,Roberts,176,2023-24
+3129,Jay,Rodriguez,177,2023-24
+3130,Charlie,Taylor,178,2023-24
+3131,Bobby,Thomas,179,2023-24
+3132,Scott,Twine,180,2023-24
+3133,Lawrence,Vigouroux,181,2023-24
+3134,Victor,da Silva,182,2023-24
+3135,Wout,Weghorst,183,2023-24
+3136,Anass,Zaroury,184,2023-24
+3137,David Datro,Fofana,200,2023-24
+3138,Sander,Berge,475,2023-24
+3139,Zeki,Amdouni,594,2023-24
+3140,James,Trafford,596,2023-24
+3141,Nathan,Redmond,600,2023-24
+3142,Luca,Koleosho,605,2023-24
+3143,Jacob,Bruun Larsen,608,2023-24
+3144,Owen,Dodgson,622,2023-24
+3145,Wilson,Odobert,660,2023-24
+3146,Hannes,Delcroix,674,2023-24
+3147,Aaron,Ramsey,675,2023-24
+3148,Han-Noah,Massengo,694,2023-24
+3149,Mike,Trésor,706,2023-24
+3150,Lorenz,Assignon,805,2023-24
+3151,Maxime,Esteve,806,2023-24
+3152,Moisés,Caicedo Corozo,126,2023-24
+3153,Robert,Sánchez,145,2023-24
+3154,Ethan,Ampadu,185,2023-24
+3155,Andrey,Nascimento dos Santos,186,2023-24
+3156,Kepa,Arrizabalaga,187,2023-24
+3157,Pierre-Emerick,Aubameyang,188,2023-24
+3158,César,Azpilicueta,189,2023-24
+3159,Abdul Rahman,Baba,190,2023-24
+3160,Benoît,Badiashile,191,2023-24
+3161,Marcus,Bettinelli,192,2023-24
+3162,Trevoh,Chalobah,194,2023-24
+3163,Ben,Chilwell,195,2023-24
+3164,Carney,Chukwuemeka,196,2023-24
+3165,Levi,Colwill,197,2023-24
+3166,Marc,Cucurella Saseta,198,2023-24
+3167,Enzo,Fernández,199,2023-24
+3168,Wesley,Fofana,201,2023-24
+3169,Conor,Gallagher,202,2023-24
+3170,Malo,Gusto,203,2023-24
+3171,Reece,James,206,2023-24
+3172,Romelu,Lukaku Bolingoli,207,2023-24
+3173,Noni,Madueke,208,2023-24
+3174,Mykhailo,Mudryk,210,2023-24
+3175,Nicolas,Jackson,211,2023-24
+3176,Christopher,Nkunku,212,2023-24
+3177,Christian,Pulisic,213,2023-24
+3178,Malang,Sarr,214,2023-24
+3179,Gabriel,Słonina,215,2023-24
+3180,Raheem,Sterling,216,2023-24
+3181,Thiago,Emiliano da Silva,217,2023-24
+3182,Hakim,Ziyech,218,2023-24
+3183,Cole,Palmer,362,2023-24
+3184,Ângelo Gabriel,Borges Damaceno,589,2023-24
+3185,Ian,Maatsen,609,2023-24
+3186,Axel,Disasi,611,2023-24
+3187,Lesley,Ugochukwu,613,2023-24
+3188,Mason,Burstow,623,2023-24
+3189,Lucas,Bergström,659,2023-24
+3190,Roméo,Lavia,667,2023-24
+3191,Bashir,Humphreys,671,2023-24
+3192,Deivid Washington,de Souza Eugênio,677,2023-24
+3193,Eddie,Beach,680,2023-24
+3194,Diego Manuel Jadon,da Silva Moreira,681,2023-24
+3195,Đorđe,Petrović,687,2023-24
+3196,Alfie,Gilchrist,716,2023-24
+3197,Ronnie,Stutter,717,2023-24
+3198,Alex,Matos,718,2023-24
+3199,Josh,Brooking,723,2023-24
+3200,Leo,Castledine,758,2023-24
+3201,Cesare,Casadei,791,2023-24
+3202,Ishé,Samuels-Smith,819,2023-24
+3203,Ollie,Harrison,820,2023-24
+3204,Jimi,Tauriainen,830,2023-24
+3205,Josh,Acheampong,838,2023-24
+3206,Teddy,Sharman-Lowe,847,2023-24
+3207,Tyrique,George,851,2023-24
+3208,Kiano,Dyer,852,2023-24
+3209,Ted,Curd,858,2023-24
+3210,Zak,Sturge,859,2023-24
+3211,Rob,Holding,7,2023-24
+3212,Naouirou,Ahamada,219,2023-24
+3213,Joachim,Andersen,220,2023-24
+3214,Jordan,Ayew,221,2023-24
+3215,Nathaniel,Clyne,222,2023-24
+3216,Cheick,Doucouré,223,2023-24
+3217,Malcolm,Ebiowei,224,2023-24
+3218,Odsonne,Edouard,225,2023-24
+3219,Eberechi,Eze,226,2023-24
+3220,Vicente,Guaita,227,2023-24
+3221,Marc,Guéhi,228,2023-24
+3222,Will,Hughes,229,2023-24
+3223,Sam,Johnstone,230,2023-24
+3224,Jefferson,Lerma Solís,231,2023-24
+3225,Jean-Philippe,Mateta,232,2023-24
+3226,Remi,Matthews,233,2023-24
+3227,Tyrick,Mitchell,234,2023-24
+3228,Jake,O'Brien,235,2023-24
+3229,Michael,Olise,236,2023-24
+3230,Luke,Plange,237,2023-24
+3231,Chris,Richards,238,2023-24
+3232,Jairo,Riedewald,239,2023-24
+3233,Jeffrey,Schlupp,240,2023-24
+3234,James,Tomkins,241,2023-24
+3235,Joel,Ward,242,2023-24
+3236,Joe,Whitworth,243,2023-24
+3237,Dean,Henderson,385,2023-24
+3238,Matheus,França de Oliveira,615,2023-24
+3239,Jesurun,Rak-Sakyi,657,2023-24
+3240,John-Kymani,Gordon,658,2023-24
+3241,Ademola,Ola-Adebomi,720,2023-24
+3242,David,Ozoh,721,2023-24
+3243,Jadan,Raymond,724,2023-24
+3244,Tayo,Adaramola,763,2023-24
+3245,Daniel,Muñoz,792,2023-24
+3246,Adam,Wharton,807,2023-24
+3247,Franco,Umeh-Chibueze,821,2023-24
+3248,Kaden,Rodney,825,2023-24
+3249,Roshaun,Mathurin,842,2023-24
+3250,André,Tavares Gomes,244,2023-24
+3251,Jarrad,Branthwaite,245,2023-24
+3252,Dominic,Calvert-Lewin,246,2023-24
+3253,Seamus,Coleman,247,2023-24
+3254,Dele,Alli,248,2023-24
+3255,Abdoulaye,Doucouré,249,2023-24
+3256,James,Garner,250,2023-24
+3257,Jean-Philippe,Gbamin,251,2023-24
+3258,Ben,Godfrey,252,2023-24
+3259,Demarai,Gray,253,2023-24
+3260,Idrissa,Gueye,254,2023-24
+3261,Michael,Keane,257,2023-24
+3262,Dwight,McNeil,259,2023-24
+3263,Vitalii,Mykolenko,260,2023-24
+3264,Amadou,Onana,261,2023-24
+3265,Nathan,Patterson,262,2023-24
+3266,Jordan,Pickford,263,2023-24
+3267,Ellis,Simms,264,2023-24
+3268,James,Tarkowski,265,2023-24
+3269,João,Neves Virgínia,266,2023-24
+3270,Andy,Lonergan,579,2023-24
+3271,Ashley,Young,588,2023-24
+3272,Arnaut,Danjuma Groeneveld,601,2023-24
+3273,Lewis,Dobbin,624,2023-24
+3274,Youssef,Ramalho Chermiti,645,2023-24
+3275,Thomas,Cannon,649,2023-24
+3276,Tyler,Onyango,650,2023-24
+3277,Jack,Harrison,661,2023-24
+3278,Norberto Bercique,Gomes Betuncal,691,2023-24
+3279,Mackenzie,Hunt,719,2023-24
+3280,Jenson,Metcalfe,760,2023-24
+3281,Elijah,Campbell,761,2023-24
+3282,Lewis,Warrington,841,2023-24
+3283,Billy,Crellin,863,2023-24
+3284,Armando,Broja,193,2023-24
+3285,Alex,Iwobi,256,2023-24
+3286,Andreas,Hoelgebaum Pereira,267,2023-24
+3287,Tom,Cairney,268,2023-24
+3288,Ivan,Neves Abreu Cavaleiro,269,2023-24
+3289,Bobby,De Cordova-Reid,270,2023-24
+3290,Issa,Diop,271,2023-24
+3291,Tyrese,Francois,272,2023-24
+3292,Anthony,Knockaert,273,2023-24
+3293,Terence,Kongolo,274,2023-24
+3294,Bernd,Leno,275,2023-24
+3295,Saša,Lukić,276,2023-24
+3296,Kevin,Mbabu,277,2023-24
+3297,Aleksandar,Mitrović,278,2023-24
+3298,Rodrigo,Muniz Carvalho,279,2023-24
+3299,João,Palhinha Gonçalves,280,2023-24
+3300,Tim,Ream,281,2023-24
+3301,Harrison,Reed,282,2023-24
+3302,Antonee,Robinson,283,2023-24
+3303,Marek,Rodák,284,2023-24
+3304,Kenny,Tete,285,2023-24
+3305,Tosin,Adarabioyo,286,2023-24
+3306,Carlos Vinícius,Alves Morais,287,2023-24
+3307,Harry,Wilson,288,2023-24
+3308,Raúl,Jiménez,558,2023-24
+3309,Willian,Borges da Silva,591,2023-24
+3310,Calvin,Bassey,610,2023-24
+3311,Luc,De Fougerolles,625,2023-24
+3312,Jay,Stansfield,651,2023-24
+3313,Matthew,Dibley-Dias,652,2023-24
+3314,Adama,Traoré,662,2023-24
+3315,Luke,Harris,683,2023-24
+3316,Timothy,Castagne,688,2023-24
+3317,Steven,Benda,692,2023-24
+3318,Fodé,Ballo-Touré,707,2023-24
+3319,Devan,Tanton,732,2023-24
+3320,Kristian,Sekularac,796,2023-24
+3321,Joshua,King,810,2023-24
+3322,Adrián,San Miguel del Castillo,289,2023-24
+3323,Trent,Alexander-Arnold,290,2023-24
+3324,Alisson,Ramses Becker,291,2023-24
+3325,Stefan,Bajcetic,292,2023-24
+3326,Darwin,Núñez Ribeiro,293,2023-24
+3327,Diogo,Teixeira da Silva,294,2023-24
+3328,Harvey,Elliott,295,2023-24
+3329,Fabio Henrique,Tavares,296,2023-24
+3330,Cody,Gakpo,297,2023-24
+3331,Joe,Gomez,298,2023-24
+3332,Jordan,Henderson,299,2023-24
+3333,Curtis,Jones,300,2023-24
+3334,Caoimhin,Kelleher,301,2023-24
+3335,Ibrahima,Konaté,302,2023-24
+3336,Luis,Díaz,303,2023-24
+3337,Alexis,Mac Allister,304,2023-24
+3338,Joel,Matip,305,2023-24
+3339,Nathaniel,Phillips,306,2023-24
+3340,Andrew,Robertson,307,2023-24
+3341,Mohamed,Salah,308,2023-24
+3342,Dominik,Szoboszlai,309,2023-24
+3343,Thiago,Alcántara do Nascimento,310,2023-24
+3344,Konstantinos,Tsimikas,311,2023-24
+3345,Sepp,van den Berg,312,2023-24
+3346,Virgil,van Dijk,313,2023-24
+3347,Jarell,Quansah,626,2023-24
+3348,Bobby,Clark,627,2023-24
+3349,Ben,Doak,628,2023-24
+3350,James,McConnell,629,2023-24
+3351,Wataru,Endo,668,2023-24
+3352,Ryan,Gravenberch,708,2023-24
+3353,Luke,Chambers,726,2023-24
+3354,Callum,Scanlon,728,2023-24
+3355,Treymaurice,Nyoni,743,2023-24
+3356,Marcelo,de Araújo Pitaluga Filho,756,2023-24
+3357,Conor,Bradley,757,2023-24
+3358,Owen,Beck,782,2023-24
+3359,Kaide,Gordon,783,2023-24
+3360,Lewis,Koumas,812,2023-24
+3361,Fabian,Mrozek,813,2023-24
+3362,Jayden,Danns,824,2023-24
+3363,Amara,Nallo,837,2023-24
+3364,Albert,Sambi Lokonga,21,2023-24
+3365,Marvelous,Nakamba,52,2023-24
+3366,Elijah,Adebayo,314,2023-24
+3367,Mads Juel,Andersen,315,2023-24
+3368,Amari'i,Bell,316,2023-24
+3369,Luke,Berry,317,2023-24
+3370,Reece,Burke,318,2023-24
+3371,Allan,Campbell,319,2023-24
+3372,Jordan,Clark,320,2023-24
+3373,Alfie,Doughty,321,2023-24
+3374,Luke,Freeman,322,2023-24
+3375,Matt,Macey,323,2023-24
+3376,John,McAtee,324,2023-24
+3377,Carlos,Mendes Gomes,325,2023-24
+3378,Carlton,Morris,326,2023-24
+3379,Admiral,Muskwe,327,2023-24
+3380,Chiedozie,Ogbene,328,2023-24
+3381,Fred,Onyedinma,329,2023-24
+3382,Gabriel,Osho,330,2023-24
+3383,Aribim,Pepple,331,2023-24
+3384,Dion,Pereira,332,2023-24
+3385,Dan,Potts,333,2023-24
+3386,Glen,Rea,334,2023-24
+3387,James,Shea,335,2023-24
+3388,Joe,Taylor,336,2023-24
+3389,Elliot,Thorpe,337,2023-24
+3390,Jack,Walton,338,2023-24
+3391,Louie,Watson,339,2023-24
+3392,Cauley,Woodrow,340,2023-24
+3393,Teden,Mengi,393,2023-24
+3394,Ryan,Giles,553,2023-24
+3395,Tom,Lockyer,575,2023-24
+3396,Pelly Ruddock,Mpanzu,582,2023-24
+3397,Tahith,Chong,586,2023-24
+3398,Issa,Kaboré,602,2023-24
+3399,Thomas,Kaminski,614,2023-24
+3400,Ross,Barkley,630,2023-24
+3401,Jacob,Brown,631,2023-24
+3402,Aidan,Francis-Clarke,648,2023-24
+3403,Tim,Krul,665,2023-24
+3404,Joseph,Johnson,682,2023-24
+3405,Andros,Townsend,727,2023-24
+3406,Jayden,Luker,729,2023-24
+3407,Zack,Nelson,734,2023-24
+3408,Daiki,Hashioka,798,2023-24
+3409,Axel,Piesold,831,2023-24
+3410,Dominic,Dos Santos Martins,839,2023-24
+3411,Christian,Chigozie,844,2023-24
+3412,Taylan,Harris,848,2023-24
+3413,Manuel,Akanji,341,2023-24
+3414,Nathan,Aké,342,2023-24
+3415,Julián,Álvarez,343,2023-24
+3416,Bernardo,Veiga de Carvalho e Silva,344,2023-24
+3417,Oscar,Bobb,345,2023-24
+3418,João,Cancelo,346,2023-24
+3419,Scott,Carson,347,2023-24
+3420,Shea,Charles,348,2023-24
+3421,Kevin,De Bruyne,349,2023-24
+3422,Rúben,Gato Alves Dias,350,2023-24
+3423,Ederson,Santana de Moraes,352,2023-24
+3424,Phil,Foden,353,2023-24
+3425,Jack,Grealish,354,2023-24
+3426,Erling,Haaland,355,2023-24
+3427,Mateo,Kovačić,356,2023-24
+3428,Aymeric,Laporte,357,2023-24
+3429,Rico,Lewis,358,2023-24
+3430,Riyad,Mahrez,359,2023-24
+3431,Stefan,Ortega Moreno,361,2023-24
+3432,Máximo,Perrone,363,2023-24
+3433,Rodrigo,Hernandez,365,2023-24
+3434,Sergio,Gómez,366,2023-24
+3435,Zack,Steffen,367,2023-24
+3436,John,Stones,368,2023-24
+3437,Kyle,Walker,369,2023-24
+3438,Matheus Luiz,Nunes,566,2023-24
+3439,Joško,Gvardiol,616,2023-24
+3440,Jérémy,Doku,678,2023-24
+3441,Mahamadou,Susoho,762,2023-24
+3442,Micah,Hamilton,771,2023-24
+3443,Jacob,Wright,814,2023-24
+3444,Mason,Mount,209,2023-24
+3445,Alex,Telles,370,2023-24
+3446,Amad,Diallo,371,2023-24
+3447,Antony Matheus,dos Santos,372,2023-24
+3448,Bruno,Borges Fernandes,373,2023-24
+3449,Brandon,Williams,374,2023-24
+3450,Eric,Bailly,375,2023-24
+3451,Carlos Henrique,Casimiro,376,2023-24
+3452,Diogo,Dalot Teixeira,377,2023-24
+3453,Christian,Eriksen,379,2023-24
+3454,Álvaro,Fernández Carreras,380,2023-24
+3455,Frederico,Rodrigues de Paula Santos,381,2023-24
+3456,Alejandro,Garnacho,382,2023-24
+3457,Hannibal,Mejbri,383,2023-24
+3458,Tom,Heaton,384,2023-24
+3459,Victor,Lindelöf,386,2023-24
+3460,Harry,Maguire,387,2023-24
+3461,Kobbie,Mainoo,388,2023-24
+3462,Tyrell,Malacia,389,2023-24
+3463,Anthony,Martial,390,2023-24
+3464,Lisandro,Martínez,391,2023-24
+3465,Scott,McTominay,392,2023-24
+3466,Facundo,Pellistri Rebollo,394,2023-24
+3467,Raphaël,Varane,395,2023-24
+3468,Marcus,Rashford,396,2023-24
+3469,Jadon,Sancho,397,2023-24
+3470,Luke,Shaw,398,2023-24
+3471,Shola,Shoretire,399,2023-24
+3472,Donny,van de Beek,400,2023-24
+3473,Aaron,Wan-Bissaka,401,2023-24
+3474,André,Onana,597,2023-24
+3475,Rasmus,Højlund,617,2023-24
+3476,Omari,Forson,632,2023-24
+3477,Radek,Vítek,669,2023-24
+3478,Daniel,Gore,685,2023-24
+3479,Altay,Bayindir,695,2023-24
+3480,Jonny,Evans,703,2023-24
+3481,Sofyan,Amrabat,709,2023-24
+3482,Joe,Hugill,748,2023-24
+3483,Willy,Kambwala,766,2023-24
+3484,Rhys,Bennett,768,2023-24
+3485,Toby,Collyer,826,2023-24
+3486,Habeeb,Ogunneye,833,2023-24
+3487,Dermot,Mee,835,2023-24
+3488,Harry,Amass,846,2023-24
+3489,Ethan,Wheatley,850,2023-24
+3490,Louis,Jackson,856,2023-24
+3491,Lewis,Hall,204,2023-24
+3492,Miguel,Almirón Rejala,402,2023-24
+3493,Elliot,Anderson,403,2023-24
+3494,Harrison,Ashby,404,2023-24
+3495,Sven,Botman,405,2023-24
+3496,Bruno,Guimarães Rodriguez Moura,406,2023-24
+3497,Dan,Burn,407,2023-24
+3498,Karl,Darlow,408,2023-24
+3499,Martin,Dubravka,409,2023-24
+3500,Ryan,Fraser,410,2023-24
+3501,Mark,Gillespie,411,2023-24
+3502,Anthony,Gordon,412,2023-24
+3503,Isaac,Hayden,413,2023-24
+3504,Jeff,Hendrick,414,2023-24
+3505,Alexander,Isak,415,2023-24
+3506,Joelinton Cássio,Apolinário de Lira,416,2023-24
+3507,Emil,Krafth,417,2023-24
+3508,Garang,Kuol,418,2023-24
+3509,Jamaal,Lascelles,419,2023-24
+3510,Jamal,Lewis,420,2023-24
+3511,Sean,Longstaff,421,2023-24
+3512,Javier,Manquillo Gaitán,422,2023-24
+3513,Jacob,Murphy,423,2023-24
+3514,Nick,Pope,424,2023-24
+3515,Matt,Ritchie,425,2023-24
+3516,Allan,Saint-Maximin,426,2023-24
+3517,Fabian,Schär,427,2023-24
+3518,Matt,Targett,428,2023-24
+3519,Sandro,Tonali,429,2023-24
+3520,Kieran,Trippier,430,2023-24
+3521,Kell,Watts,431,2023-24
+3522,Joe,Willock,432,2023-24
+3523,Callum,Wilson,433,2023-24
+3524,Loris,Karius,580,2023-24
+3525,Paul,Dummett,581,2023-24
+3526,Harvey,Barnes,603,2023-24
+3527,Tino,Livramento,633,2023-24
+3528,Alex,Murphy,634,2023-24
+3529,Lewis,Miley,635,2023-24
+3530,Amadou,Diallo,738,2023-24
+3531,Ben,Parkinson,739,2023-24
+3532,Michael,Ndiweni,745,2023-24
+3533,Joe,White,794,2023-24
+3534,Travis,Hernes,795,2023-24
+3535,Nuno,Varela Tavares,23,2023-24
+3536,Matt,Turner,28,2023-24
+3537,Callum,Hudson-Odoi,205,2023-24
+3538,Anthony,Elanga,378,2023-24
+3539,Brandon,Aguilera Zamora,434,2023-24
+3540,Harry,Arter,435,2023-24
+3541,Serge,Aurier,436,2023-24
+3542,Taiwo,Awoniyi,437,2023-24
+3543,Giulian,Biancone,438,2023-24
+3544,Willy,Boly,439,2023-24
+3545,Josh,Bowler,440,2023-24
+3546,Steve,Cook,441,2023-24
+3547,Danilo,dos Santos de Oliveira,442,2023-24
+3548,Emmanuel,Dennis,443,2023-24
+3549,Mohamed,Dräger,444,2023-24
+3550,Felipe Augusto,de Almeida Monteiro,445,2023-24
+3551,Remo,Freuler,446,2023-24
+3552,Morgan,Gibbs-White,447,2023-24
+3553,Wayne,Hennessey,448,2023-24
+3554,Ethan,Horvath,449,2023-24
+3555,Cheikhou,Kouyaté,451,2023-24
+3556,Richie,Laryea,452,2023-24
+3557,Orel,Mangala,453,2023-24
+3558,Loïc,Mbe Soh,454,2023-24
+3559,Scott,McKenna,455,2023-24
+3560,Alex,Mighten,456,2023-24
+3561,Moussa,Niakhaté,457,2023-24
+3562,Lewis,O'Brien,458,2023-24
+3563,Braian,Ojeda Rodríguez,459,2023-24
+3564,Jonathan,Panzo,460,2023-24
+3565,Omar,Richards,461,2023-24
+3566,Gustavo Henrique,Furtado Scarpa,462,2023-24
+3567,Jonjo,Shelvey,463,2023-24
+3568,Sam,Surridge,464,2023-24
+3569,Harry,Toffolo,465,2023-24
+3570,Hwang,Ui-jo,466,2023-24
+3571,Neco,Williams,467,2023-24
+3572,Chris,Wood,468,2023-24
+3573,Joe,Worrall,469,2023-24
+3574,Ryan,Yates,470,2023-24
+3575,Olu,Aina,604,2023-24
+3576,George,Shelvey,636,2023-24
+3577,Josh,Powell,637,2023-24
+3578,Gonzalo,Montiel,679,2023-24
+3579,Murillo,Santiago Costa dos Santos,696,2023-24
+3580,Odysseas,Vlachodimos,710,2023-24
+3581,Andrew,Omobamidele,711,2023-24
+3582,Nicolás,Domínguez,712,2023-24
+3583,Ibrahim,Sangaré,713,2023-24
+3584,Divock,Origi,714,2023-24
+3585,Jamie,McDonnell,779,2023-24
+3586,Detlef Esapa,Osong,780,2023-24
+3587,Joe,Gardner,781,2023-24
+3588,Giovanni,Reyna,801,2023-24
+3589,Matz,Sels,808,2023-24
+3590,Rodrigo,Duarte Ribeiro,809,2023-24
+3591,Auston,Trusty,27,2023-24
+3592,Cameron,Archer,33,2023-24
+3593,Mason,Holgate,255,2023-24
+3594,James,McAtee,360,2023-24
+3595,Anel,Ahmedhodžić,471,2023-24
+3596,Jordan,Amissah,472,2023-24
+3597,George,Baldock,473,2023-24
+3598,Chris,Basham,474,2023-24
+3599,Jayden,Bogle,476,2023-24
+3600,Rhian,Brewster,477,2023-24
+3601,Ismaila,Coulibaly,478,2023-24
+3602,Adam,Davies,479,2023-24
+3603,John,Egan,480,2023-24
+3604,John,Fleck,481,2023-24
+3605,Wes,Foderingham,482,2023-24
+3606,Daniel,Jebbison,483,2023-24
+3607,Max,Lowe,484,2023-24
+3608,Oliver,McBurnie,485,2023-24
+3609,Iliman,Ndiaye,486,2023-24
+3610,Rhys,Norrington-Davies,487,2023-24
+3611,Oliver,Norwood,488,2023-24
+3612,Ben,Osborn,489,2023-24
+3613,William,Osula,490,2023-24
+3614,Jack,Robinson,576,2023-24
+3615,Anis,Slimane,587,2023-24
+3616,Yasser,Larouci,592,2023-24
+3617,Bénie,Traoré,593,2023-24
+3618,Vini,de Souza Costa,638,2023-24
+3619,Femi,Seriki,653,2023-24
+3620,Louie,Marsh,654,2023-24
+3621,Andre,Brooks,655,2023-24
+3622,Antwoine,Hackford,656,2023-24
+3623,Gustavo,Hamer,663,2023-24
+3624,Tom,Davies,666,2023-24
+3625,Luke,Thomas,693,2023-24
+3626,Ryan,Oné,730,2023-24
+3627,Jili,Buyabu,731,2023-24
+3628,Sydie,Peck,759,2023-24
+3629,Ben,Brereton,775,2023-24
+3630,Ivo,Grbic,790,2023-24
+3631,Billy,Blacker,822,2023-24
+3632,Oliver,Arblaster,823,2023-24
+3633,Dovydas,Sasnauskas,827,2023-24
+3634,Sam,Curtis,828,2023-24
+3635,Owen,Hampson,857,2023-24
+3636,Brennan,Johnson,450,2023-24
+3637,Brandon,Austin,491,2023-24
+3638,Rodrigo,Bentancur,492,2023-24
+3639,Yves,Bissouma,493,2023-24
+3640,Bryan,Gil Salvatierra,494,2023-24
+3641,Ben,Davies,495,2023-24
+3642,Eric,Dier,496,2023-24
+3643,Emerson,Leite de Souza Junior,497,2023-24
+3644,Fraser,Forster,498,2023-24
+3645,Pierre-Emile,Højbjerg,499,2023-24
+3646,Harry,Kane,500,2023-24
+3647,Dejan,Kulusevski,501,2023-24
+3648,Hugo,Lloris,502,2023-24
+3649,Giovani,Lo Celso,503,2023-24
+3650,James,Maddison,504,2023-24
+3651,Tanguy,Ndombélé Alvaro,505,2023-24
+3652,Pedro,Porro,506,2023-24
+3653,Ivan,Perišić,507,2023-24
+3654,Richarlison,de Andrade,509,2023-24
+3655,Joe,Rodon,510,2023-24
+3656,Cristian,Romero,511,2023-24
+3657,Davinson,Sánchez,512,2023-24
+3658,Pape Matar,Sarr,513,2023-24
+3659,Ryan,Sessegnon,514,2023-24
+3660,Oliver,Skipp,515,2023-24
+3661,Son,Heung-min,516,2023-24
+3662,Djed,Spence,517,2023-24
+3663,Japhet,Tanganga,518,2023-24
+3664,Destiny,Udogie,519,2023-24
+3665,Guglielmo,Vicario,520,2023-24
+3666,Alfie,Whiteman,521,2023-24
+3667,Manor,Solomon,583,2023-24
+3668,Micky,van de Ven,639,2023-24
+3669,Dane,Scarlett,640,2023-24
+3670,Alejo,Véliz,641,2023-24
+3671,Ashley,Phillips,702,2023-24
+3672,Jamie,Donley,722,2023-24
+3673,Alfie,Dorrington,740,2023-24
+3674,Yago,de Santiago Alonso,754,2023-24
+3675,Timo,Werner,776,2023-24
+3676,Radu,Dragusin,777,2023-24
+3677,Mikey,Moore,860,2023-24
+3678,Tyrese,Hall,862,2023-24
+3679,Kalvin,Phillips,364,2023-24
+3680,Nayef,Aguerd,522,2023-24
+3681,Michail,Antonio,523,2023-24
+3682,Alphonse,Areola,524,2023-24
+3683,Saïd,Benrahma,525,2023-24
+3684,Jarrod,Bowen,526,2023-24
+3685,Maxwel,Cornet,527,2023-24
+3686,Vladimír,Coufal,528,2023-24
+3687,Conor,Coventry,529,2023-24
+3688,Aaron,Cresswell,530,2023-24
+3689,Flynn,Downes,531,2023-24
+3690,Emerson,Palmieri dos Santos,532,2023-24
+3691,Lukasz,Fabianski,533,2023-24
+3692,Pablo,Fornals Malla,534,2023-24
+3693,Danny,Ings,535,2023-24
+3694,Ben,Johnson,536,2023-24
+3695,Thilo,Kehrer,537,2023-24
+3696,Divin,Mubama,538,2023-24
+3697,Lucas,Tolentino Coelho de Lima,539,2023-24
+3698,Gianluca,Scamacca,541,2023-24
+3699,Tomáš,Souček,542,2023-24
+3700,Nikola,Vlašić,543,2023-24
+3701,Kurt,Zouma,544,2023-24
+3702,Angelo,Ogbonna,577,2023-24
+3703,Edson,Álvarez Velázquez,642,2023-24
+3704,Joseph,Anang,647,2023-24
+3705,James,Ward-Prowse,664,2023-24
+3706,Konstantinos,Mavropanos,676,2023-24
+3707,Mohammed,Kudus,689,2023-24
+3708,Lewis,Orford,773,2023-24
+3709,Kaelan,Casey,774,2023-24
+3710,Oliver,Scarles,784,2023-24
+3711,Callum,Marshall,785,2023-24
+3712,George,Earthy,829,2023-24
+3713,Tommy,Doyle,351,2023-24
+3714,Rayan,Aït-Nouri,545,2023-24
+3715,Daniel,Bentley,546,2023-24
+3716,Bendegúz,Bolla,547,2023-24
+3717,Hugo,Bueno López,548,2023-24
+3718,Francisco Jorge,Tomás Oliveira,549,2023-24
+3719,Luke,Cundle,550,2023-24
+3720,Craig,Dawson,551,2023-24
+3721,Fábio,Silva,552,2023-24
+3722,Gonçalo Manuel,Ganchinho Guedes,554,2023-24
+3723,Joe,Hodge,555,2023-24
+3724,Ki-Jana,Hoever,556,2023-24
+3725,Hwang,Hee-chan,557,2023-24
+3726,João Victor,Gomes da Silva,559,2023-24
+3727,Jonathan,Castro Otto,560,2023-24
+3728,Bruno,Cavaco Jordão,561,2023-24
+3729,Sasa,Kalajdzic,562,2023-24
+3730,Max,Kilman,563,2023-24
+3731,Tom,King,564,2023-24
+3732,Mario,Lemina,565,2023-24
+3733,Pedro,Lomba Neto,567,2023-24
+3734,Daniel,Castelo Podence,568,2023-24
+3735,José,Malheiro de Sá,569,2023-24
+3736,Pablo,Sarabia,570,2023-24
+3737,Matija,Šarkić,571,2023-24
+3738,Nélson,Cabral Semedo,572,2023-24
+3739,Toti António,Gomes,573,2023-24
+3740,Boubacar,Traoré,574,2023-24
+3741,Matheus,Santos Carneiro Da Cunha,590,2023-24
+3742,Matt,Doherty,598,2023-24
+3743,Santiago,Bueno,697,2023-24
+3744,Enso,González,698,2023-24
+3745,Nathan,Fraser,704,2023-24
+3746,Jean-Ricner,Bellegarde,715,2023-24
+3747,Matthew,Whittingham,749,2023-24
+3748,Tawanda,Chirewa,750,2023-24
+3749,Justin,Hubner,751,2023-24
+3750,Owen,Hesketh,769,2023-24
+3751,Ty,Barnett,770,2023-24
+3752,Harvey,Griffiths,787,2023-24
+3753,Yerson,Mosquera,788,2023-24
+3754,Noha,Lemina,800,2023-24
+3755,Wesley,Okoduwa,832,2023-24
+3756,Leon,Chiwome,836,2023-24
+3757,Fletcher,Holman,840,2023-24
+3758,Temple,Ojinnaka,853,2023-24
+3759,Fábio,Ferreira Vieira,1,2024-25
+3760,Gabriel,Fernando de Jesus,2,2024-25
+3761,Gabriel,dos Santos Magalhães,3,2024-25
+3762,Kai,Havertz,4,2024-25
+3763,Karl,Hein,5,2024-25
+3764,Jurriën,Timber,6,2024-25
+3765,Jorge Luiz,Frello Filho,7,2024-25
+3766,Jakub,Kiwior,8,2024-25
+3767,Gabriel,Martinelli Silva,9,2024-25
+3768,Ethan,Nwaneri,12,2024-25
+3769,Martin,Ødegaard,13,2024-25
+3770,David,Raya Martin,15,2024-25
+3771,Declan,Rice,16,2024-25
+3772,Bukayo,Saka,17,2024-25
+3773,William,Saliba,18,2024-25
+3774,Thomas,Partey,20,2024-25
+3775,Kieran,Tierney,21,2024-25
+3776,Tomiyasu,Takehiro,22,2024-25
+3777,Leandro,Trossard,23,2024-25
+3778,Benjamin,White,24,2024-25
+3779,Oleksandr,Zinchenko,25,2024-25
+3780,Norberto,Murara Neto,73,2024-25
+3781,Raheem,Sterling,186,2024-25
+3782,Riccardo,Calafiori,578,2024-25
+3783,Myles,Lewis-Skelly,597,2024-25
+3784,Mikel,Merino,633,2024-25
+3785,Salah-Eddine,Oulad M'hand,638,2024-25
+3786,Tommy,Setford,639,2024-25
+3787,Maldini,Kacurri,657,2024-25
+3788,Ayden,Heaven,658,2024-25
+3789,Ismeal,Kabia,659,2024-25
+3790,Leon,Bailey,28,2024-25
+3791,Ross,Barkley,29,2024-25
+3792,Enzo,Barrenechea,30,2024-25
+3793,Emiliano,Buendía Stati,31,2024-25
+3794,Matty,Cash,32,2024-25
+3795,Leander,Dendoncker,33,2024-25
+3796,Moussa,Diaby,34,2024-25
+3797,Diego Carlos,Santos Silva,35,2024-25
+3798,Lucas,Digne,36,2024-25
+3799,Lewis,Dobbin,37,2024-25
+3800,Jhon,Durán,38,2024-25
+3801,Joe,Gauci,39,2024-25
+3802,Kortney,Hause,40,2024-25
+3803,Samuel,Iling-Junior,41,2024-25
+3804,Boubacar,Kamara,42,2024-25
+3805,Kaine,Kesler-Hayden,43,2024-25
+3806,Ezri,Konsa Ngoyo,44,2024-25
+3807,Ian,Maatsen,45,2024-25
+3808,Filip,Marschall,46,2024-25
+3809,Emiliano,Martínez Romero,47,2024-25
+3810,John,McGinn,48,2024-25
+3811,Tyrone,Mings,49,2024-25
+3812,Kosta,Nedeljković,50,2024-25
+3813,Robin,Olsen,51,2024-25
+3814,Pau,Torres,52,2024-25
+3815,Jacob,Ramsey,53,2024-25
+3816,Morgan,Rogers,54,2024-25
+3817,Viljami,Sinisalo,55,2024-25
+3818,Lino,da Cruz Sousa,56,2024-25
+3819,Youri,Tielemans,57,2024-25
+3820,Ollie,Watkins,58,2024-25
+3821,Amadou,Onana,233,2024-25
+3822,Jaden,Philogene,569,2024-25
+3823,Lamare,Bogarde,598,2024-25
+3824,Sil,Swinkels,640,2024-25
+3825,Oliwier,Zych,641,2024-25
+3826,Kadan,Young,656,2024-25
+3827,Max,Aarons,59,2024-25
+3828,Tyler,Adams,60,2024-25
+3829,Jaidon,Anthony,61,2024-25
+3830,David,Brooks,62,2024-25
+3831,Ryan,Christie,63,2024-25
+3832,Lewis,Cook,64,2024-25
+3833,Enes,Ünal,65,2024-25
+3834,Romain,Faivre,66,2024-25
+3835,Hamed,Traorè,67,2024-25
+3836,James,Hill,68,2024-25
+3837,Daniel,Jebbison,69,2024-25
+3838,Milos,Kerkez,70,2024-25
+3839,Justin,Kluivert,71,2024-25
+3840,Chris,Mepham,72,2024-25
+3841,Dango,Ouattara,74,2024-25
+3842,Alex,Paulsen,75,2024-25
+3843,Philip,Billing,76,2024-25
+3844,Alex,Scott,77,2024-25
+3845,Antoine,Semenyo,78,2024-25
+3846,Marcos,Senesi,79,2024-25
+3847,Luis,Sinisterra,80,2024-25
+3848,Adam,Smith,81,2024-25
+3849,Marcus,Tavernier,83,2024-25
+3850,Mark,Travers,84,2024-25
+3851,Illia,Zabarnyi,85,2024-25
+3852,Kepa,Arrizabalaga,152,2024-25
+3853,Dean,Huijsen,580,2024-25
+3854,Julián,Araujo Zúñiga,592,2024-25
+3855,Will,Dennis,599,2024-25
+3856,Francisco Evanilson,de Lima Barbosa,617,2024-25
+3857,Kristoffer,Ajer,86,2024-25
+3858,Ethan,Brierley,87,2024-25
+3859,Nathan,Collins,88,2024-25
+3860,Mikkel,Damsgaard,89,2024-25
+3861,Josh,Dasilva,90,2024-25
+3862,Mark,Flekken,91,2024-25
+3863,Rico,Henry,92,2024-25
+3864,Aaron,Hickey,93,2024-25
+3865,Vitaly,Janelt,94,2024-25
+3866,Mathias,Jensen,95,2024-25
+3867,Kim,Ji-soo,96,2024-25
+3868,Yunus Emre,Konak,97,2024-25
+3869,Keane,Lewis-Potter,98,2024-25
+3870,Bryan,Mbeumo,99,2024-25
+3871,Ben,Mee,100,2024-25
+3872,Christian,Nørgaard,101,2024-25
+3873,Frank,Onyeka,102,2024-25
+3874,Myles,Peart-Harris,103,2024-25
+3875,Ethan,Pinnock,104,2024-25
+3876,Mads,Roerslev Rasmussen,105,2024-25
+3877,Kevin,Schade,106,2024-25
+3878,Igor Thiago,Nascimento Rodrigues,107,2024-25
+3879,Ivan,Toney,108,2024-25
+3880,Hákon,Valdimarsson,109,2024-25
+3881,Yoane,Wissa,110,2024-25
+3882,Yehor,Yarmoliuk,111,2024-25
+3883,Mathias,Jorgensen,112,2024-25
+3884,Fábio,Freitas Gouveia Carvalho,314,2024-25
+3885,Sepp,van den Berg,338,2024-25
+3886,Ryan,Trevitt,602,2024-25
+3887,Gustavo,Nunes Fernandes Gomes,634,2024-25
+3888,Jayden,Meghoma,649,2024-25
+3889,Simon,Adingra,113,2024-25
+3890,Benicio,Baker-Boaitey,114,2024-25
+3891,Carlos,Baleba,115,2024-25
+3892,Valentín,Barco,116,2024-25
+3893,Amario,Cozier-Duberry,118,2024-25
+3894,Mahmoud,Dahoud,119,2024-25
+3895,Lewis,Dunk,120,2024-25
+3896,Julio,Enciso,121,2024-25
+3897,Pervis,Estupiñán,122,2024-25
+3898,Evan,Ferguson,123,2024-25
+3899,Billy,Gilmour,124,2024-25
+3900,Pascal,Groß,125,2024-25
+3901,Jack,Hinshelwood,126,2024-25
+3902,Ibrahim,Osman,127,2024-25
+3903,Igor Julio,dos Santos de Paulo,128,2024-25
+3904,João Pedro,Junqueira de Jesus,129,2024-25
+3905,Kacper,Kozłowski,130,2024-25
+3906,Tariq,Lamptey,131,2024-25
+3907,Solly,March,132,2024-25
+3908,Adrian,Mazilu,133,2024-25
+3909,James,Milner,134,2024-25
+3910,Yankuba,Minteh,135,2024-25
+3911,Mitoma,Kaoru,136,2024-25
+3912,Jakub,Moder,137,2024-25
+3913,Mark,O’Mahony,138,2024-25
+3914,Odeluga,Offiah,139,2024-25
+3915,Cameron,Peupion,140,2024-25
+3916,Jeremy,Sarmiento Morante,141,2024-25
+3917,Jason,Steele,142,2024-25
+3918,Deniz,Undav,143,2024-25
+3919,Jan Paul,van Hecke,144,2024-25
+3920,Joël,Veltman,145,2024-25
+3921,Bart,Verbruggen,146,2024-25
+3922,Adam,Webster,147,2024-25
+3923,Danny,Welbeck,148,2024-25
+3924,Mats,Wieffer,149,2024-25
+3925,Brajan,Gruda,595,2024-25
+3926,Yasin,Ayari,600,2024-25
+3927,Andrew,Moran,601,2024-25
+3928,Carl,Rushworth,615,2024-25
+3929,Georginio,Rutter,618,2024-25
+3930,Ferdi,Kadioglu,628,2024-25
+3931,Matt,O'Riley,629,2024-25
+3932,Andrey,Nascimento dos Santos,150,2024-25
+3933,Ângelo Gabriel,Borges Damaceno,151,2024-25
+3934,Benoît,Badiashile,153,2024-25
+3935,Lucas,Bergström,154,2024-25
+3936,Marcus,Bettinelli,155,2024-25
+3937,Moisés,Caicedo Corozo,157,2024-25
+3938,Cesare,Casadei,158,2024-25
+3939,Ben,Chilwell,160,2024-25
+3940,Carney,Chukwuemeka,161,2024-25
+3941,Levi,Colwill,162,2024-25
+3942,Marc,Cucurella Saseta,163,2024-25
+3943,David Datro,Fofana,164,2024-25
+3944,Deivid Washington,de Souza Eugênio,165,2024-25
+3945,Kiernan,Dewsbury-Hall,166,2024-25
+3946,Axel,Disasi,167,2024-25
+3947,Enzo,Fernández,168,2024-25
+3948,Conor,Gallagher,169,2024-25
+3949,Alfie,Gilchrist,170,2024-25
+3950,Malo,Gusto,171,2024-25
+3951,Reece,James,172,2024-25
+3952,Omari,Kellyman,173,2024-25
+3953,Roméo,Lavia,174,2024-25
+3954,Romelu,Lukaku Bolingoli,175,2024-25
+3955,Malang,Sarr,176,2024-25
+3956,Noni,Madueke,177,2024-25
+3957,Marc,Guiu Paz,178,2024-25
+3958,Mykhailo,Mudryk,179,2024-25
+3959,Nicolas,Jackson,180,2024-25
+3960,Christopher,Nkunku,181,2024-25
+3961,Cole,Palmer,182,2024-25
+3962,Đorđe,Petrović,183,2024-25
+3963,Renato,Palma Veiga,184,2024-25
+3964,Robert,Sánchez,185,2024-25
+3965,Tosin,Adarabioyo,187,2024-25
+3966,Wesley,Fofana,189,2024-25
+3967,Jadon,Sancho,386,2024-25
+3968,Pedro,Lomba Neto,560,2024-25
+3969,Caleb,Wiley,575,2024-25
+3970,Filip,Jørgensen,581,2024-25
+3971,João,Félix Sequeira,621,2024-25
+3972,Eddie,Nketiah,11,2024-25
+3973,Trevoh,Chalobah,159,2024-25
+3974,Naouirou,Ahamada,190,2024-25
+3975,Cheick,Doucouré,193,2024-25
+3976,Chris,Richards,194,2024-25
+3977,Chadi,Riad Dnanou,195,2024-25
+3978,Nathaniel,Clyne,196,2024-25
+3979,Malcolm,Ebiowei,197,2024-25
+3980,Eberechi,Eze,199,2024-25
+3981,Marc,Guéhi,200,2024-25
+3982,Dean,Henderson,201,2024-25
+3983,Rob,Holding,202,2024-25
+3984,Will,Hughes,203,2024-25
+3985,Daichi,Kamada,205,2024-25
+3986,Jefferson,Lerma Solís,206,2024-25
+3987,Jean-Philippe,Mateta,207,2024-25
+3988,Matheus,França de Oliveira,208,2024-25
+3989,Remi,Matthews,209,2024-25
+3990,Tyrick,Mitchell,210,2024-25
+3991,Daniel,Muñoz,211,2024-25
+3992,David,Ozoh,212,2024-25
+3993,Jesurun,Rak-Sakyi,213,2024-25
+3994,Jeffrey,Schlupp,214,2024-25
+3995,Joel,Ward,215,2024-25
+3996,Adam,Wharton,216,2024-25
+3997,Matt,Turner,445,2024-25
+3998,Ismaïla,Sarr,585,2024-25
+3999,Franco,Umeh-Chibueze,644,2024-25
+4000,Justin,Devenny,645,2024-25
+4001,Asher,Agbinone,646,2024-25
+4002,Kaden,Rodney,647,2024-25
+4003,Maxence,Lacroix,650,2024-25
+4004,Armando,Broja,156,2024-25
+4005,Abdoulaye,Doucouré,217,2024-25
+4006,Norberto Bercique,Gomes Betuncal,218,2024-25
+4007,Jarrad,Branthwaite,219,2024-25
+4008,Dominic,Calvert-Lewin,220,2024-25
+4009,Séamus,Coleman,221,2024-25
+4010,Idrissa,Gueye,222,2024-25
+4011,James,Garner,223,2024-25
+4012,Jack,Harrison,224,2024-25
+4013,Mason,Holgate,225,2024-25
+4014,Tim,Iroegbunam,226,2024-25
+4015,João,Neves Virgínia,227,2024-25
+4016,Michael,Keane,228,2024-25
+4017,Neal,Maupay,229,2024-25
+4018,Dwight,McNeil,230,2024-25
+4019,Vitalii,Mykolenko,231,2024-25
+4020,Iliman,Ndiaye,232,2024-25
+4021,Nathan,Patterson,234,2024-25
+4022,Jordan,Pickford,235,2024-25
+4023,James,Tarkowski,236,2024-25
+4024,Youssef,Ramalho Chermiti,237,2024-25
+4025,Ashley,Young,238,2024-25
+4026,Jesper,Lindstrøm,577,2024-25
+4027,Jake,O'Brien,582,2024-25
+4028,Harrison,Armstrong,603,2024-25
+4029,Jenson,Metcalfe,614,2024-25
+4030,Asmir,Begovic,624,2024-25
+4031,Roman,Dixon,627,2024-25
+4032,Orel,Mangala,651,2024-25
+4033,Reiss,Nelson,10,2024-25
+4034,Emile,Smith Rowe,19,2024-25
+4035,Joachim,Andersen,191,2024-25
+4036,Adama,Traoré,239,2024-25
+4037,Andreas,Hoelgebaum Pereira,240,2024-25
+4038,Calvin,Bassey,241,2024-25
+4039,Steven,Benda,242,2024-25
+4040,Tom,Cairney,243,2024-25
+4041,Timothy,Castagne,244,2024-25
+4042,Issa,Diop,245,2024-25
+4043,Luke,Harris,246,2024-25
+4044,Alex,Iwobi,247,2024-25
+4045,Bernd,Leno,248,2024-25
+4046,Saša,Lukić,249,2024-25
+4047,Kevin,Mbabu,250,2024-25
+4048,Rodrigo,Muniz Carvalho,251,2024-25
+4049,Raúl,Jiménez,252,2024-25
+4050,Tim,Ream,253,2024-25
+4051,Harrison,Reed,254,2024-25
+4052,Antonee,Robinson,255,2024-25
+4053,Jay,Stansfield,256,2024-25
+4054,Kenny,Tete,257,2024-25
+4055,Carlos Vinícius,Alves Morais,258,2024-25
+4056,Harry,Wilson,259,2024-25
+4057,Ryan,Sessegnon,579,2024-25
+4058,Jorge,Cuenca Barreno,586,2024-25
+4059,Josh,King,604,2024-25
+4060,Martial,Godo,605,2024-25
+4061,Sander,Berge,622,2024-25
+4062,Ali,Al-Hamadi,260,2024-25
+4063,Elkan,Baggott,261,2024-25
+4064,Nathan,Broadhead,262,2024-25
+4065,Cameron,Burgess,263,2024-25
+4066,Wes,Burns,264,2024-25
+4067,Conor,Chaplin,265,2024-25
+4068,Harry,Clarke,266,2024-25
+4069,Leif,Davis,267,2024-25
+4070,Liam,Delap,268,2024-25
+4071,George,Edmundson,269,2024-25
+4072,Jacob,Greaves,270,2024-25
+4073,Marcus,Myers-Harness,271,2024-25
+4074,George,Hirst,272,2024-25
+4075,Cameron,Humphreys,273,2024-25
+4076,Omari,Giraud-Hutchinson,274,2024-25
+4077,Ben,Johnson,275,2024-25
+4078,Freddie,Ladapo,276,2024-25
+4079,Massimo,Luongo,277,2024-25
+4080,Sam,Morsy,278,2024-25
+4081,Corrie,Ndaba,279,2024-25
+4082,Cieran,Slicker,280,2024-25
+4083,Jack,Taylor,281,2024-25
+4084,Axel,Tuanzebe,282,2024-25
+4085,Christian,Walton,283,2024-25
+4086,Luke,Woolfenden,284,2024-25
+4087,Kalvin,Phillips,359,2024-25
+4088,Arijanet,Muric,568,2024-25
+4089,Conor,Townsend,583,2024-25
+4090,Sam,Szmodics,611,2024-25
+4091,Jens,Cajuste,619,2024-25
+4092,Dara,O'Shea,630,2024-25
+4093,Jack,Clarke,631,2024-25
+4094,Chiedozie,Ogbene,632,2024-25
+4095,Facundo,Buonanotte,117,2024-25
+4096,Jordan,Ayew,192,2024-25
+4097,Odsonne,Edouard,198,2024-25
+4098,Boubakary,Soumaré,285,2024-25
+4099,Tom,Cannon,286,2024-25
+4100,Hamza,Choudhury,287,2024-25
+4101,Conor,Coady,288,2024-25
+4102,Patson,Daka,289,2024-25
+4103,Bobby,De Cordova-Reid,290,2024-25
+4104,Wout,Faes,291,2024-25
+4105,Michael,Golding,292,2024-25
+4106,Mads,Hermansen,293,2024-25
+4107,Daniel,Iversen,294,2024-25
+4108,James,Justin,295,2024-25
+4109,Victor,Kristiansen,296,2024-25
+4110,Wanya,Marçal-Madivádua,297,2024-25
+4111,Stephy,Mavididi,298,2024-25
+4112,Kasey,McAteer,299,2024-25
+4113,Wilfred,Ndidi,300,2024-25
+4114,Caleb,Okoli,301,2024-25
+4115,Ricardo,Barbosa Pereira,302,2024-25
+4116,Harry,Souttar,303,2024-25
+4117,Jakub,Stolarczyk,304,2024-25
+4118,Luke,Thomas,305,2024-25
+4119,Jamie,Vardy,306,2024-25
+4120,Jannik,Vestergaard,307,2024-25
+4121,Danny,Ward,308,2024-25
+4122,Harry,Winks,309,2024-25
+4123,Oliver,Skipp,501,2024-25
+4124,Abdul,Fatawu,570,2024-25
+4125,Will,Alves,606,2024-25
+4126,Ben,Nelson,616,2024-25
+4127,Bilal,El Khannouss,635,2024-25
+4128,Alisson,Ramses Becker,310,2024-25
+4129,Trent,Alexander-Arnold,311,2024-25
+4130,Stefan,Bajčetić Maquieira,312,2024-25
+4131,Conor,Bradley,313,2024-25
+4132,Bobby,Clark,315,2024-25
+4133,Darwin,Núñez Ribeiro,316,2024-25
+4134,Diogo,Teixeira da Silva,317,2024-25
+4135,Ben,Doak,318,2024-25
+4136,Harvey,Elliott,319,2024-25
+4137,Endo,Wataru,320,2024-25
+4138,Cody,Gakpo,321,2024-25
+4139,Joe,Gomez,322,2024-25
+4140,Ryan,Gravenberch,323,2024-25
+4141,Curtis,Jones,324,2024-25
+4142,Caoimhin,Kelleher,325,2024-25
+4143,Ibrahima,Konaté,326,2024-25
+4144,Luis,Díaz,327,2024-25
+4145,Mohamed,Salah,328,2024-25
+4146,Alexis,Mac Allister,329,2024-25
+4147,James,McConnell,330,2024-25
+4148,Tyler,Morton,331,2024-25
+4149,Nathaniel,Phillips,332,2024-25
+4150,Jarell,Quansah,333,2024-25
+4151,Rhys,Williams,334,2024-25
+4152,Andrew,Robertson,335,2024-25
+4153,Dominik,Szoboszlai,336,2024-25
+4154,Konstantinos,Tsimikas,337,2024-25
+4155,Virgil,van Dijk,339,2024-25
+4156,Federico,Chiesa,636,2024-25
+4157,Manuel,Akanji,340,2024-25
+4158,Nathan,Aké,341,2024-25
+4159,Bernardo,Veiga de Carvalho e Silva,342,2024-25
+4160,Oscar,Bobb,343,2024-25
+4161,Scott,Carson,344,2024-25
+4162,Kevin,De Bruyne,345,2024-25
+4163,Jérémy,Doku,346,2024-25
+4164,Ederson,Santana de Moraes,347,2024-25
+4165,Phil,Foden,348,2024-25
+4166,Jack,Grealish,349,2024-25
+4167,Joško,Gvardiol,350,2024-25
+4168,Erling,Haaland,351,2024-25
+4169,Julián,Álvarez,352,2024-25
+4170,João,Cavaco Cancelo,353,2024-25
+4171,Mateo,Kovačić,354,2024-25
+4172,Rico,Lewis,355,2024-25
+4173,Matheus Luiz,Nunes,356,2024-25
+4174,James,McAtee,357,2024-25
+4175,Stefan,Ortega Moreno,358,2024-25
+4176,Rodrigo 'Rodri',Hernandez,360,2024-25
+4177,Rúben,Gato Alves Dias,361,2024-25
+4178,John,Stones,362,2024-25
+4179,Kyle,Walker,363,2024-25
+4180,Sávio 'Savinho',Moreira de Oliveira,571,2024-25
+4181,Nico,O'Reilly,607,2024-25
+4182,Ilkay,Gündogan,625,2024-25
+4183,Issa,Kaboré,626,2024-25
+4184,Amad,Diallo,364,2024-25
+4185,Antony Matheus,dos Santos,365,2024-25
+4186,Bruno,Borges Fernandes,366,2024-25
+4187,Altay,Bayindir,367,2024-25
+4188,Carlos Henrique,Casimiro,368,2024-25
+4189,Diogo,Dalot Teixeira,369,2024-25
+4190,Christian,Eriksen,370,2024-25
+4191,Jonny,Evans,371,2024-25
+4192,Alejandro,Garnacho,372,2024-25
+4193,Hannibal,Mejbri,373,2024-25
+4194,Tom,Heaton,374,2024-25
+4195,Rasmus,Højlund,375,2024-25
+4196,Victor,Lindelöf,376,2024-25
+4197,Harry,Maguire,377,2024-25
+4198,Kobbie,Mainoo,378,2024-25
+4199,Tyrell,Malacia,379,2024-25
+4200,Lisandro,Martínez,380,2024-25
+4201,Scott,McTominay,381,2024-25
+4202,Mason,Mount,382,2024-25
+4203,André,Onana,383,2024-25
+4204,Facundo,Pellistri Rebollo,384,2024-25
+4205,Marcus,Rashford,385,2024-25
+4206,Luke,Shaw,387,2024-25
+4207,Joshua,Zirkzee,389,2024-25
+4208,Leny,Yoro,572,2024-25
+4209,Matthijs,de Ligt,593,2024-25
+4210,Noussair,Mazraoui,594,2024-25
+4211,Toby,Collyer,613,2024-25
+4212,Ethan,Wheatley,648,2024-25
+4213,Manuel,Ugarte,652,2024-25
+4214,Alex,Murphy,390,2024-25
+4215,Miguel,Almirón Rejala,391,2024-25
+4216,Harvey,Barnes,392,2024-25
+4217,Sven,Botman,393,2024-25
+4218,Bruno,Guimarães Rodriguez Moura,394,2024-25
+4219,Dan,Burn,395,2024-25
+4220,Martin,Dúbravka,396,2024-25
+4221,Anthony,Gordon,398,2024-25
+4222,Lewis,Hall,399,2024-25
+4223,Isaac,Hayden,400,2024-25
+4224,Alexander,Isak,401,2024-25
+4225,Jacob,Murphy,402,2024-25
+4226,Joelinton Cássio,Apolinário de Lira,403,2024-25
+4227,Lloyd,Kelly,404,2024-25
+4228,Emil,Krafth,405,2024-25
+4229,Garang,Kuol,406,2024-25
+4230,Jamaal,Lascelles,407,2024-25
+4231,Jamal,Lewis,408,2024-25
+4232,Tino,Livramento,409,2024-25
+4233,Sean,Longstaff,410,2024-25
+4234,Lewis,Miley,411,2024-25
+4235,Odysseas,Vlachodimos,412,2024-25
+4236,Nick,Pope,413,2024-25
+4237,John,Ruddy,414,2024-25
+4238,Fabian,Schär,415,2024-25
+4239,Matt,Targett,416,2024-25
+4240,Sandro,Tonali,417,2024-25
+4241,Kieran,Trippier,418,2024-25
+4242,Joe,White,419,2024-25
+4243,Joe,Willock,420,2024-25
+4244,Callum,Wilson,421,2024-25
+4245,Miodrag,Pivaš,574,2024-25
+4246,William,Osula,590,2024-25
+4247,Álex,Moreno Lopera,26,2024-25
+4248,Ola,Aina,422,2024-25
+4249,Elliot,Anderson,423,2024-25
+4250,Taiwo,Awoniyi,424,2024-25
+4251,Willy,Boly,425,2024-25
+4252,Josh,Bowler,426,2024-25
+4253,Carlos Miguel,dos Santos Pereira,427,2024-25
+4254,Eric,da Silva Moreira,428,2024-25
+4255,Danilo,dos Santos de Oliveira,429,2024-25
+4256,Emmanuel,Dennis,430,2024-25
+4257,Nicolás,Domínguez,431,2024-25
+4258,Anthony,Elanga,432,2024-25
+4259,Morgan,Gibbs-White,433,2024-25
+4260,Callum,Hudson-Odoi,434,2024-25
+4261,Alex,Mighten,435,2024-25
+4262,Murillo,Santiago Costa dos Santos,436,2024-25
+4263,Neco,Williams,437,2024-25
+4264,Omar,Richards,438,2024-25
+4265,Lewis,O'Brien,439,2024-25
+4266,Andrew,Omobamidele,440,2024-25
+4267,Jonathan,Panzo,441,2024-25
+4268,Ibrahim,Sangaré,442,2024-25
+4269,Matz,Sels,443,2024-25
+4270,Harry,Toffolo,444,2024-25
+4271,Hwang,Ui-jo,446,2024-25
+4272,Chris,Wood,447,2024-25
+4273,Joe,Worrall,448,2024-25
+4274,Ryan,Yates,449,2024-25
+4275,James,Ward-Prowse,531,2024-25
+4276,Nikola,Milenković,573,2024-25
+4277,João Pedro,Ferreira Silva,596,2024-25
+4278,Ramón,Sosa,620,2024-25
+4279,Felipe,Rodrigues da Silva,653,2024-25
+4280,Aaron,Ramsdale,14,2024-25
+4281,Cameron,Archer,27,2024-25
+4282,Lesley,Ugochukwu,188,2024-25
+4283,Ryan,Fraser,397,2024-25
+4284,Carlos,Alcaraz Durán,450,2024-25
+4285,Samuel,Amo-Ameyaw,451,2024-25
+4286,Joe,Aribo,452,2024-25
+4287,Adam,Armstrong,453,2024-25
+4288,Gavin,Bazunu,454,2024-25
+4289,Jan,Bednarek,455,2024-25
+4290,Armel,Bella-Kotchap,456,2024-25
+4291,James,Bree,457,2024-25
+4292,Shea,Charles,458,2024-25
+4293,Samuel,Edozie,459,2024-25
+4294,Ronnie,Edwards,460,2024-25
+4295,Taylor,Harwood-Bellis,461,2024-25
+4296,Kamaldeen,Sulemana,462,2024-25
+4297,Adam,Lallana,463,2024-25
+4298,Juan,Larios López,464,2024-25
+4299,Mateusz,Lis,465,2024-25
+4300,Joe,Lumley,466,2024-25
+4301,Ryan,Manning,467,2024-25
+4302,Sékou,Mara,468,2024-25
+4303,Alex,McCarthy,469,2024-25
+4304,Paul,Onuachu,470,2024-25
+4305,Will,Smallbone,471,2024-25
+4306,Jack,Stephens,472,2024-25
+4307,Ross,Stewart,473,2024-25
+4308,Sugawara,Yukinari,474,2024-25
+4309,Charlie,Taylor,475,2024-25
+4310,Kyle,Walker-Peters,476,2024-25
+4311,Nathan,Wood-Gordon,477,2024-25
+4312,Maxwel,Cornet,515,2024-25
+4313,Flynn,Downes,518,2024-25
+4314,Ben,Brereton Díaz,584,2024-25
+4315,Tyler,Dibling,608,2024-25
+4316,Mateus Gonçalo,Espanha Fernandes,623,2024-25
+4317,Dominic,Solanke-Mitchell,82,2024-25
+4318,Ashley,Phillips,478,2024-25
+4319,Brandon,Austin,479,2024-25
+4320,Rodrigo,Bentancur,480,2024-25
+4321,Lucas,Bergvall,481,2024-25
+4322,Yves,Bissouma,482,2024-25
+4323,Bryan,Gil Salvatierra,483,2024-25
+4324,Ben,Davies,484,2024-25
+4325,Alfie,Devine,485,2024-25
+4326,Radu,Drăgușin,486,2024-25
+4327,Emerson,Leite de Souza Junior,487,2024-25
+4328,Fraser,Forster,488,2024-25
+4329,Archie,Gray,489,2024-25
+4330,Pierre-Emile,Højbjerg,490,2024-25
+4331,Brennan,Johnson,491,2024-25
+4332,Dejan,Kulusevski,492,2024-25
+4333,Giovani,Lo Celso,493,2024-25
+4334,James,Maddison,494,2024-25
+4335,Pedro,Porro,495,2024-25
+4336,Sergio,Reguilón,496,2024-25
+4337,Richarlison,de Andrade,497,2024-25
+4338,Cristian,Romero,498,2024-25
+4339,Pape Matar,Sarr,499,2024-25
+4340,Dane,Scarlett,500,2024-25
+4341,Manor,Solomon,502,2024-25
+4342,Son,Heung-min,503,2024-25
+4343,Djed,Spence,504,2024-25
+4344,Destiny,Udogie,505,2024-25
+4345,Micky,van de Ven,506,2024-25
+4346,Alejo,Véliz,507,2024-25
+4347,Guglielmo,Vicario,508,2024-25
+4348,Timo,Werner,509,2024-25
+4349,Alfie,Whiteman,510,2024-25
+4350,Will,Lankshear,609,2024-25
+4351,Mikey,Moore,610,2024-25
+4352,Wilson,Odobert,612,2024-25
+4353,Aaron,Wan-Bissaka,388,2024-25
+4354,Edson,Álvarez Velázquez,511,2024-25
+4355,Michail,Antonio,512,2024-25
+4356,Alphonse,Areola,513,2024-25
+4357,Jarrod,Bowen,514,2024-25
+4358,Vladimír,Coufal,516,2024-25
+4359,Aaron,Cresswell,517,2024-25
+4360,George,Earthy,519,2024-25
+4361,Emerson,Palmieri dos Santos,520,2024-25
+4362,Łukasz,Fabiański,521,2024-25
+4363,Wes,Foderingham,522,2024-25
+4364,Danny,Ings,523,2024-25
+4365,Max,Kilman,524,2024-25
+4366,Mohammed,Kudus,525,2024-25
+4367,Luis Guilherme,Lira dos Santos,526,2024-25
+4368,Lucas,Tolentino Coelho de Lima,527,2024-25
+4369,Konstantinos,Mavropanos,528,2024-25
+4370,Nayef,Aguerd,529,2024-25
+4371,Tomáš,Souček,530,2024-25
+4372,Kurt,Zouma,532,2024-25
+4373,Andy,Irving,576,2024-25
+4374,Crysencio,Summerville,587,2024-25
+4375,Guido,Rodríguez,588,2024-25
+4376,Niclas,Füllkrug,589,2024-25
+4377,Jean-Clair,Todibo,591,2024-25
+4378,Kaelan,Casey,643,2024-25
+4379,Carlos,Soler,654,2024-25
+4380,Sam,Johnstone,204,2024-25
+4381,Rayan,Aït-Nouri,533,2024-25
+4382,Boubacar,Traoré,534,2024-25
+4383,Jean-Ricner,Bellegarde,535,2024-25
+4384,Daniel,Bentley,536,2024-25
+4385,Francisco Jorge,Tomás Oliveira,537,2024-25
+4386,Tawanda,Chirewa,538,2024-25
+4387,Leon,Chiwome,539,2024-25
+4388,Luke,Cundle,540,2024-25
+4389,Matheus,Santos Carneiro Da Cunha,541,2024-25
+4390,Craig,Dawson,542,2024-25
+4391,Matt,Doherty,543,2024-25
+4392,Tommy,Doyle,544,2024-25
+4393,Fábio,Silva,545,2024-25
+4394,Nathan,Fraser,546,2024-25
+4395,Enso,González,547,2024-25
+4396,Gonçalo Manuel,Ganchinho Guedes,548,2024-25
+4397,Hugo,Bueno López,549,2024-25
+4398,Hwang,Hee-chan,550,2024-25
+4399,Joe,Hodge,551,2024-25
+4400,Ki-Jana,Hoever,552,2024-25
+4401,João Victor,Gomes da Silva,553,2024-25
+4402,José,Malheiro de Sá,554,2024-25
+4403,Saša,Kalajdžić,555,2024-25
+4404,Tom,King,556,2024-25
+4405,Mario,Lemina,557,2024-25
+4406,Yerson,Mosquera,558,2024-25
+4407,Nélson,Cabral Semedo,559,2024-25
+4408,Pedro,Cardoso de Lima,561,2024-25
+4409,Daniel,Castelo Podence,562,2024-25
+4410,Rodrigo,Martins Gomes,563,2024-25
+4411,Santiago,Bueno,564,2024-25
+4412,Pablo,Sarabia,565,2024-25
+4413,Jørgen,Strand Larsen,566,2024-25
+4414,Toti António,Gomes,567,2024-25
+4415,Bastien,Meupiyou,637,2024-25
+4416,André,Trindade da Costa Neto,642,2024-25
+4417,Carlos Roberto,Forbs Borges,655,2024-25
