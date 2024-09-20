@@ -1,4 +1,4 @@
-index,first_name,second_name,id,year
+player_id,first_name,second_name,id,year
 0,Shkodran,Mustafi,1,2019-20
 1,Héctor,Bellerín,2,2019-20
 2,Sead,Kolasinac,3,2019-20
