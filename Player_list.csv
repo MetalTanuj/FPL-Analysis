@@ -3787,15 +3787,14 @@ Mikel,Merino,633,2024-25,1764
 Salah-Eddine,Oulad M'hand,638,2024-25,936
 Tommy,Setford,639,2024-25,1765
 Maldini,Kacurri,657,2024-25,1766
-Ayden,Heaven,658,2024-25,1767
-Ismeal,Kabia,659,2024-25,1768
-Josh,Nichols,662,2024-25,1769
+Ismeal,Kabia,659,2024-25,1767
+Josh,Nichols,662,2024-25,1768
 Nathan,Butler-Oyedeji,665,2024-25,1169
-Mikel,Arteta,735,2024-25,1770
-Jack,Porter,756,2024-25,1771
+Mikel,Arteta,735,2024-25,1769
+Jack,Porter,756,2024-25,1770
 Leon,Bailey,28,2024-25,947
 Ross,Barkley,29,2024-25,181
-Enzo,Barrenechea,30,2024-25,1772
+Enzo,Barrenechea,30,2024-25,1771
 Emiliano,Buendía Stati,31,2024-25,945
 Matty,Cash,32,2024-25,1174
 Leander,Dendoncker,33,2024-25,653
@@ -3806,7 +3805,7 @@ Lewis,Dobbin,37,2024-25,1028
 Jhon,Durán,38,2024-25,1181
 Joe,Gauci,39,2024-25,1488
 Kortney,Hause,40,2024-25,40
-Samuel,Iling-Junior,41,2024-25,1773
+Samuel,Iling-Junior,41,2024-25,1772
 Boubacar,Kamara,42,2024-25,1176
 Kaine,Kesler-Hayden,43,2024-25,1486
 Ezri,Konsa Ngoyo,44,2024-25,58
@@ -3815,25 +3814,28 @@ Filip,Marschall,46,2024-25,952
 Emiliano,Martínez Romero,47,2024-25,1173
 John,McGinn,48,2024-25,46
 Tyrone,Mings,49,2024-25,57
-Kosta,Nedeljković,50,2024-25,1774
+Kosta,Nedeljković,50,2024-25,1773
 Robin,Olsen,51,2024-25,721
 Pau,Torres,52,2024-25,1481
 Jacob,Ramsey,53,2024-25,677
 Morgan,Rogers,54,2024-25,1487
 Viljami,Sinisalo,55,2024-25,950
-Lino,da Cruz Sousa,56,2024-25,1775
+Lino,da Cruz Sousa,56,2024-25,1774
 Youri,Tielemans,57,2024-25,288
 Ollie,Watkins,58,2024-25,675
+Axel,Disasi,167,2024-25,1560
 Amadou,Onana,233,2024-25,1277
+Marcus,Rashford,385,2024-25,366
 Lamare,Bogarde,598,2024-25,951
 Sil,Swinkels,640,2024-25,1182
 Oliwier,Zych,641,2024-25,1183
 Kadan,Young,656,2024-25,1179
-Ben,Broggio,679,2024-25,1776
-Jamaldeen,Jimoh,710,2024-25,1777
-Donyell,Malen,725,2024-25,1778
-Andrés,García,731,2024-25,1779
-Unai,Emery,737,2024-25,1780
+Ben,Broggio,679,2024-25,1775
+Jamaldeen,Jimoh,710,2024-25,1776
+Donyell,Malen,725,2024-25,1777
+Andrés,García,731,2024-25,1778
+Unai,Emery,737,2024-25,1779
+Marco,Asensio,762,2024-25,1780
 Max,Aarons,59,2024-25,1071
 Tyler,Adams,60,2024-25,1318
 Jaidon,Anthony,61,2024-25,1194
@@ -3911,6 +3913,9 @@ Tony,Yogane,661,2024-25,1798
 Paris,Maghoma,674,2024-25,987
 Benjamin,Arthur,705,2024-25,1507
 Thomas,Frank,752,2024-25,1799
+Michael,Kayode,757,2024-25,1800
+Julian,Eyestone,759,2024-25,1801
+Iwan,Morgan,780,2024-25,1802
 Simon,Adingra,113,2024-25,1509
 Benicio,Baker-Boaitey,114,2024-25,1517
 Carlos,Baleba,115,2024-25,1514
@@ -3919,20 +3924,19 @@ Amario,Cozier-Duberry,118,2024-25,1168
 Mahmoud,Dahoud,119,2024-25,1510
 Lewis,Dunk,120,2024-25,107
 Pervis,Estupiñán,122,2024-25,1237
-Evan,Ferguson,123,2024-25,1002
 Billy,Gilmour,124,2024-25,194
 Pascal,Groß,125,2024-25,114
 Jack,Hinshelwood,126,2024-25,1240
-Ibrahim,Osman,127,2024-25,1800
+Ibrahim,Osman,127,2024-25,1803
 Igor Julio,dos Santos de Paulo,128,2024-25,1513
 João Pedro,Junqueira de Jesus,129,2024-25,593
 Kacper,Kozłowski,130,2024-25,1233
 Tariq,Lamptey,131,2024-25,132
 Solly,March,132,2024-25,1227
-Adrian,Mazilu,133,2024-25,1801
+Adrian,Mazilu,133,2024-25,1804
 James,Milner,134,2024-25,314
-Yankuba,Minteh,135,2024-25,1802
-Mitoma,Kaoru,136,2024-25,1803
+Yankuba,Minteh,135,2024-25,1805
+Mitoma,Kaoru,136,2024-25,1806
 Jakub,Moder,137,2024-25,690
 Mark,O’Mahony,138,2024-25,1516
 Odeluga,Offiah,139,2024-25,1003
@@ -3945,20 +3949,22 @@ Joël,Veltman,145,2024-25,681
 Bart,Verbruggen,146,2024-25,1512
 Adam,Webster,147,2024-25,125
 Danny,Welbeck,148,2024-25,588
-Mats,Wieffer,149,2024-25,1804
-Brajan,Gruda,595,2024-25,1805
+Mats,Wieffer,149,2024-25,1807
+Brajan,Gruda,595,2024-25,1808
 Yasin,Ayari,600,2024-25,1242
 Andrew,Moran,601,2024-25,1238
-Carl,Rushworth,615,2024-25,1806
+Carl,Rushworth,615,2024-25,1809
 Georginio,Rutter,618,2024-25,1324
-Ferdi,Kadioglu,628,2024-25,1807
-Matt,O'Riley,629,2024-25,1808
+Ferdi,Kadioglu,628,2024-25,1810
+Matt,O'Riley,629,2024-25,1811
 Imari,Samuels,663,2024-25,1245
-Killian,Cahill,668,2024-25,1809
-Ruairi,McConville,681,2024-25,1810
-Jacob,Slater,685,2024-25,1811
-Diego,Gómez,714,2024-25,1812
-Fabian,Hürzeler,739,2024-25,1813
+Killian,Cahill,668,2024-25,1812
+Ruairi,McConville,681,2024-25,1813
+Jacob,Slater,685,2024-25,1814
+Diego,Gómez,714,2024-25,1815
+Fabian,Hürzeler,739,2024-25,1816
+Joe,Knight,758,2024-25,1817
+Eiran,Cashin,763,2024-25,1818
 Andrey,Nascimento dos Santos,150,2024-25,1255
 Ângelo Gabriel,Borges Damaceno,151,2024-25,1558
 Benoît,Badiashile,153,2024-25,1252
@@ -3967,14 +3973,12 @@ Marcus,Bettinelli,155,2024-25,740
 Moisés,Caicedo Corozo,157,2024-25,1229
 Cesare,Casadei,158,2024-25,1572
 Trevoh,Chalobah,159,2024-25,1014
-Ben,Chilwell,160,2024-25,1247
 Carney,Chukwuemeka,161,2024-25,679
 Levi,Colwill,162,2024-25,1236
 Marc,Cucurella Saseta,163,2024-25,1246
 David Datro,Fofana,164,2024-25,1251
 Deivid Washington,de Souza Eugênio,165,2024-25,1564
 Kiernan,Dewsbury-Hall,166,2024-25,1034
-Axel,Disasi,167,2024-25,1560
 Enzo,Fernández,168,2024-25,1257
 Conor,Gallagher,169,2024-25,894
 Alfie,Gilchrist,170,2024-25,1259
@@ -3985,30 +3989,35 @@ Roméo,Lavia,174,2024-25,1415
 Romelu,Lukaku Bolingoli,175,2024-25,1554
 Malang,Sarr,176,2024-25,1013
 Noni,Madueke,177,2024-25,1256
-Marc,Guiu Paz,178,2024-25,1814
+Marc,Guiu Paz,178,2024-25,1819
 Mykhailo,Mudryk,179,2024-25,1254
 Nicolas,Jackson,180,2024-25,1555
 Christopher,Nkunku,181,2024-25,1556
 Cole,Palmer,182,2024-25,352
 Đorđe,Petrović,183,2024-25,1567
-Renato,Palma Veiga,184,2024-25,1815
+Renato,Palma Veiga,184,2024-25,1820
 Robert,Sánchez,185,2024-25,688
 Tosin,Adarabioyo,187,2024-25,757
 Wesley,Fofana,189,2024-25,766
 Jadon,Sancho,386,2024-25,1061
 Pedro,Lomba Neto,560,2024-25,656
-Caleb,Wiley,575,2024-25,1816
-Filip,Jørgensen,581,2024-25,1817
+Caleb,Wiley,575,2024-25,1821
+Filip,Jørgensen,581,2024-25,1822
 João,Félix Sequeira,621,2024-25,1253
-Samuel,Rak-Sakyi,695,2024-25,1818
+Samuel,Rak-Sakyi,695,2024-25,1823
 Tyrique,George,696,2024-25,1577
 Josh,Acheampong,697,2024-25,1575
-Enzo,Maresca,740,2024-25,1819
+Enzo,Maresca,740,2024-25,1824
+Mathis,Amougou,771,2024-25,1825
+Aaron,Anselmino,774,2024-25,1826
+Shumaira,Mheuka,781,2024-25,1827
+Ishé,Samuels-Smith,782,2024-25,1279
 Eddie,Nketiah,11,2024-25,1157
+Ben,Chilwell,160,2024-25,1247
 Naouirou,Ahamada,190,2024-25,1271
 Cheick,Doucouré,193,2024-25,1262
 Chris,Richards,194,2024-25,1263
-Chadi,Riad Dnanou,195,2024-25,1820
+Chadi,Riad Dnanou,195,2024-25,1828
 Nathaniel,Clyne,196,2024-25,711
 Malcolm,Ebiowei,197,2024-25,1260
 Eberechi,Eze,199,2024-25,709
@@ -4016,7 +4025,7 @@ Marc,Guéhi,200,2024-25,1020
 Dean,Henderson,201,2024-25,480
 Rob,Holding,202,2024-25,9
 Will,Hughes,203,2024-25,581
-Daichi,Kamada,205,2024-25,1821
+Daichi,Kamada,205,2024-25,1829
 Jefferson,Lerma Solís,206,2024-25,1190
 Jean-Philippe,Mateta,207,2024-25,713
 Matheus,França de Oliveira,208,2024-25,1583
@@ -4031,20 +4040,20 @@ Adam,Wharton,216,2024-25,1587
 Matt,Turner,445,2024-25,1162
 Ismaïla,Sarr,585,2024-25,590
 Franco,Umeh-Chibueze,644,2024-25,1588
-Justin,Devenny,645,2024-25,1822
-Asher,Agbinone,646,2024-25,1823
+Justin,Devenny,645,2024-25,1830
+Asher,Agbinone,646,2024-25,1831
 Kaden,Rodney,647,2024-25,1265
-Maxence,Lacroix,650,2024-25,1824
-Caleb,Kporha,666,2024-25,1825
-Zach,Marsh,676,2024-25,1826
-Romain,Esse,730,2024-25,1827
-Oliver,Glasner,741,2024-25,1828
+Maxence,Lacroix,650,2024-25,1832
+Caleb,Kporha,666,2024-25,1833
+Zach,Marsh,676,2024-25,1834
+Romain,Esse,730,2024-25,1835
+Oliver,Glasner,741,2024-25,1836
 Armando,Broja,156,2024-25,197
 Abdoulaye,Doucouré,217,2024-25,579
 Norberto Bercique,Gomes Betuncal,218,2024-25,1592
 Jarrad,Branthwaite,219,2024-25,262
 Dominic,Calvert-Lewin,220,2024-25,238
-Séamus,Coleman,221,2024-25,1829
+Séamus,Coleman,221,2024-25,1837
 Idrissa,Gueye,222,2024-25,247
 James,Garner,223,2024-25,383
 Jack,Harrison,224,2024-25,784
@@ -4061,16 +4070,19 @@ Jordan,Pickford,235,2024-25,239
 James,Tarkowski,236,2024-25,136
 Youssef,Ramalho Chermiti,237,2024-25,1591
 Ashley,Young,238,2024-25,357
-Jesper,Lindstrøm,577,2024-25,1830
+Carlos,Alcaraz Durán,450,2024-25,1838
+Jesper,Lindstrøm,577,2024-25,1839
 Jake,O'Brien,582,2024-25,1581
-Harrison,Armstrong,603,2024-25,1831
+Harrison,Armstrong,603,2024-25,1840
 Jenson,Metcalfe,614,2024-25,1594
 Asmir,Begovic,624,2024-25,83
-Roman,Dixon,627,2024-25,1832
+Roman,Dixon,627,2024-25,1841
 Orel,Mangala,651,2024-25,1402
-Callum,Bates,678,2024-25,1833
-Martin,Sherif,724,2024-25,1834
-David,Moyes,742,2024-25,1835
+Callum,Bates,678,2024-25,1842
+Martin,Sherif,724,2024-25,1843
+David,Moyes,742,2024-25,1844
+Isaac,Heath,773,2024-25,1845
+Coby,Ebere,775,2024-25,1846
 Reiss,Nelson,10,2024-25,26
 Emile,Smith Rowe,19,2024-25,31
 Joachim,Andersen,191,2024-25,756
@@ -4096,96 +4108,98 @@ Kenny,Tete,257,2024-25,753
 Carlos Vinícius,Alves Morais,258,2024-25,1295
 Harry,Wilson,259,2024-25,98
 Ryan,Sessegnon,579,2024-25,554
-Jorge,Cuenca Barreno,586,2024-25,1836
-Josh,King,604,2024-25,1837
+Jorge,Cuenca Barreno,586,2024-25,1847
+Josh,King,604,2024-25,1848
 Martial,Godo,605,2024-25,1297
 Sander,Berge,622,2024-25,488
-Samuel,Amissah,690,2024-25,1838
-Marco Alexandre,Saraiva da Silva,753,2024-25,1839
+Samuel,Amissah,690,2024-25,1849
+Marco Alexandre,Saraiva da Silva,753,2024-25,1850
+Willian,Borges da Silva,772,2024-25,1294
 Julio,Enciso,121,2024-25,1232
-Ali,Al-Hamadi,260,2024-25,1840
-Elkan,Baggott,261,2024-25,1841
+Ali,Al-Hamadi,260,2024-25,1851
+Elkan,Baggott,261,2024-25,1852
 Nathan,Broadhead,262,2024-25,724
-Cameron,Burgess,263,2024-25,1842
-Wes,Burns,264,2024-25,1843
-Conor,Chaplin,265,2024-25,1844
-Harry,Clarke,266,2024-25,1845
+Cameron,Burgess,263,2024-25,1853
+Wes,Burns,264,2024-25,1854
+Conor,Chaplin,265,2024-25,1855
+Harry,Clarke,266,2024-25,1856
 Leif,Davis,267,2024-25,795
 Liam,Delap,268,2024-25,824
-George,Edmundson,269,2024-25,1846
-Jacob,Greaves,270,2024-25,1847
-Marcus,Myers-Harness,271,2024-25,1848
+George,Edmundson,269,2024-25,1857
+Jacob,Greaves,270,2024-25,1858
+Marcus,Myers-Harness,271,2024-25,1859
 George,Hirst,272,2024-25,293
-Cameron,Humphreys,273,2024-25,1849
-Omari,Giraud-Hutchinson,274,2024-25,1850
+Cameron,Humphreys,273,2024-25,1860
+Omari,Giraud-Hutchinson,274,2024-25,1861
 Ben,Johnson,275,2024-25,604
-Freddie,Ladapo,276,2024-25,1851
-Massimo,Luongo,277,2024-25,1852
-Sam,Morsy,278,2024-25,1853
-Corrie,Ndaba,279,2024-25,1854
+Freddie,Ladapo,276,2024-25,1862
+Massimo,Luongo,277,2024-25,1863
+Sam,Morsy,278,2024-25,1864
+Corrie,Ndaba,279,2024-25,1865
 Cieran,Slicker,280,2024-25,1057
-Jack,Taylor,281,2024-25,1855
+Jack,Taylor,281,2024-25,1866
 Axel,Tuanzebe,282,2024-25,384
 Christian,Walton,283,2024-25,684
-Luke,Woolfenden,284,2024-25,1856
+Luke,Woolfenden,284,2024-25,1867
 Kalvin,Phillips,359,2024-25,785
 Arijanet,Muric,568,2024-25,1538
-Jaden,Philogene,569,2024-25,1857
+Jaden,Philogene,569,2024-25,1868
 Conor,Townsend,583,2024-25,883
-Sam,Szmodics,611,2024-25,1858
-Jens,Cajuste,619,2024-25,1859
+Sam,Szmodics,611,2024-25,1869
+Jens,Cajuste,619,2024-25,1870
 Dara,O'Shea,630,2024-25,889
-Jack,Clarke,631,2024-25,1860
+Jack,Clarke,631,2024-25,1871
 Chiedozie,Ogbene,632,2024-25,1626
 Ben,Godfrey,715,2024-25,428
-Kieran,McKenna,743,2024-25,1861
+Kieran,McKenna,743,2024-25,1872
+Alex,Palmer,764,2024-25,1873
 Facundo,Buonanotte,117,2024-25,1241
 Jordan,Ayew,192,2024-25,218
 Odsonne,Edouard,198,2024-25,1024
 Boubakary,Soumaré,285,2024-25,1033
-Tom,Cannon,286,2024-25,1862
+Tom,Cannon,286,2024-25,1874
 Hamza,Choudhury,287,2024-25,284
 Conor,Coady,288,2024-25,637
 Patson,Daka,289,2024-25,1032
 Bobby,De Cordova-Reid,290,2024-25,1282
 Wout,Faes,291,2024-25,1306
-Michael,Golding,292,2024-25,1863
-Mads,Hermansen,293,2024-25,1864
+Michael,Golding,292,2024-25,1875
+Mads,Hermansen,293,2024-25,1876
 Daniel,Iversen,294,2024-25,1304
 James,Justin,295,2024-25,287
 Victor,Kristiansen,296,2024-25,1309
-Wanya,Marçal-Madivádua,297,2024-25,1865
-Stephy,Mavididi,298,2024-25,1866
+Wanya,Marçal-Madivádua,297,2024-25,1877
+Stephy,Mavididi,298,2024-25,1878
 Kasey,McAteer,299,2024-25,1037
 Wilfred,Ndidi,300,2024-25,280
-Caleb,Okoli,301,2024-25,1867
+Caleb,Okoli,301,2024-25,1879
 Ricardo,Barbosa Pereira,302,2024-25,1303
 Harry,Souttar,303,2024-25,1311
-Jakub,Stolarczyk,304,2024-25,1868
+Jakub,Stolarczyk,304,2024-25,1880
 Luke,Thomas,305,2024-25,292
 Jamie,Vardy,306,2024-25,270
 Jannik,Vestergaard,307,2024-25,491
 Danny,Ward,308,2024-25,274
 Harry,Winks,309,2024-25,545
 Oliver,Skipp,501,2024-25,550
-Abdul,Fatawu,570,2024-25,1869
-Will,Alves,606,2024-25,1870
+Abdul,Fatawu,570,2024-25,1881
+Will,Alves,606,2024-25,1882
 Ben,Nelson,616,2024-25,1035
-Bilal,El Khannouss,635,2024-25,1871
-Henry,Cartwright,694,2024-25,1872
-Thomas,Wilson-Brown,708,2024-25,1873
-Woyo,Coulibaly,726,2024-25,1874
-Ruud,van Nistelrooij,754,2024-25,1875
+Bilal,El Khannouss,635,2024-25,1883
+Henry,Cartwright,694,2024-25,1884
+Thomas,Wilson-Brown,708,2024-25,1885
+Woyo,Coulibaly,726,2024-25,1886
+Ruud,van Nistelrooij,754,2024-25,1887
 Alisson,Ramses Becker,310,2024-25,303
 Trent,Alexander-Arnold,311,2024-25,296
-Stefan,Bajčetić Maquieira,312,2024-25,1876
+Stefan,Bajčetić Maquieira,312,2024-25,1888
 Conor,Bradley,313,2024-25,1049
 Bobby,Clark,315,2024-25,1335
 Darwin,Núñez Ribeiro,316,2024-25,1330
 Diogo,Teixeira da Silva,317,2024-25,1328
 Ben,Doak,318,2024-25,1338
 Harvey,Elliott,319,2024-25,320
-Endo,Wataru,320,2024-25,1877
+Endo,Wataru,320,2024-25,1889
 Cody,Gakpo,321,2024-25,1339
 Joe,Gomez,322,2024-25,1603
 Ryan,Gravenberch,323,2024-25,1607
@@ -4204,13 +4218,13 @@ Andrew,Robertson,335,2024-25,295
 Dominik,Szoboszlai,336,2024-25,1604
 Konstantinos,Tsimikas,337,2024-25,811
 Virgil,van Dijk,339,2024-25,297
-Federico,Chiesa,636,2024-25,1878
-Vítezslav,Jaros,660,2024-25,1879
+Federico,Chiesa,636,2024-25,1890
+Vítezslav,Jaros,660,2024-25,1891
 Harvey,Davies,669,2024-25,1336
 Treymaurice,Nyoni,688,2024-25,1609
 Amara,Nallo,692,2024-25,1613
 Jayden,Danns,709,2024-25,1612
-Arne,Slot,744,2024-25,1880
+Arne,Slot,744,2024-25,1892
 Manuel,Akanji,340,2024-25,1351
 Nathan,Aké,341,2024-25,71
 Bernardo,Veiga de Carvalho e Silva,342,2024-25,1341
@@ -4224,30 +4238,32 @@ Jack,Grealish,349,2024-25,44
 Joško,Gvardiol,350,2024-25,1655
 Erling,Haaland,351,2024-25,1343
 Julián,Álvarez,352,2024-25,1344
-João,Cavaco Cancelo,353,2024-25,1881
+João,Cavaco Cancelo,353,2024-25,1893
 Mateo,Kovačić,354,2024-25,1654
 Rico,Lewis,355,2024-25,1348
 Matheus Luiz,Nunes,356,2024-25,1464
 James,McAtee,357,2024-25,1058
 Stefan,Ortega Moreno,358,2024-25,1347
-Rodrigo 'Rodri',Hernandez,360,2024-25,1882
+Rodrigo 'Rodri',Hernandez,360,2024-25,1894
 Rúben,Gato Alves Dias,361,2024-25,1342
 John,Stones,362,2024-25,330
 Kyle,Walker,363,2024-25,327
-Sávio 'Savinho',Moreira de Oliveira,571,2024-25,1883
+Sávio 'Savinho',Moreira de Oliveira,571,2024-25,1895
 Nico,O'Reilly,607,2024-25,1355
 Ilkay,Gündogan,625,2024-25,345
 Issa,Kaboré,626,2024-25,1641
 Jacob,Wright,671,2024-25,1659
-Jahmai,Simpson-Pusey,672,2024-25,1884
+Jahmai,Simpson-Pusey,672,2024-25,1896
 Josh,Wilson-Esbrand,675,2024-25,1346
 Divin,Mubama,698,2024-25,1451
-Max,Alleyne,703,2024-25,1885
-Spike,Brits,704,2024-25,1886
-Abdukodir,Khusanov,732,2024-25,1887
-Vitor,de Oliveira Nunes dos Reis,733,2024-25,1888
-Pep,Guardiola,736,2024-25,1889
-Omar,Marmoush,755,2024-25,1890
+Max,Alleyne,703,2024-25,1897
+Spike,Brits,704,2024-25,1898
+Abdukodir,Khusanov,732,2024-25,1899
+Vitor,de Oliveira Nunes dos Reis,733,2024-25,1900
+Pep,Guardiola,736,2024-25,1901
+Omar,Marmoush,755,2024-25,1902
+Nico,González,765,2024-25,1903
+Claudio,Echeverri,785,2024-25,1904
 Amad,Diallo,364,2024-25,835
 Antony Matheus,dos Santos,365,2024-25,1366
 Bruno,Borges Fernandes,366,2024-25,1357
@@ -4269,27 +4285,34 @@ Scott,McTominay,381,2024-25,381
 Mason,Mount,382,2024-25,191
 André,Onana,383,2024-25,1661
 Facundo,Pellistri Rebollo,384,2024-25,1360
-Marcus,Rashford,385,2024-25,366
 Luke,Shaw,387,2024-25,359
-Joshua,Zirkzee,389,2024-25,1891
-Leny,Yoro,572,2024-25,1892
-Matthijs,de Ligt,593,2024-25,1893
-Noussair,Mazraoui,594,2024-25,1894
+Joshua,Zirkzee,389,2024-25,1905
+Leny,Yoro,572,2024-25,1906
+Matthijs,de Ligt,593,2024-25,1907
+Noussair,Mazraoui,594,2024-25,1908
 Toby,Collyer,613,2024-25,1670
 Ethan,Wheatley,648,2024-25,1674
-Manuel,Ugarte,652,2024-25,1895
-Jack,Fletcher,667,2024-25,1896
+Manuel,Ugarte,652,2024-25,1909
+Ayden,Heaven,658,2024-25,1910
+Jack,Fletcher,667,2024-25,1911
 Harry,Amass,670,2024-25,1673
-Jayce,Fitzgerald,673,2024-25,1897
-Godwill,Kukonki,691,2024-25,1898
-Ruben Filipe,Marques Diogo Amorim,745,2024-25,1899
+Jayce,Fitzgerald,673,2024-25,1912
+Godwill,Kukonki,691,2024-25,1913
+Ruben Filipe,Marques Diogo Amorim,745,2024-25,1914
+Elyh,Harrison,761,2024-25,1915
+Patrick,Dorgu,766,2024-25,1916
+Chido,Obi-Martin,776,2024-25,1917
+Tyler,Fredricson,777,2024-25,1918
+Jack,Moorhouse,778,2024-25,1919
+Sékou,Koné,779,2024-25,1920
+Hubert,Graczyk,783,2024-25,1921
 Alex,Murphy,390,2024-25,1678
 Miguel,Almirón Rejala,391,2024-25,1373
 Harvey,Barnes,392,2024-25,276
 Sven,Botman,393,2024-25,1375
 Bruno,Guimarães Rodriguez Moura,394,2024-25,1068
 Dan,Burn,395,2024-25,124
-Martin,Dúbravka,396,2024-25,1900
+Martin,Dúbravka,396,2024-25,1922
 Anthony,Gordon,398,2024-25,258
 Lewis,Hall,399,2024-25,1016
 Isaac,Hayden,400,2024-25,408
@@ -4314,17 +4337,17 @@ Kieran,Trippier,418,2024-25,533
 Joe,White,419,2024-25,1067
 Joe,Willock,420,2024-25,1374
 Callum,Wilson,421,2024-25,79
-Miodrag,Pivaš,574,2024-25,1901
+Miodrag,Pivaš,574,2024-25,1923
 William,Osula,590,2024-25,857
-Eddie,Howe,746,2024-25,1902
-Álex,Moreno Lopera,26,2024-25,1903
+Eddie,Howe,746,2024-25,1924
+Álex,Moreno Lopera,26,2024-25,1925
 Ola,Aina,422,2024-25,755
 Elliot,Anderson,423,2024-25,842
 Taiwo,Awoniyi,424,2024-25,1396
 Willy,Boly,425,2024-25,638
 Josh,Bowler,426,2024-25,1684
-Carlos Miguel,dos Santos Pereira,427,2024-25,1904
-Eric,da Silva Moreira,428,2024-25,1905
+Carlos Miguel,dos Santos Pereira,427,2024-25,1926
+Eric,da Silva Moreira,428,2024-25,1927
 Danilo,dos Santos de Oliveira,429,2024-25,1410
 Emmanuel,Dennis,430,2024-25,1118
 Nicolás,Domínguez,431,2024-25,1692
@@ -4345,21 +4368,19 @@ Hwang,Ui-jo,446,2024-25,1686
 Chris,Wood,447,2024-25,143
 Joe,Worrall,448,2024-25,1388
 Ryan,Yates,449,2024-25,1387
-James,Ward-Prowse,531,2024-25,507
-Nikola,Milenković,573,2024-25,1906
-João Pedro,Ferreira Silva,596,2024-25,1907
-Ramón,Sosa,620,2024-25,1908
-Felipe,Rodrigues da Silva,653,2024-25,1909
-Zach,Abbott,706,2024-25,1910
+Nikola,Milenković,573,2024-25,1928
+João Pedro,Ferreira Silva,596,2024-25,1929
+Ramón,Sosa,620,2024-25,1930
+Felipe,Rodrigues da Silva,653,2024-25,1931
+Zach,Abbott,706,2024-25,1932
 Wayne,Hennessey,721,2024-25,208
-Nuno Herlander,Simões Espírito Santo,747,2024-25,1911
+Nuno Herlander,Simões Espírito Santo,747,2024-25,1933
 Aaron,Ramsdale,14,2024-25,97
 Cameron,Archer,27,2024-25,949
 Lesley,Ugochukwu,188,2024-25,1561
 Ryan,Fraser,397,2024-25,86
-Carlos,Alcaraz Durán,450,2024-25,1912
 Samuel,Amo-Ameyaw,451,2024-25,1433
-Joe,Aribo,452,2024-25,1913
+Joe,Aribo,452,2024-25,1934
 Adam,Armstrong,453,2024-25,1091
 Gavin,Bazunu,454,2024-25,1419
 Jan,Bednarek,455,2024-25,494
@@ -4367,44 +4388,44 @@ Armel,Bella-Kotchap,456,2024-25,1420
 James,Bree,457,2024-25,673
 Shea,Charles,458,2024-25,1354
 Samuel,Edozie,459,2024-25,1054
-Ronnie,Edwards,460,2024-25,1914
+Ronnie,Edwards,460,2024-25,1935
 Taylor,Harwood-Bellis,461,2024-25,351
 Kamaldeen,Sulemana,462,2024-25,1429
 Adam,Lallana,463,2024-25,309
 Juan,Larios López,464,2024-25,1423
 Mateusz,Lis,465,2024-25,1418
-Joe,Lumley,466,2024-25,1915
-Ryan,Manning,467,2024-25,1916
+Joe,Lumley,466,2024-25,1936
+Ryan,Manning,467,2024-25,1937
 Sékou,Mara,468,2024-25,1422
 Alex,McCarthy,469,2024-25,504
 Paul,Onuachu,470,2024-25,1430
 Will,Smallbone,471,2024-25,1417
 Jack,Stephens,472,2024-25,495
-Ross,Stewart,473,2024-25,1917
-Sugawara,Yukinari,474,2024-25,1918
+Ross,Stewart,473,2024-25,1938
+Sugawara,Yukinari,474,2024-25,1939
 Charlie,Taylor,475,2024-25,139
 Kyle,Walker-Peters,476,2024-25,515
-Nathan,Wood-Gordon,477,2024-25,1919
+Nathan,Wood-Gordon,477,2024-25,1940
 Maxwel,Cornet,515,2024-25,1006
 Flynn,Downes,518,2024-25,1447
-Ben,Brereton Díaz,584,2024-25,1920
+Ben,Brereton Díaz,584,2024-25,1941
 Tyler,Dibling,608,2024-25,1095
-Mateus Gonçalo,Espanha Fernandes,623,2024-25,1921
-Joseph,O'Brien-Whitmarsh,693,2024-25,1922
-Welington Damascena,Santos,718,2024-25,1923
-Joachim,Kayi-Sanda,719,2024-25,1924
-Albert,Grønbæk,734,2024-25,1925
-Ivan,Juric,748,2024-25,1926
-Dominic,Solanke-Mitchell,82,2024-25,1927
+Mateus Gonçalo,Espanha Fernandes,623,2024-25,1942
+Joseph,O'Brien-Whitmarsh,693,2024-25,1943
+Welington Damascena,Santos,718,2024-25,1944
+Joachim,Kayi-Sanda,719,2024-25,1945
+Albert,Grønbæk,734,2024-25,1946
+Ivan,Juric,748,2024-25,1947
+Dominic,Solanke-Mitchell,82,2024-25,1948
 Ashley,Phillips,478,2024-25,1728
 Brandon,Austin,479,2024-25,558
 Rodrigo,Bentancur,480,2024-25,1103
-Lucas,Bergvall,481,2024-25,1928
+Lucas,Bergvall,481,2024-25,1949
 Yves,Bissouma,482,2024-25,118
 Bryan,Gil Salvatierra,483,2024-25,1097
 Ben,Davies,484,2024-25,529
 Alfie,Devine,485,2024-25,870
-Radu,Drăgușin,486,2024-25,1929
+Radu,Drăgușin,486,2024-25,1950
 Emerson,Leite de Souza Junior,487,2024-25,1435
 Fraser,Forster,488,2024-25,503
 Archie,Gray,489,2024-25,1045
@@ -4428,18 +4449,22 @@ Alejo,Véliz,507,2024-25,1727
 Guglielmo,Vicario,508,2024-25,1725
 Timo,Werner,509,2024-25,702
 Alfie,Whiteman,510,2024-25,556
-Will,Lankshear,609,2024-25,1930
+Will,Lankshear,609,2024-25,1951
 Mikey,Moore,610,2024-25,1732
 Wilson,Odobert,612,2024-25,1546
-Callum,Olusesi,683,2024-25,1931
-Malachi,Hardy,684,2024-25,1932
-Luca,Williams-Barnett,689,2024-25,1933
+Callum,Olusesi,683,2024-25,1952
+Malachi,Hardy,684,2024-25,1953
+Luca,Williams-Barnett,689,2024-25,1954
 Alfie,Dorrington,699,2024-25,1730
-Maeson,King,700,2024-25,1934
-Antonín,Kinsky,716,2024-25,1935
-Min-Hyeok,Yang,717,2024-25,1936
-Damola,Ajayi,729,2024-25,1937
-Ange,Postecoglou,749,2024-25,1938
+Maeson,King,700,2024-25,1955
+Antonín,Kinsky,716,2024-25,1956
+Min-Hyeok,Yang,717,2024-25,1957
+Damola,Ajayi,729,2024-25,1958
+Ange,Postecoglou,749,2024-25,1959
+Dante,Cassanova,760,2024-25,1960
+Kevin,Danso,767,2024-25,520
+Mathys,Tel,768,2024-25,1961
+Evan,Ferguson,123,2024-25,1002
 Aaron,Wan-Bissaka,388,2024-25,354
 Edson,Álvarez Velázquez,511,2024-25,1737
 Michail,Antonio,512,2024-25,609
@@ -4449,28 +4474,29 @@ Vladimír,Coufal,516,2024-25,1734
 Aaron,Cresswell,517,2024-25,596
 George,Earthy,519,2024-25,1742
 Emerson,Palmieri dos Santos,520,2024-25,171
-Łukasz,Fabiański,521,2024-25,1939
+Łukasz,Fabiański,521,2024-25,1962
 Wes,Foderingham,522,2024-25,844
 Danny,Ings,523,2024-25,499
 Max,Kilman,524,2024-25,641
 Mohammed,Kudus,525,2024-25,1738
-Luis Guilherme,Lira dos Santos,526,2024-25,1940
+Luis Guilherme,Lira dos Santos,526,2024-25,1963
 Lucas,Tolentino Coelho de Lima,527,2024-25,1450
 Konstantinos,Mavropanos,528,2024-25,7
 Nayef,Aguerd,529,2024-25,1446
 Tomáš,Souček,530,2024-25,1735
+James,Ward-Prowse,531,2024-25,507
 Kurt,Zouma,532,2024-25,187
-Andy,Irving,576,2024-25,1941
+Andy,Irving,576,2024-25,1964
 Crysencio,Summerville,587,2024-25,809
-Guido,Rodríguez,588,2024-25,1942
-Niclas,Füllkrug,589,2024-25,1943
-Jean-Clair,Todibo,591,2024-25,1944
+Guido,Rodríguez,588,2024-25,1965
+Niclas,Füllkrug,589,2024-25,1966
+Jean-Clair,Todibo,591,2024-25,1967
 Kaelan,Casey,643,2024-25,1453
-Carlos,Soler,654,2024-25,1945
-Ollie,Scarles,677,2024-25,1946
-Ezra,Mayers,686,2024-25,1947
+Carlos,Soler,654,2024-25,1968
+Ollie,Scarles,677,2024-25,1969
+Ezra,Mayers,686,2024-25,1970
 Lewis,Orford,701,2024-25,1739
-Graham,Potter,750,2024-25,1948
+Graham,Potter,750,2024-25,1971
 Sam,Johnstone,204,2024-25,882
 Rayan,Aït-Nouri,533,2024-25,1456
 Boubacar,Traoré,534,2024-25,1467
@@ -4494,23 +4520,26 @@ Joe,Hodge,551,2024-25,1745
 Ki-Jana,Hoever,552,2024-25,325
 João Victor,Gomes da Silva,553,2024-25,1474
 José,Malheiro de Sá,554,2024-25,1147
-Saša,Kalajdžić,555,2024-25,1949
+Saša,Kalajdžić,555,2024-25,1972
 Tom,King,556,2024-25,1747
 Mario,Lemina,557,2024-25,510
 Yerson,Mosquera,558,2024-25,1756
 Nélson,Cabral Semedo,559,2024-25,917
-Pedro,Cardoso de Lima,561,2024-25,1950
+Pedro,Cardoso de Lima,561,2024-25,1973
 Daniel,Castelo Podence,562,2024-25,664
-Rodrigo,Martins Gomes,563,2024-25,1951
+Rodrigo,Martins Gomes,563,2024-25,1974
 Santiago,Bueno,564,2024-25,1748
 Pablo,Sarabia,565,2024-25,1472
-Jørgen,Strand Larsen,566,2024-25,1952
+Jørgen,Strand Larsen,566,2024-25,1975
 Toti António,Gomes,567,2024-25,1153
-Bastien,Meupiyou,637,2024-25,1953
-André,Trindade da Costa Neto,642,2024-25,1954
-Carlos Roberto,Forbs Borges,655,2024-25,1955
-Alfie,Pond,664,2024-25,1956
-Tom,Edozie,682,2024-25,1957
-Wes,Okoduwa,711,2024-25,1958
-Emmanuel,Agbadou,720,2024-25,1959
-Vítor Manuel,de Oliveira Lopes Pereira,751,2024-25,1960
+Bastien,Meupiyou,637,2024-25,1976
+André,Trindade da Costa Neto,642,2024-25,1977
+Carlos Roberto,Forbs Borges,655,2024-25,1978
+Alfie,Pond,664,2024-25,1979
+Tom,Edozie,682,2024-25,1980
+Wes,Okoduwa,711,2024-25,1981
+Emmanuel,Agbadou,720,2024-25,1982
+Vítor Manuel,de Oliveira Lopes Pereira,751,2024-25,1983
+Nasser,Djiga,769,2024-25,1984
+Marshall,Munetsi,770,2024-25,1985
+Mateus,Mané,784,2024-25,1986
